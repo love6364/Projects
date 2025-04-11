@@ -1,0 +1,3338 @@
+29/05/2024, 3:40 pm - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.
+29/05/2024, 3:40 pm - Hitesh created group "Data Science info"
+29/05/2024, 3:40 pm - Hitesh added you
+29/05/2024, 3:40 pm - You're now an admin
+29/05/2024, 3:40 pm - You added Prisha
+29/05/2024, 3:42 pm - Hitesh: <Media omitted>
+30/05/2024, 3:01 pm - Hitesh: <Media omitted>
+31/05/2024, 7:35 pm - Hitesh: Complete topics & subtopics of hashtag #SQL for Data Analyst role:-
+
+𝟭. 𝗕𝗮𝘀𝗶𝗰 𝗦𝗤𝗟 𝗦𝘆𝗻𝘁𝗮𝘅:
+SQL keywords
+Data types
+Operators
+SQL statements (SELECT, INSERT, UPDATE, DELETE)
+
+𝟮. 𝗗𝗮𝘁𝗮 𝗗𝗲𝗳𝗶𝗻𝗶𝘁𝗶𝗼𝗻 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 (𝗗𝗗𝗟):
+CREATE TABLE
+ALTER TABLE
+DROP TABLE
+Truncate table
+
+𝟯. 𝗗𝗮𝘁𝗮 𝗠𝗮𝗻𝗶𝗽𝘂𝗹𝗮𝘁𝗶𝗼𝗻 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 (𝗗𝗠𝗟):
+SELECT statement (SELECT, FROM, WHERE, ORDER BY, GROUP BY, HAVING, JOINs)
+INSERT statement
+UPDATE statement
+DELETE statement
+
+𝟰. 𝗔𝗴𝗴𝗿𝗲𝗴𝗮𝘁𝗲 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀:
+SUM, AVG, COUNT, MIN, MAX
+GROUP BY clause
+HAVING clause
+
+𝟱. 𝗗𝗮𝘁𝗮 𝗖𝗼𝗻𝘀𝘁𝗿𝗮𝗶𝗻𝘁𝘀:
+Primary Key
+Foreign Key
+Unique
+NOT NULL
+CHECK
+
+𝟲. 𝗝𝗼𝗶𝗻𝘀:
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+FULL OUTER JOIN
+Self Join
+Cross Join
+
+𝟳. 𝗦𝘂𝗯𝗾𝘂𝗲𝗿𝗶𝗲𝘀:
+Types of subqueries (scalar, column, row, table)
+Nested subqueries
+Correlated subqueries
+
+𝟴. 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗦𝗤𝗟 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀:
+String functions (CONCAT, LENGTH, SUBSTRING, REPLACE, UPPER, LOWER)
+Date and time functions (DATE, TIME, TIMESTAMP, DATEPART, DATEADD)
+Numeric functions (ROUND, CEILING, FLOOR, ABS, MOD)
+Conditional functions (CASE, COALESCE, NULLIF)
+
+𝟵. 𝗩𝗶𝗲𝘄𝘀:
+Creating views
+Modifying views
+Dropping views
+
+𝟭𝟬. 𝗜𝗻𝗱𝗲𝘅𝗲𝘀:
+Creating indexes
+Using indexes for query optimization
+
+𝟭𝟭. 𝗧𝗿𝗮𝗻𝘀𝗮𝗰𝘁𝗶𝗼𝗻𝘀:
+ACID properties
+Transaction management (BEGIN, COMMIT, ROLLBACK, SAVEPOINT)
+Transaction isolation levels
+
+𝟭𝟮. 𝗗𝗮𝘁𝗮 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆:
+Data integrity constraints (referential integrity, entity integrity)
+GRANT and REVOKE statements (granting and revoking permissions)
+Database security best practices
+
+𝟭𝟯. 𝗦𝘁𝗼𝗿𝗲𝗱 𝗣𝗿𝗼𝗰𝗲𝗱𝘂𝗿𝗲𝘀 𝗮𝗻𝗱 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀:
+Creating stored procedures
+Executing stored procedures
+Creating functions
+Using functions in queries
+
+𝟭𝟰. 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻:
+Query optimization techniques (using indexes, optimizing joins, reducing subqueries)
+Performance tuning best practices
+
+𝟭𝟱. 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗦𝗤𝗟 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀:
+Recursive queries
+Pivot and unpivot operations
+Window functions (Row_number, rank, dense_rank, lead & lag)
+CTEs (Common Table Expressions)
+Dynamic SQL
+01/06/2024, 9:22 am - You added Nisarg (Red & White)
+02/06/2024, 10:49 am - Hitesh: <Media omitted>
+02/06/2024, 10:49 am - Hitesh: <Media omitted>
+02/06/2024, 10:49 am - Hitesh: <Media omitted>
+02/06/2024, 10:49 am - Hitesh: <Media omitted>
+03/06/2024, 6:31 pm - Lav: https://youtu.be/4JlmtwH5y94?si=Gz4l3VzQI8zyx-dI
+03/06/2024, 6:36 pm - Lav: <Media omitted>
+04/06/2024, 11:37 am - Hitesh: https://github.com/dair-ai/ML-Papers-of-the-Week?tab=readme-ov-file
+04/06/2024, 10:20 pm - Hitesh: <Media omitted>
+12/06/2024, 1:03 pm - Prisha: <Media omitted>
+12/06/2024, 1:21 pm - Prisha: <Media omitted>
+12/06/2024, 6:03 pm - Hitesh: <Media omitted>
+12/06/2024, 10:51 pm - Lav: https://www.youtube.com/live/XaKn_cKFlSY?si=zuSK0Ay7h6G5ALNQ
+12/06/2024, 10:51 pm - Lav: https://colab.research.google.com/drive/1ksmroQtN_KoCeJzpzPgGAbLv0UG_6G_a?usp=sharing
+12/06/2024, 10:53 pm - Lav: Again Sir YouTube Per Se He Karva rahe hai 😂😅🤯
+12/06/2024, 10:53 pm - Lav: Code File Bhi Same Hai Jesa Maths Me Tha
+12/06/2024, 10:59 pm - Prisha: Mera dinagtkarab kar rakha hai is mc naa toh
+12/06/2024, 11:01 pm - Lav: Vahi to
+13/06/2024, 8:15 am - Hitesh: Ab samjh aaya yaa video dekhne k kyu naa bolta hai 😂🤣🤣
+13/06/2024, 8:16 am - Lav: Ha
+13/06/2024, 8:16 am - Lav: 😂
+13/06/2024, 8:19 am - Hitesh: <Media omitted>
+13/06/2024, 8:20 am - Hitesh: Uss ko bolo ki campusx k subscription hi lee kar padha dee 🤣😂🤣
+13/06/2024, 8:21 am - Lav: <Media omitted>
+13/06/2024, 8:24 am - Hitesh: <Media omitted>
+13/06/2024, 8:24 am - Lav: <Media omitted>
+13/06/2024, 8:43 am - Nisarg (Red & White): <Media omitted>
+13/06/2024, 8:55 am - Hitesh: <Media omitted>
+13/06/2024, 12:25 pm - Nisarg (Red & White): *Pandas profiling :*
+
+pip install ydata-profiling
+
+From ydata_profiling import ProfileReport
+13/06/2024, 12:26 pm - Lav: <Media omitted>
+13/06/2024, 12:26 pm - Lav: <Media omitted>
+13/06/2024, 12:36 pm - Prisha: https://roadmap.sh/data-analyst
+13/06/2024, 12:41 pm - Lav: https://www.navidkp.com/post/the-life-cycle-of-data-collection-cleaning-analysis-and-visualization
+13/06/2024, 2:28 pm - Prisha: https://github.com/heyitsabhijeet/Indian-Airlines-Ticket-Price-Analysis?tab=readme-ov-file
+13/06/2024, 2:35 pm - Prisha: https://www.codecademy.com/journeys/data-scientist-aly/paths/dsalycj-22-data-science-foundations/tracks/dsalycj-22-data-literacy/modules/dsf-introduction-to-data-8ae71d0d-76b9-4073-b999-95a4d03ea369/articles/data-collection
+
+
+
+datasets
+13/06/2024, 3:21 pm - Lav: <Media omitted>
+14/06/2024, 1:57 pm - Lav: <Media omitted>
+14/06/2024, 3:41 pm - Lav: <Media omitted>
+14/06/2024, 6:27 pm - Hitesh: null
+14/06/2024, 6:35 pm - Prisha: 😂😂
+14/06/2024, 9:14 pm - Lav: https://www.instagram.com/reel/C61IqbONWZi/?igsh=MWdrNDRlN2lva2FxYQ==
+14/06/2024, 9:23 pm - Hitesh: <Media omitted>
+14/06/2024, 9:49 pm - Nisarg (Red & White): <Media omitted>
+14/06/2024, 11:29 pm - Nisarg (Red & White): Humlog kidhar hai bc...
+Apanlog ko 6od kr sab ko dikha diya 🥹
+15/06/2024, 3:38 pm - Prisha: Class per koi hai kya practice ki liye
+15/06/2024, 3:38 pm - Prisha: ?
+15/06/2024, 3:47 pm - Nisarg (Red & White): Me to nahi hu
+15/06/2024, 3:49 pm - Prisha: Okay I'll be coming at 4 if anyone wants to join
+15/06/2024, 3:50 pm - Nisarg (Red & White): Me to time pr hi aaunga🥱
+15/06/2024, 3:50 pm - Nisarg (Red & White): So kr 😂
+15/06/2024, 3:50 pm - Prisha: My god 😂😂
+15/06/2024, 3:50 pm - Prisha: Tu sota reh🥱
+15/06/2024, 3:50 pm - Nisarg (Red & White): Han😴
+15/06/2024, 3:53 pm - Nisarg (Red & White): <Media omitted>
+15/06/2024, 3:54 pm - Prisha: <Media omitted>
+15/06/2024, 4:05 pm - Hitesh: I am out off station 😅🚉
+15/06/2024, 4:07 pm - Prisha: Tu enjoy karrr
+15/06/2024, 4:08 pm - Hitesh: <Media omitted>
+15/06/2024, 4:57 pm - Hitesh: <Media omitted>
+16/06/2024, 12:53 am - Prisha: https://www.youtube.com/watch?v=GbL-42kv5LI&list=PLTZYG7bZ1u6rcPlcX75pMkjsYY_HTL7aZ&ab_channel=GoogleCareerCertificates
+17/06/2024, 6:08 pm - Prisha: <Media omitted>
+17/06/2024, 6:10 pm - Hitesh: Itna mat padho yrr mujhe tension hoo Raha ab 😂🤣😂😂😂😂😂😂
+17/06/2024, 6:11 pm - Prisha: U have too😂😂
+17/06/2024, 6:12 pm - Prisha: Thoda ghumna baand karo ab 😂😂
+17/06/2024, 6:12 pm - Hitesh: <Media omitted>
+17/06/2024, 9:23 pm - Hitesh: https://youtu.be/gDZ6czwuQ18?si=tK0_aY-Ck0atJHB6
+17/06/2024, 9:24 pm - Hitesh: 27 hours mai data science complete 😂🤣🤣😂150000 Pani mai 🤣🤣🤣😂😂
+17/06/2024, 9:48 pm - Nisarg (Red & White): <Media omitted>
+19/06/2024, 11:30 am - Nisarg (Red & White): <Media omitted>
+19/06/2024, 11:33 am - Prisha: Iska kyaa
+19/06/2024, 11:34 am - Nisarg (Red & White): Ku6 nai date ka Dtype change krne me error aayi thi mere me to ese format kr ke kr sakte hai
+19/06/2024, 11:34 am - Hitesh: <Media omitted>
+19/06/2024, 11:34 am - Nisarg (Red & White): Sir ne format se nahi kraya hai humko
+19/06/2024, 11:36 am - Prisha: Tum us karo Julius ai
+19/06/2024, 11:37 am - Hitesh: <Media omitted>
+19/06/2024, 11:37 am - Prisha: Made for data analytics
+19/06/2024, 11:38 am - Nisarg (Red & White): Ok
+19/06/2024, 11:39 am - Prisha: Woh help kar sakta hai mena ispe kuch kiya he nhi Mera dusra project chal raha hai na
+19/06/2024, 11:39 am - Nisarg (Red & White): Thik
+19/06/2024, 12:13 pm - Lav: <Media omitted>
+19/06/2024, 12:14 pm - Lav: Main Or Hitesh to Bahar Hi Is Subse...
+19/06/2024, 12:14 pm - Lav: Aj Ane Vala Hai ?
+19/06/2024, 12:15 pm - Hitesh: Kl se regular 😅
+19/06/2024, 12:16 pm - Lav: Thik Hai
+19/06/2024, 12:16 pm - Hitesh: <Media omitted>
+19/06/2024, 12:17 pm - Hitesh: Aaj k exam kesa gaya 🤣🤣😂IPR
+19/06/2024, 12:17 pm - Lav: must
+19/06/2024, 12:17 pm - Lav: Mast*
+19/06/2024, 12:17 pm - Hitesh: <Media omitted>
+19/06/2024, 7:41 pm - Hitesh: जय भारत , 
+सभी विध्यार्थीओ को सूचित किया जाता हे की आपका IPDC का लेक्चर इ Friday के दिन स्टार्ट होने जा रहा हे तो आपका लेक्चर का टाइम सुबह 10 :00 AM का रहेगा  तो compulsory आप सभी विध्यार्थीओ को क्लास attend करना रहेगा | जिसकी सभी विध्यार्थीओ को खास नोंध लेनी रहेगी | 
+
+
+Time : Morning 10 :00 AM  to 11:00 AM
+Place : RW2 (Yogichok Branch ) Theory-4 
+
+
+
+Be On Time 🕰
+19/06/2024, 7:42 pm - Hitesh: Aisa kuch aaya hai kya 👀👀
+19/06/2024, 7:42 pm - Lav: Ha
+19/06/2024, 7:42 pm - Lav: Tere ko Bhi ?
+19/06/2024, 7:42 pm - Hitesh: Toh Jana hai ki nhi.
+19/06/2024, 7:42 pm - Hitesh: 🤣😂😂
+19/06/2024, 7:42 pm - Prisha: Meko bhi aaya me nhi jana wali
+19/06/2024, 7:42 pm - Prisha: Hahah
+19/06/2024, 7:42 pm - Lav: Dekhte Hai
+19/06/2024, 7:42 pm - Prisha: Mast Ghar per aaram karna hai meko yeh time per
+19/06/2024, 7:42 pm - Lav: 😂
+19/06/2024, 7:43 pm - Hitesh: <Media omitted>
+19/06/2024, 7:43 pm - Lav: <Media omitted>
+19/06/2024, 7:54 pm - Nisarg (Red & White): Meri nind bigadne ki sajis chal rahi hai class walo ki🥹
+19/06/2024, 8:00 pm - Hitesh: <Media omitted>
+20/06/2024, 2:37 pm - Lav: <Media omitted>
+20/06/2024, 2:50 pm - Hitesh: Campusx wala syllabus verify Kiya aap logo n ki nhi. 
+
+
+Meri full iccha hoo gai hai subscribtion lena ki. 😅😅
+20/06/2024, 2:50 pm - Lav: Sham Tak Kar De... @919081921022
+20/06/2024, 3:00 pm - Prisha: <Media omitted>
+20/06/2024, 3:00 pm - Prisha: check this out guys
+20/06/2024, 3:01 pm - Lav: Dekha Hai..
+20/06/2024, 3:02 pm - Prisha: Ohhhhh
+20/06/2024, 3:02 pm - Prisha: Mena abhi dekha😂
+20/06/2024, 3:02 pm - Prisha: Univariate multivariate haa isme kucj
+20/06/2024, 3:21 pm - Lav: Ha
+20/06/2024, 3:21 pm - Lav: Tu Aj Plz Ye Kam Karde Apne Friend ko Bol ke ki verify Kari ne key ke karay je ny..
+20/06/2024, 3:22 pm - Lav: 🙃
+20/06/2024, 3:29 pm - Hitesh: <Media omitted>
+20/06/2024, 4:01 pm - Prisha: Okay I'll ask him
+21/06/2024, 10:40 am - Hitesh: <Media omitted>
+21/06/2024, 11:14 am - Hitesh: Aaj ka muhurt dekhkar  lee leta hai 😂😅😅
+21/06/2024, 11:14 am - Prisha: Kya hua??
+21/06/2024, 11:15 am - Prisha: Btw guys I wouldn't be staying back after the class
+21/06/2024, 11:15 am - Prisha: ☹️
+21/06/2024, 11:15 am - Lav: Ha
+21/06/2024, 11:26 am - Hitesh: Kyu kya hua
+21/06/2024, 11:31 am - Hitesh: Toh chlo.
+23/06/2024, 6:19 pm - Nisarg (Red & White): Kal IPDC ke lec me ja rahe ho kya.!?
+23/06/2024, 6:45 pm - Hitesh: Haa
+24/06/2024, 12:52 pm - Hitesh: <Media omitted>
+24/06/2024, 1:43 pm - Hitesh: <Media omitted>
+25/06/2024, 9:32 am - Hitesh: <Media omitted>
+26/06/2024, 10:58 am - Hitesh: This message was deleted
+01/07/2024, 5:02 pm - Hitesh: https://www.kaggle.com/code/bayomars12/starter-heart-disease-dataset-408f5662-7
+02/07/2024, 10:36 am - Hitesh: <Media omitted>
+03/07/2024, 3:00 pm - Prisha: <Media omitted>
+03/07/2024, 3:00 pm - Prisha: <Media omitted>
+03/07/2024, 3:00 pm - Nisarg (Red & White): <Media omitted>
+03/07/2024, 3:01 pm - Nisarg (Red & White): koi gali nahi dega mera data dekh kr..😂😂
+03/07/2024, 3:19 pm - Prisha: can i plsss
+03/07/2024, 3:19 pm - Nisarg (Red & White): <Media omitted>
+03/07/2024, 3:52 pm - Hitesh: <Media omitted>
+04/07/2024, 9:30 am - Prisha: <Media omitted>
+04/07/2024, 9:30 am - Prisha: <Media omitted>
+04/07/2024, 9:41 am - Lav: <Media omitted>
+04/07/2024, 9:41 am - Lav: <Media omitted>
+04/07/2024, 9:41 am - Lav: <Media omitted>
+04/07/2024, 9:42 am - Lav: <Media omitted>
+04/07/2024, 9:42 am - Lav: <Media omitted>
+04/07/2024, 9:42 am - Lav: <Media omitted>
+04/07/2024, 9:42 am - Lav: <Media omitted>
+04/07/2024, 9:43 am - Lav: <Media omitted>
+04/07/2024, 9:43 am - Lav: <Media omitted>
+04/07/2024, 9:43 am - Lav: <Media omitted>
+04/07/2024, 9:47 am - Hitesh: <Media omitted>
+04/07/2024, 12:17 pm - Prisha: <Media omitted>
+04/07/2024, 1:04 pm - Prisha: Follow the Krishan Kumar - Jobs & Internships Updates channel on WhatsApp: https://whatsapp.com/channel/0029Va6I79K60eBfQ92DwH0W
+04/07/2024, 1:15 pm - Prisha: Follow the Atul Kumar - (Jobs - Internships) 🧞 channel on WhatsApp: https://whatsapp.com/channel/0029Va9Rj3F5PO13U9iYGc0b
+04/07/2024, 1:15 pm - Prisha: Follow the Jobs & Valuable Alerts channel on WhatsApp: https://whatsapp.com/channel/0029Va6DCKVLNSaAV3mf4v43
+04/07/2024, 1:16 pm - Nisarg (Red & White): df = pd.read_csv(r'netflix_titles.csv')
+Error :
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xf8 in position 115811: invalid start byte
+
+Solution :
+df = pd.read_csv(r'netflix_titles.csv', encoding= 'unicode_escape')
+04/07/2024, 1:44 pm - Hitesh: Itna mat padhoo sab k sab.
+04/07/2024, 1:44 pm - Prisha: Tu class aa pela chup chap
+04/07/2024, 1:45 pm - Hitesh: <Media omitted>
+04/07/2024, 1:50 pm - Prisha: Kaha hai bhai😂
+04/07/2024, 1:54 pm - Nisarg (Red & White): <Media omitted>
+04/07/2024, 1:59 pm - Prisha: <Media omitted>
+04/07/2024, 2:05 pm - Hitesh: Yaa data fir bhi sahi hai 😂😂 zamato se toh 😂😂
+04/07/2024, 2:11 pm - Prisha: Mena search Kiya naa
+04/07/2024, 2:12 pm - Nisarg (Red & White): Jaldi aa fir panvel nikalna hai..!!
+04/07/2024, 2:12 pm - Nisarg (Red & White): @919925532093
+05/07/2024, 9:20 am - Hitesh: This message was deleted
+05/07/2024, 9:56 am - Hitesh: <Media omitted>
+05/07/2024, 9:56 am - Hitesh: <Media omitted>
+05/07/2024, 9:56 am - Hitesh: <Media omitted>
+05/07/2024, 9:56 am - Hitesh: <Media omitted>
+05/07/2024, 9:56 am - Hitesh: <Media omitted>
+05/07/2024, 11:10 am - Lav: Aj Exan Ke Liye Jana Hai ???
+05/07/2024, 11:10 am - Lav: Ghar se Kar Lenge...
+05/07/2024, 11:11 am - Nisarg (Red & White): Kaho sir ko😛😅
+05/07/2024, 11:11 am - Prisha: U can come anytime esa hai
+05/07/2024, 11:11 am - Prisha: Toh aaj 2 ko jana hai?
+05/07/2024, 11:11 am - Prisha: Yeh bhi sahi hai
+05/07/2024, 11:12 am - Prisha: Yes iss lav
+05/07/2024, 11:12 am - Lav: Muje to jana Hi Nahi Hai🙃
+05/07/2024, 11:12 am - Prisha: Tum bolo naa sir ko kisko Jana hai 😂
+05/07/2024, 11:12 am - Nisarg (Red & White): Thoda late process huaa uska 😂
+05/07/2024, 11:12 am - Prisha: Excel ka class nhi attend karna😂
+05/07/2024, 11:12 am - Prisha: 🤣🤣
+05/07/2024, 11:12 am - Lav: Thik Hai Karta hu Message Vese Bhi kal Dekhana Hi Hai...
+05/07/2024, 11:12 am - Prisha: Morning nisharg
+05/07/2024, 11:13 am - Prisha: Wahiiii
+05/07/2024, 11:13 am - Lav: Vahi
+05/07/2024, 11:13 am - Nisarg (Red & White): 8 baje ho gai thi morning wese meri🥹
+05/07/2024, 11:13 am - Lav: 😂
+05/07/2024, 11:15 am - Prisha: Aarey whaa Aaj Suraj kaha se aaya 😂
+05/07/2024, 11:16 am - Nisarg (Red & White): @917383165330 ye sahi hai...pu6a nahi ki sir aaj nahi aa rahe hum..
+Sidha bola ki hum to nai aa rahe 😂🤣
+05/07/2024, 11:17 am - Lav: <Media omitted>
+05/07/2024, 11:18 am - Nisarg (Red & White): Ye exam ke chakkar me etna thak jata hu ki rat ko khana kha kr 1-2h me nind aa jati hai or fir subah galti se jaldi uth jata hu✌🏻🥹 <This message was edited>
+05/07/2024, 12:03 pm - Prisha: Halat karab hai sabki yaha
+05/07/2024, 12:10 pm - Hitesh: <Media omitted>
+05/07/2024, 12:11 pm - Nisarg (Red & White): Uth ja ab 😂
+05/07/2024, 12:13 pm - Hitesh: Aap log classes aaa raha ho kya
+05/07/2024, 12:14 pm - Hitesh: Mera 2 beja wala lecture toh cancel hogya hai aaj k
+05/07/2024, 12:14 pm - Hitesh: 😶
+05/07/2024, 12:14 pm - Nisarg (Red & White): Nahi aa rahe wese..!!
+05/07/2024, 12:20 pm - Hitesh: <Media omitted>
+05/07/2024, 12:41 pm - Lav: Nahi Jane Vale..
+05/07/2024, 12:45 pm - Prisha: Shanti yarrr🥱😮‍💨😌
+05/07/2024, 1:40 pm - Prisha: <Media omitted>
+05/07/2024, 1:40 pm - Prisha: binary is like yes no true false man women exz...
+05/07/2024, 4:36 pm - Prisha: 😂😂
+06/07/2024, 12:08 am - Hitesh: Hello guyssss
+06/07/2024, 12:08 am - Hitesh: Any one.
+06/07/2024, 12:08 am - Hitesh: ?
+06/07/2024, 12:08 am - Lav: Ha Bolo
+06/07/2024, 12:28 am - Nisarg (Red & White): <Media omitted>
+06/07/2024, 12:28 am - Hitesh: <Media omitted>
+06/07/2024, 12:32 am - Nisarg (Red & White): <Media omitted>
+06/07/2024, 1:29 am - Prisha: Hiiu
+06/07/2024, 1:31 am - Prisha: null
+06/07/2024, 1:32 am - Lav: Mera Pura Baki.. Hai Kal Morning me Hoga Ab. Dataset Hi Mila Aj To
+06/07/2024, 1:32 am - Prisha: Bohot time lagega kar de abhi se chalu
+06/07/2024, 1:33 am - Prisha: Meko bhi kuch 10 ko mila abhi half way hua
+06/07/2024, 1:33 am - Lav: <Media omitted>
+06/07/2024, 1:33 am - Lav: Vahi Soch Raha Hu Ki Kab Hoga
+06/07/2024, 1:33 am - Prisha: Meri halat karab ho gai hai
+06/07/2024, 1:34 am - Prisha: I was doing it 4 hours straight mera dimag ghum raha hai
+06/07/2024, 1:34 am - Lav: 😂
+06/07/2024, 1:34 am - Prisha: But Mera dataset thoda esay tha
+06/07/2024, 1:34 am - Lav: Kal Mere Bari
+06/07/2024, 1:34 am - Prisha: 😂🥲
+06/07/2024, 1:34 am - Lav: Ha Mera Bhi Easy Dikh Raha Hai
+06/07/2024, 1:34 am - Prisha: Mera abhi baki haa
+06/07/2024, 1:34 am - Prisha: Mode wala
+06/07/2024, 1:35 am - Prisha: Like woh karna hoga na one hot and all
+06/07/2024, 1:35 am - Prisha: Toh bass
+06/07/2024, 1:35 am - Lav: Or Ha Kitne Question karne Hai ?
+06/07/2024, 1:35 am - Prisha: I had clean data side by side so thoda aasan hua
+06/07/2024, 1:35 am - Prisha: Isme toh I did 5 including correlation
+06/07/2024, 1:36 am - Lav: Ye Sub Bhi Ata Hai..😵 Main To Bol Dunga Ki Sir Apne Videos hi nahi Bheje.. Jitna Hoga Utna Karke Graph plot kar Dunga
+06/07/2024, 1:38 am - Prisha: 😂😂😂
+06/07/2024, 1:38 am - Prisha: Nhi nhi bass one hot kar le if u know
+06/07/2024, 1:39 am - Prisha: Or I'll help u tu 1 ya 2 ko aaja class
+06/07/2024, 1:40 am - Lav: Ha dekhta Hu College Ke Submission Pe Depend Hai...Ager Jaldi Khatam Ho Gaya To Message Kar Dunga varna Jitna Ata Hai Utna Kar dunga
+06/07/2024, 1:40 am - Prisha: Ohh haa re
+06/07/2024, 1:40 am - Prisha: Koi nai re chalta hai re
+06/07/2024, 1:41 am - Lav: Chalo..Fir Milte Hai Kal
+06/07/2024, 1:41 am - Lav: 😴
+06/07/2024, 1:41 am - Prisha: Yesss gn gn
+06/07/2024, 1:54 pm - Prisha: Koi class aaj thoda jaldi aa raha hai kya
+06/07/2024, 1:55 pm - Nisarg (Red & White): Nai
+06/07/2024, 1:55 pm - Hitesh: <Media omitted>
+06/07/2024, 1:56 pm - Prisha: 😂😂
+06/07/2024, 1:56 pm - Prisha: Then I'll come
+06/07/2024, 3:11 pm - Hitesh: null
+07/07/2024, 12:07 pm - Hitesh: <Media omitted>
+07/07/2024, 12:18 pm - Prisha: https://www.youtube.com/watch?v=gUmagAluXpk
+07/07/2024, 12:20 pm - Nisarg (Red & White): <Media omitted>
+07/07/2024, 12:20 pm - Hitesh: <Media omitted>
+07/07/2024, 12:20 pm - Prisha: sachi dekh yarr
+07/07/2024, 12:20 pm - Prisha: leave it hitesh koi nai🥲
+07/07/2024, 12:20 pm - Hitesh: Dekh raha hu 😅
+07/07/2024, 12:20 pm - Prisha: okk
+07/07/2024, 12:21 pm - Prisha: https://www.youtube.com/watch?v=iwtd2MK58sE
+07/07/2024, 12:21 pm - Prisha: after the 1 one watch this
+07/07/2024, 7:47 pm - Hitesh: Done ✅
+07/07/2024, 11:37 pm - Prisha: <Media omitted>
+08/07/2024, 10:39 am - Prisha: Oye
+08/07/2024, 10:39 am - Prisha: Tum mesa kisi ka bhi parents ko call aaya ki ptm hai??
+08/07/2024, 10:40 am - Prisha: Mera dimag karab ho gaya hai ab
+08/07/2024, 10:40 am - Prisha: Toh
+08/07/2024, 10:40 am - Lav: Pata Nahi
+08/07/2024, 10:40 am - Lav: Me To College pe hu
+08/07/2024, 10:40 am - Prisha: Mera dimag ka bc kiya is milan na
+08/07/2024, 10:40 am - Lav: Kab ka Bola Hai PTM ka ?
+08/07/2024, 10:40 am - Prisha: Mayur na
+08/07/2024, 10:40 am - Hitesh: Mera ghar aaya hai
+08/07/2024, 10:40 am - Nisarg (Red & White): Saturday ko aaya tha mere ghar pr call..!!
+08/07/2024, 10:40 am - Prisha: Bolta hai mom dad chahiye on 10th at 8pm
+08/07/2024, 10:41 am - Lav: 😂 Fikh Raha Hai Tera Dimang Kharab hai Vo...Name bhi bhul gy
+08/07/2024, 10:41 am - Nisarg (Red & White): Pm.?
+08/07/2024, 10:41 am - Prisha: Same bhai meri maa bolti ab jaungi coz I said mat jaa
+08/07/2024, 10:41 am - Prisha: Yaaa shayad
+08/07/2024, 10:41 am - Hitesh: Raat ko kon rakhta hai pagal hai kya yaa log
+08/07/2024, 10:41 am - Prisha: Pata nhi bhai
+08/07/2024, 10:41 am - Lav: Shamko Hai ?
+08/07/2024, 10:41 am - Prisha: Mayur ka my band karana haa
+08/07/2024, 10:41 am - Lav: Nisarg ??
+08/07/2024, 10:41 am - Lav: Tere Ko kab ka Bola
+08/07/2024, 10:41 am - Lav: ?
+08/07/2024, 10:42 am - Prisha: Mera dimag karab ho gaya hai
+08/07/2024, 10:42 am - Nisarg (Red & White): Saturday hi bol rahe the wo to
+08/07/2024, 10:42 am - Lav: Aj Kill Mat kar Dena
+08/07/2024, 10:42 am - Lav: Jake🤣
+08/07/2024, 10:42 am - Lav: Din me ?
+08/07/2024, 10:42 am - Prisha: Offf bhai Mera dad kko bula raha hai me toh marungi maa
+08/07/2024, 10:42 am - Lav: Are Jab Icha Ho Tab Jana Hum Last Time bhi vese hi kiya tha na
+08/07/2024, 10:43 am - Prisha: Mera dad teko nhi pata kesa hai woh Kai bhi wesa bhi nhi aati but meri mom pata nhi kya boligi
+08/07/2024, 10:43 am - Nisarg (Red & White): Pn meri sister pura din hospital me hi rehti hai to unko esa bola nahi...k ye time pe aa jao...
+Free ho to aana esa bola...agar aa sake to jarur aana esa kr k
+08/07/2024, 10:43 am - Prisha: Ohhh
+08/07/2024, 10:43 am - Nisarg (Red & White): Ha na...
+08/07/2024, 10:43 am - Prisha: Hum pata hai parents ko bolti hai morning ko bulaya hai
+08/07/2024, 10:43 am - Prisha: Best
+08/07/2024, 10:43 am - Prisha: 😂
+08/07/2024, 10:43 am - Hitesh: 🤣😂😂
+08/07/2024, 10:44 am - Prisha: But class toh close ho jata hai naa
+08/07/2024, 10:44 am - Prisha: 7 ko
+08/07/2024, 10:44 am - Hitesh: <Media omitted>
+08/07/2024, 10:44 am - Nisarg (Red & White): Ha me bhi wahi sodhu...pm kese ho sakta hai 😂
+08/07/2024, 10:44 am - Prisha: Toh best hai raat ko rehna de fir woh log jaki ek round marki aa jainga😂😂
+08/07/2024, 10:44 am - Lav: Tu Maze le bhai
+08/07/2024, 10:44 am - Prisha: Meko nhi chahiye toh Mera dad se mila
+08/07/2024, 10:44 am - Prisha: 😂😂😂
+08/07/2024, 10:44 am - Hitesh: Mom ko lee kar aao 😂🤣
+08/07/2024, 10:45 am - Hitesh: <Media omitted>
+08/07/2024, 10:45 am - Prisha: Bhai meri toh mom dad dono
+08/07/2024, 10:45 am - Prisha: I will not come
+08/07/2024, 10:45 am - Prisha: I will say jao na meri college exam hai
+08/07/2024, 10:45 am - Lav: <Media omitted>
+08/07/2024, 10:45 am - Prisha: 😂😂
+08/07/2024, 10:45 am - Prisha: Meri mom bolti hai sir rukangi dehlkhna raat ko 8 ko
+08/07/2024, 10:45 am - Lav: Haha
+08/07/2024, 10:45 am - Prisha: I said okay😂😂
+08/07/2024, 10:46 am - Prisha: Ab unko Jana de 8 ko
+08/07/2024, 10:46 am - Lav: Koy ni Jab Icha Ho Free Ho or Main Mood Ho tab Jana Hai
+08/07/2024, 10:46 am - Prisha: 😂😂😂
+08/07/2024, 10:46 am - Prisha: For real
+08/07/2024, 10:46 am - Prisha: Ab maza aai ga
+08/07/2024, 10:46 am - Lav: Kya karege
+08/07/2024, 10:46 am - Prisha: Jana do Mera dad toh paka ghussa hunga ki time nhi diya and all
+08/07/2024, 10:47 am - Hitesh: Mera ghar se toh bhaiya aaya g
+08/07/2024, 10:47 am - Hitesh: 😂🤣
+08/07/2024, 10:47 am - Lav: Aj excel ka kitne baje hai ?
+08/07/2024, 10:47 am - Lav: Tere ko bhi aya ?
+08/07/2024, 10:47 am - Hitesh: Haa
+08/07/2024, 10:47 am - Lav: Tu or Nisarg To Favorite Student hai
+08/07/2024, 10:47 am - Hitesh: 3 beja k bad hi hoga
+08/07/2024, 10:48 am - Lav: Target to Prish hai
+08/07/2024, 10:48 am - Hitesh: 😂🤣🤣 me
+08/07/2024, 10:48 am - Lav: Thik hai
+08/07/2024, 10:48 am - Hitesh: <Media omitted>
+08/07/2024, 10:48 am - Nisarg (Red & White): Me to class me aaunga direct
+08/07/2024, 10:49 am - Nisarg (Red & White): Viral fever ho gaya hai mujhe to man to nai hai aaneka pr aaunga class me...new start ho raha hai to
+08/07/2024, 10:49 am - Hitesh: <Media omitted>
+08/07/2024, 10:49 am - Prisha: 3 ig
+08/07/2024, 10:49 am - Prisha: Sir ko pucha yar
+08/07/2024, 10:49 am - Prisha: Aaj Mera react ki exam hai
+08/07/2024, 10:49 am - Prisha: I am done in my life
+08/07/2024, 10:49 am - Prisha: 😭😭
+08/07/2024, 10:49 am - Hitesh: Aree
+08/07/2024, 10:50 am - Prisha: Bhai take caree
+08/07/2024, 10:50 am - Prisha: Har barrrrr😭😭😭😭😭
+08/07/2024, 10:50 am - Lav: Ye To suruat Hai
+08/07/2024, 10:50 am - Nisarg (Red & White): Ya🥹
+08/07/2024, 10:50 am - Hitesh: Doctor k dikhoo Deva pani loo thik hoo jaao g <This message was edited>
+08/07/2024, 10:50 am - Lav: Mere Ghare pe to nahi Aya Abhi
+08/07/2024, 10:50 am - Lav: Call
+08/07/2024, 10:50 am - Lav: Prr Aa Jayega..
+08/07/2024, 10:50 am - Lav: 😂
+08/07/2024, 10:50 am - Nisarg (Red & White): Are pura family hi doctor se bhara oada hai mera 😂
+08/07/2024, 10:51 am - Nisarg (Red & White): Luv ke hath me hai kya aaj ka class.!??🤔
+08/07/2024, 10:51 am - Hitesh: <Media omitted>
+08/07/2024, 10:51 am - Hitesh: <Media omitted>
+08/07/2024, 10:52 am - Nisarg (Red & White): Luv be like... Ye to tumhara golden period chal raha tha...bura to ab hoga 🤣🤣🤣
+08/07/2024, 10:52 am - Lav: <Media omitted>
+08/07/2024, 10:53 am - Hitesh: <Media omitted>
+08/07/2024, 10:53 am - Lav: Ha
+08/07/2024, 10:53 am - Lav: Pata Nahi Kitna Time Lagega
+08/07/2024, 10:53 am - Lav: Message karta hu
+08/07/2024, 10:54 am - Lav: Tum Log Dene Vale ho Presentation ?
+08/07/2024, 10:54 am - Nisarg (Red & White): Pata nahi esa ku6 bola nahi sir ne
+08/07/2024, 10:54 am - Hitesh: <Media omitted>
+08/07/2024, 1:56 pm - Hitesh: <Media omitted>
+08/07/2024, 2:32 pm - Nisarg (Red & White): Are rehne deti na kyu pu6a..!!🥹
+08/07/2024, 2:32 pm - Nisarg (Red & White): @919081921022
+08/07/2024, 2:33 pm - Nisarg (Red & White): @917383165330 kya status hai.?
+08/07/2024, 2:33 pm - Hitesh: <Media omitted>
+08/07/2024, 2:33 pm - Nisarg (Red & White): Are prisha ne group me class ka time pu6a
+08/07/2024, 2:34 pm - Nisarg (Red & White): Betho na aram se...sir bulaye tab janeka nahi bole to 6utti.. thats why i said this.!!
+08/07/2024, 2:35 pm - Nisarg (Red & White): Or i hope ki luv ka na ho to sir hum dono ko bhi na bulaye
+08/07/2024, 2:35 pm - Nisarg (Red & White): <Media omitted>
+08/07/2024, 2:37 pm - Hitesh: <Media omitted>
+08/07/2024, 4:59 pm - Prisha: Hello
+08/07/2024, 4:59 pm - Prisha: null
+08/07/2024, 4:59 pm - Lav: bolo
+08/07/2024, 4:59 pm - Prisha: Sir na kya bola
+08/07/2024, 5:00 pm - Lav: Lecture chl raha hai
+08/07/2024, 5:01 pm - Prisha: Sir na kuch bola
+08/07/2024, 5:01 pm - Prisha: Me aa jao kya bolo
+08/07/2024, 5:01 pm - Prisha: Sir mar dinga
+08/07/2024, 5:01 pm - Prisha: Bohot imp padaya
+08/07/2024, 5:01 pm - Prisha: Dude 🥲
+08/07/2024, 5:10 pm - Prisha: Guys plsss reply kardoo
+08/07/2024, 5:12 pm - Prisha: @917096814375 @917383165330 ?
+08/07/2024, 5:12 pm - Prisha: Pls
+08/07/2024, 5:14 pm - Hitesh: @917383165330
+08/07/2024, 5:14 pm - Hitesh: @917096814375
+08/07/2024, 5:14 pm - Prisha: Y is it so diff 😭
+08/07/2024, 5:29 pm - Prisha: Guyss pls say yes no atleast
+08/07/2024, 5:52 pm - Lav: Are Sir Bol Rahe The ki Phone Rakh Do
+08/07/2024, 5:52 pm - Lav: Isliye
+08/07/2024, 5:52 pm - Lav: Khatam Ho gaya
+08/07/2024, 5:52 pm - Lav: Lecture Sir Recording Bhej Denge...Tum ko
+08/07/2024, 6:31 pm - Prisha: Okay toh fir thik hai yar
+08/07/2024, 6:33 pm - Lav: Haan
+08/07/2024, 6:33 pm - Prisha: Sir na kuch bola kya
+08/07/2024, 6:33 pm - Prisha: Tumna meko call Kiya hota naa ki abhi tak nhi aai and all
+08/07/2024, 6:34 pm - Lav: Nahi..Hum Start karte hai usko Recording bhej denge
+08/07/2024, 6:34 pm - Prisha: Toh me uth jata idk when I slept only
+08/07/2024, 6:34 pm - Prisha: Ohh okay
+08/07/2024, 6:34 pm - Lav: Sir ne kiya to
+08/07/2024, 6:34 pm - Lav: Sir bol rahe the ki call anhi uthaya
+08/07/2024, 6:34 pm - Lav: fir humne start kiya
+08/07/2024, 6:34 pm - Prisha: Ohh got it
+08/07/2024, 6:34 pm - Lav: Hota...Usme kya..
+08/07/2024, 6:34 pm - Prisha: Sir bolanga dekhna
+08/07/2024, 6:35 pm - Prisha: Kal tum log me se koi jaldi aa sakta hai
+08/07/2024, 6:35 pm - Lav: sun lena
+08/07/2024, 6:35 pm - Lav: Mera To College pe depend hai
+08/07/2024, 6:35 pm - Prisha: Aaj ka topic difficult tha
+08/07/2024, 6:35 pm - Prisha: Gotchaa
+08/07/2024, 6:35 pm - Lav: Nahi Introduction hi tha sirf
+08/07/2024, 6:35 pm - Prisha: Toh thik hai yar
+08/07/2024, 6:35 pm - Lav: Haan
+08/07/2024, 6:36 pm - Prisha: Thanks yarr
+08/07/2024, 7:03 pm - Nisarg (Red & White): Mere jesa mat bano re tum sab 😂😂
+08/07/2024, 7:04 pm - Hitesh: <Media omitted>
+09/07/2024, 7:32 pm - Lav: प्रिय विद्यार्थी,
+
+नमस्ते।
+
+हम आपके शैक्षणिक प्रदर्शन और व्यवहार पर चर्चा करने के लिए एक माता-पिता शिक्षक बैठक का आयोजन कर रहे हैं। कृपया अपने माता-पिता या अभिभावकों को इस बैठक के बारे में सूचित करें और उन्हें इसमें भाग लेने के लिए प्रोत्साहित करें।
+
+बैठक का विवरण निम्नानुसार है:
+
+Date : 10/07/2024 
+Time : 8:30 PM
+Place : RW2 (Yogichok Branch)
+Location : https://maps.app.goo.gl/AKSfkrVHUSBQNZwj6
+
+यह महत्वपूर्ण है कि आपके माता-पिता या अभिभावक इस बैठक में उपस्थित हों ताकि हम आपके शैक्षिक विकास और अन्य महत्वपूर्ण मुद्दों पर चर्चा कर सकें।
+
+धन्यवाद।
+
+सादर,
+Red And White Multimedia Education.
+7650050059
+
+Be On Time 🕰
+09/07/2024, 7:33 pm - Lav: Bola Thana Ki Common Hai koy Dhyan Nahi Dega Ki Kon Aya Or Kon Gaye
+09/07/2024, 7:45 pm - Prisha: 😂😂
+09/07/2024, 7:46 pm - Nisarg (Red & White): To fir ja rahe hai kya perents.!?😅
+09/07/2024, 7:56 pm - Lav: Nahi
+09/07/2024, 7:59 pm - Nisarg (Red & White): @919081921022 
+@919925532093 
+?
+09/07/2024, 8:01 pm - Hitesh: <Media omitted>
+09/07/2024, 8:06 pm - Prisha: Hello
+09/07/2024, 8:06 pm - Prisha: Discord
+09/07/2024, 8:06 pm - Prisha: ??
+09/07/2024, 8:06 pm - Prisha: Dsa
+09/07/2024, 8:07 pm - Hitesh: Yeah 🫴🏻
+09/07/2024, 8:07 pm - Lav: Im Out 2-3 Bad... Sunday ke Bad...
+09/07/2024, 8:07 pm - Prisha: Okkk
+09/07/2024, 8:07 pm - Prisha: Give me 15-20 mins
+09/07/2024, 8:07 pm - Hitesh: <Media omitted>
+09/07/2024, 8:07 pm - Hitesh: Ok
+09/07/2024, 8:50 pm - Nisarg (Red & White): Kal aa rahi ho 8 baje ptm.!?
+09/07/2024, 9:16 pm - Prisha: Nhi ree
+09/07/2024, 9:17 pm - Nisarg (Red & White): <Media omitted>
+09/07/2024, 9:39 pm - Lav: But kal Sir Kobkuch mat Bolna.... Sir Ko To Yahi Bol na Ki Ane Vale Hai
+09/07/2024, 9:39 pm - Lav: Varna Vapas Se Call Karnge
+09/07/2024, 9:39 pm - Prisha: Done doneee
+09/07/2024, 9:39 pm - Prisha: True😂😂
+09/07/2024, 9:42 pm - Nisarg (Red & White): Or dusre din fir feedback lenge kyu nahi aaye the kal
+09/07/2024, 9:43 pm - Lav: Tab Kuch nahi kar Payenge Sir... or Ager Kal Pata Chala To Sir Bohot Kuch kar shakte hai
+09/07/2024, 11:44 pm - Hitesh: <Media omitted>
+10/07/2024, 11:56 am - Hitesh: <Media omitted>
+10/07/2024, 12:37 pm - Nisarg (Red & White): Guys.. meri sister ko bola pr wo bol rahi hai ki mujhse juth nahi bola jayega sir ka call aayega to li kyu nahi aaye or sab..!!
+To me ja raha hu aaj😐
+10/07/2024, 12:39 pm - Prisha: 😂😂😂
+10/07/2024, 12:39 pm - Prisha: L lag gaiii oyeee L lag gaii😂
+10/07/2024, 12:40 pm - Prisha: I wish meko call na aai ab 😂
+10/07/2024, 12:44 pm - Lav: Bol na Mat Ki Nahi Ayenge
+10/07/2024, 12:44 pm - Lav: Baki Kal To Sub Sambhal Lenge
+10/07/2024, 12:48 pm - Prisha: Haa wahi truee
+10/07/2024, 12:49 pm - Prisha: Hum esa he rakhunga ki parents have to come
+10/07/2024, 12:54 pm - Hitesh: <Media omitted>
+10/07/2024, 1:02 pm - Nisarg (Red & White): Or me bata dunga ki mujhe esa ku6 kaha nahi hai
+10/07/2024, 1:02 pm - Nisarg (Red & White): Ki aa rahe hai ki nahi tum sab log
+10/07/2024, 1:11 pm - Lav: Tum Kuch Bolna Hi Mat Bol Dena Muje Kuch Pata Nhi
+10/07/2024, 1:11 pm - Nisarg (Red & White): Wahi to bola mene
+10/07/2024, 1:11 pm - Lav: Ha
+10/07/2024, 3:44 pm - Lav: @917096814375  Where R U .
+10/07/2024, 3:44 pm - Lav: ?
+10/07/2024, 3:52 pm - Hitesh: <Media omitted>
+10/07/2024, 3:53 pm - Hitesh: <Media omitted>
+10/07/2024, 3:54 pm - Nisarg (Red & White): Nikla abhi ghar se
+10/07/2024, 3:56 pm - Nisarg (Red & White): Excel ka class nahi hai kya aaj!?
+10/07/2024, 3:56 pm - Nisarg (Red & White): 4.15 tak aa jaunga
+10/07/2024, 3:56 pm - Lav: Katam Ho Gaye
+10/07/2024, 3:57 pm - Nisarg (Red & White): Ok
+10/07/2024, 3:57 pm - Nisarg (Red & White): Wese bhi sir ko setup krne me utna ho hi jayega to
+10/07/2024, 3:59 pm - Hitesh: <Media omitted>
+10/07/2024, 5:05 pm - Hitesh: <Media omitted>
+10/07/2024, 5:06 pm - Hitesh: Bhai ek number latest news mili hai.
+10/07/2024, 5:06 pm - Hitesh: Last mai mil kar jana 😂😂
+10/07/2024, 5:08 pm - Nisarg (Red & White): 🌝
+10/07/2024, 5:45 pm - Prisha: What is change role
+10/07/2024, 8:38 pm - Prisha: Bhai Mera ghar wala
+10/07/2024, 8:38 pm - Prisha: Gai hai
+10/07/2024, 8:38 pm - Prisha: 😭😭😭😭
+10/07/2024, 8:38 pm - Prisha: Mekkoo lagta hai kuch hoga
+10/07/2024, 8:38 pm - Prisha: Mera sath he kyu hota hai
+10/07/2024, 8:39 pm - Lav: mere ghar se koy nahi gaya
+10/07/2024, 8:41 pm - Prisha: Wow yar🥲
+10/07/2024, 8:41 pm - Prisha: Lucky lucky
+10/07/2024, 8:41 pm - Prisha: Mera toh lag gaii
+10/07/2024, 8:41 pm - Prisha: I hope sab acha hoi
+10/07/2024, 8:42 pm - Nisarg (Red & White): Teri mom hai na..!!
+Wo mere pi6e hi aaye 😂🤣
+10/07/2024, 8:43 pm - Hitesh: Same 🤣🤣
+10/07/2024, 8:43 pm - Hitesh: Kuch nhi hoga
+10/07/2024, 8:43 pm - Prisha: Tu bhi hai waha??
+10/07/2024, 8:43 pm - Hitesh: Be carm
+10/07/2024, 8:43 pm - Prisha: Bhaiii
+10/07/2024, 8:43 pm - Nisarg (Red & White): Ha tu hai.?
+10/07/2024, 8:43 pm - Prisha: Nhi ree toh me milti naa
+10/07/2024, 8:43 pm - Prisha: I was like tum jao
+10/07/2024, 8:43 pm - Prisha: 😂
+10/07/2024, 8:43 pm - Nisarg (Red & White): 🥹
+10/07/2024, 8:43 pm - Prisha: Meko dar lag raha haji
+10/07/2024, 8:43 pm - Prisha: Kitna parents have waha
+10/07/2024, 8:44 pm - Prisha: Tu meri mom Ko janta hai??
+10/07/2024, 8:44 pm - Nisarg (Red & White): <Media omitted>
+10/07/2024, 8:44 pm - Nisarg (Red & White): Nahi re 😂
+10/07/2024, 8:44 pm - Prisha: 😂😂
+10/07/2024, 8:44 pm - Prisha: Toh fir how do uk my mom was behind u
+10/07/2024, 8:44 pm - Prisha: Like pucha aai
+10/07/2024, 8:44 pm - Prisha: Esa
+10/07/2024, 8:44 pm - Prisha: 🤦🏻😂😂
+10/07/2024, 8:44 pm - Nisarg (Red & White): Attendance le rahe the to mene krvai or fir pi6e se aavaz aayi prisha esa kr k
+10/07/2024, 8:45 pm - Nisarg (Red & White): Or fir sir aaye to bole ye sir padhate hai
+10/07/2024, 8:45 pm - Nisarg (Red & White): To confirm ho gaya tumhare hi parents hai 😅
+10/07/2024, 8:45 pm - Nisarg (Red & White): 15-20 honge
+10/07/2024, 8:45 pm - Prisha: 😂😂😂😂😂😂😂
+10/07/2024, 8:45 pm - Prisha: Wtf
+10/07/2024, 8:45 pm - Prisha: Meri lag gaii fir toh
+10/07/2024, 8:45 pm - Prisha: Bhai 😭😭😭😭😭😭😭
+10/07/2024, 8:45 pm - Hitesh: Yrr
+10/07/2024, 8:45 pm - Prisha: 😭😭😭😭😭😭😭😭
+10/07/2024, 8:46 pm - Prisha: Meko nhi chahiye meri maaa aai waha
+10/07/2024, 8:46 pm - Nisarg (Red & White): Aagr main hall jaisa hai waha sofe hai sab wo pura bhar gya atha
+10/07/2024, 8:46 pm - Prisha: Kya bakwas hai yar
+10/07/2024, 8:46 pm - Prisha: Photo send kar
+10/07/2024, 8:46 pm - Nisarg (Red & White): Are bekar ten le rahi ho tum esa ku6 nahi hone wala
+10/07/2024, 8:46 pm - Prisha: Meko aana chahiye tha to go jaya
+10/07/2024, 8:46 pm - Nisarg (Red & White): Pgl hai kya sab bethe hai photo kese khivhu
+10/07/2024, 8:47 pm - Nisarg (Red & White): 🤣🤣🤣
+10/07/2024, 8:47 pm - Prisha: 😂😂😂
+10/07/2024, 8:47 pm - Nisarg (Red & White): Sochenge je ka challa hai
+10/07/2024, 8:47 pm - Prisha: Kuch karki send kar esa nicha se le
+10/07/2024, 8:47 pm - Prisha: 😂😂😂😂😂
+10/07/2024, 8:47 pm - Nisarg (Red & White): Gaye re abhi wo log
+10/07/2024, 8:47 pm - Nisarg (Red & White): Andar gaye
+10/07/2024, 8:47 pm - Prisha: Meko tension haa yar tum bol rahi ho ki10-15 ppl
+10/07/2024, 8:47 pm - Prisha: And fir sofa and hall samaj nhi aa raha
+10/07/2024, 8:48 pm - Nisarg (Red & White): Are wo sab k samne bachhoki beizti thodi na krenge
+10/07/2024, 8:48 pm - Nisarg (Red & White): Ek ek ko pakad kr
+10/07/2024, 8:48 pm - Nisarg (Red & White): Call pr baat to hui thi na hamare bare me
+10/07/2024, 8:48 pm - Nisarg (Red & White): To ku6 or kahenge yaha
+10/07/2024, 8:48 pm - Nisarg (Red & White): Esa mujhe lag raha hai
+10/07/2024, 8:48 pm - Nisarg (Red & White): Varna ek sath sabko nahi bulate na
+10/07/2024, 8:48 pm - Prisha: Ma'am toh meri mom Ko bolinga ki prisha fight mode mei thi kal😂😂
+10/07/2024, 8:48 pm - Nisarg (Red & White): Agr students ke progress ki baat krni hoti to har baar alag kyu bulaye hai
+10/07/2024, 8:49 pm - Prisha: But I thought sab ko bulaya hai toh kafi parents honga
+10/07/2024, 8:49 pm - Prisha: Yarrr
+10/07/2024, 8:49 pm - Prisha: Truee yar
+10/07/2024, 8:49 pm - Nisarg (Red & White): Honge nahi hai 😅
+10/07/2024, 8:49 pm - Nisarg (Red & White): Ha to chill kr ten mat le 😅
+10/07/2024, 8:49 pm - Prisha: Meri mom Ko to karna hota hai isme Mera tension high ho jata hai
+10/07/2024, 8:49 pm - Nisarg (Red & White): <Media omitted>
+10/07/2024, 8:50 pm - Prisha: Meri mom bolti hai Tuna kuch kiya hai kya tu meko kyu na bol rahi hai jana ko toh I was like ab toh tum jaougi😂
+10/07/2024, 8:50 pm - Prisha: 🥲🥺😮‍💨
+10/07/2024, 8:50 pm - Nisarg (Red & White): 🤣🤣🤣🤣
+10/07/2024, 8:50 pm - Prisha: 🥲🤣
+10/07/2024, 8:53 pm - Lav: Mere Ghar Valo Ko Bhi Aj Sham Ko Call Aya Tha Ki last 30 min ke liye ajao
+10/07/2024, 8:53 pm - Nisarg (Red & White): Sir aaye or kaha ki 1h jesa hoga to ghumna hai to ghum kr aao kahi 😅
+10/07/2024, 8:53 pm - Lav: Per Bol diya ki Ager Time Mila To Ghar se koy ayega varna nahi 🤣
+10/07/2024, 8:54 pm - Prisha: 🤣
+10/07/2024, 8:54 pm - Lav: Main ne Bola Tha Ki Time Pass Hi Hai
+10/07/2024, 8:54 pm - Prisha: Gf se mil moo ab moka mila haa
+10/07/2024, 8:54 pm - Nisarg (Red & White): <Media omitted>
+10/07/2024, 8:54 pm - Nisarg (Red & White): 1h waha jane me hi chala jayega 😂
+10/07/2024, 8:54 pm - Lav: 😵
+10/07/2024, 8:55 pm - Prisha: Woh toh hai
+10/07/2024, 8:55 pm - Prisha: 🤣🤣
+10/07/2024, 8:55 pm - Prisha: Meri mom Ko Ghar aati aati toh paka 10 ho jai gaa
+10/07/2024, 8:55 pm - Nisarg (Red & White): Or wese bhi unko thodi allow krenge 9 baje... 😂
+10/07/2024, 8:55 pm - Prisha: Chalo thik hai
+10/07/2024, 8:56 pm - Prisha: Woh toh haa yarr 🥲
+10/07/2024, 8:56 pm - Nisarg (Red & White): Ha 10 upr hoga
+10/07/2024, 8:56 pm - Prisha: Girls ka wahi issue hota hai
+10/07/2024, 8:56 pm - Prisha: Tum bol toh esa he bahar ghuma ki naam se chali jati ho
+10/07/2024, 8:56 pm - Lav: Is Lite Hi Compulsory Bol Rahe The Compulsory Bola Fir Bhi 20 Parents hai To Nahi Bolte to koy nahi ate
+10/07/2024, 8:57 pm - Nisarg (Red & White): Aa rahe hai sab dhire dhire
+10/07/2024, 8:57 pm - Nisarg (Red & White): Jyada ho gaye ab to
+10/07/2024, 8:57 pm - Lav: Haan
+10/07/2024, 8:57 pm - Lav: Chalega..😂😅
+10/07/2024, 9:01 pm - Nisarg (Red & White): Lo ji good news for you
+@919081921022
+10/07/2024, 9:01 pm - Nisarg (Red & White): Sir bahar ghum rahe hai kabse .!!
+10/07/2024, 9:01 pm - Lav: What...!
+10/07/2024, 9:01 pm - Nisarg (Red & White): Matlab waha pr koi or hi hai jo session le raha hai
+10/07/2024, 9:02 pm - Lav: Lecture hai Na ?
+10/07/2024, 9:02 pm - Nisarg (Red & White): Ha wesa hi ab kya hai wo to baad me hi pata chalega 😅😂 <This message was edited>
+10/07/2024, 9:03 pm - Lav: Ha
+10/07/2024, 9:03 pm - Prisha: Kyaa
+10/07/2024, 9:03 pm - Lav: ..
+10/07/2024, 9:03 pm - Prisha: Ohh bhai
+10/07/2024, 9:04 pm - Prisha: Yarrr meko naa bass ab ho gaya tension ho rahi hai
+10/07/2024, 9:04 pm - Prisha: Btw sari branch ki sir aai hai??
+10/07/2024, 9:04 pm - Prisha: Sachii
+10/07/2024, 9:04 pm - Nisarg (Red & White): Nai re
+10/07/2024, 9:05 pm - Prisha: Meri maa Ghar aaigi tab mast bomb blasts hoga
+10/07/2024, 9:05 pm - Prisha: Toh thik hai
+10/07/2024, 9:05 pm - Prisha: And listen
+10/07/2024, 9:05 pm - Nisarg (Red & White): Tu kaam kr ten le le kr fat ja pehle hi 😂
+10/07/2024, 9:05 pm - Prisha: Jo bhi update Mila pela text group per
+10/07/2024, 9:05 pm - Prisha: Plsssss
+10/07/2024, 9:05 pm - Prisha: Sachiii🥺🥲
+10/07/2024, 9:06 pm - Nisarg (Red & White): <Media omitted>
+10/07/2024, 9:06 pm - Lav: Sahi Hai
+10/07/2024, 9:06 pm - Lav: 😂😵
+10/07/2024, 9:06 pm - Nisarg (Red & White): 🤣🤣
+10/07/2024, 9:07 pm - Nisarg (Red & White): Bekar ten le rahi hai soch raha hu thoda or ten du 😂
+10/07/2024, 9:07 pm - Lav: 🙃
+10/07/2024, 9:08 pm - Nisarg (Red & White): <Media omitted>
+10/07/2024, 9:17 pm - Nisarg (Red & White): @919925532093 @917383165330 tumko bhi call aayega shayad..!!
+Sab ko call kr ke pu6 rage hai kyu nahi aaye
+10/07/2024, 9:18 pm - Lav: Student ko ki Parents ko ?
+10/07/2024, 9:18 pm - Lav: Abhi Aya Tha Tha Shamko Mere Ko to
+10/07/2024, 9:18 pm - Nisarg (Red & White): Perents i think🤔
+10/07/2024, 9:18 pm - Nisarg (Red & White): 9 baje k baad
+10/07/2024, 9:20 pm - Lav: Agar Abhi Vapas Aya To Kal Dekhna Tum Log
+10/07/2024, 9:20 pm - Hitesh: Accha
+10/07/2024, 9:21 pm - Lav: Directly Sir Ko Hi Bolunga Ki Bola Tha Ek Bar Fir bhi ap Bar Bar Call Karte ho Kya Kam Tha Assa To
+10/07/2024, 9:21 pm - Prisha: 🤣
+10/07/2024, 9:21 pm - Lav: Fir Ager Nect Time Kuch Important bhi hua To bhi Nahi Ayenge Apki Hi Reputation Down Ho Rahj Hai
+10/07/2024, 9:21 pm - Hitesh: Mom Ghar aa gaya kya
+10/07/2024, 9:22 pm - Hitesh: <Media omitted>
+10/07/2024, 9:22 pm - Lav: Dal Badlu
+10/07/2024, 9:24 pm - Nisarg (Red & White): Kaha abhi to start huaa... 😂
+10/07/2024, 9:24 pm - Hitesh: Kya hai
+10/07/2024, 9:24 pm - Hitesh: Kitne log hai
+10/07/2024, 9:25 pm - Hitesh: 5-6 log hi honga 🤣🤣😂
+10/07/2024, 9:25 pm - Lav: Wtf
+10/07/2024, 9:25 pm - Lav: Sach Me
+10/07/2024, 9:25 pm - Hitesh: Mai puch Raha hu 😂😂
+10/07/2024, 9:25 pm - Lav: Ya To Fir Jo Honge vo School valo ke honge
+10/07/2024, 9:25 pm - Nisarg (Red & White): <Media omitted>
+10/07/2024, 9:25 pm - Lav: are Ha Main Bhi Bol Raha Hu
+10/07/2024, 9:26 pm - Hitesh: @917096814375  btao kitne aadmi hai
+10/07/2024, 9:26 pm - Lav: pahle 20 ke ass pass the fir or aye
+10/07/2024, 9:26 pm - Nisarg (Red & White): Aadmi kam hai aurat jyada hai 😂
+10/07/2024, 9:26 pm - Lav: Asaa Bol raha tha
+10/07/2024, 9:26 pm - Hitesh: 😂🤣🤣
+10/07/2024, 9:26 pm - Nisarg (Red & White): Ab to 30 up ho gaye ho ge
+10/07/2024, 9:27 pm - Lav: 😂
+10/07/2024, 9:27 pm - Hitesh: Accha 😂😂
+10/07/2024, 9:27 pm - Lav: Acha Hai Hum Ne Nahi Bheja
+10/07/2024, 9:27 pm - Hitesh: Mera ghar se koi nhi gaya abhi vesu se aaya toh pta chla 😂🤣🤣
+10/07/2024, 9:28 pm - Hitesh: Mera bhaiya bolta hai aaj k din mai 3 call aa gaya h 🤣😂😂 itna kya important tha 😂😂
+10/07/2024, 9:28 pm - Nisarg (Red & White): @917383165330 aa gaya call
+10/07/2024, 9:28 pm - Nisarg (Red & White): 🤣🤣🤣
+10/07/2024, 9:28 pm - Nisarg (Red & White): Baat kr rahe hai 😂
+10/07/2024, 9:28 pm - Nisarg (Red & White): <Media omitted>
+10/07/2024, 9:28 pm - Lav: Ha
+10/07/2024, 9:28 pm - Lav: Cut bhi kar diya bat kar ke
+10/07/2024, 9:29 pm - Lav: kal ab gaye sir
+10/07/2024, 9:29 pm - Lav: @917096814375 Tum sirf Humara Group  Chats Safe rakhna
+10/07/2024, 9:29 pm - Nisarg (Red & White): <Media omitted>
+10/07/2024, 9:30 pm - Nisarg (Red & White): Camare me aa gaya bhai sab 🤣
+10/07/2024, 9:30 pm - Lav: Hahaha
+10/07/2024, 9:30 pm - Nisarg (Red & White): Bach gaye pi6e camara nahi hai 😂
+10/07/2024, 9:30 pm - Lav: Time Pass
+10/07/2024, 9:30 pm - Lav: Is Bar Mam Ka Aya
+10/07/2024, 9:30 pm - Lav: sir ne nahi kiya
+10/07/2024, 9:30 pm - Lav: 😂
+10/07/2024, 9:31 pm - Nisarg (Red & White): Ha wo receptionist log kr rahe hai sabko
+10/07/2024, 9:31 pm - Lav: 😡😈 @919081921022  Kal Kyo Nahi Aya Tera Sath Dene Tum Sahi Thi
+10/07/2024, 9:31 pm - Lav: 😵😂
+10/07/2024, 9:33 pm - Nisarg (Red & White): Matlab
+10/07/2024, 9:33 pm - Lav: Kal Jagda Hua Tha Prisha Vs Receptionist
+10/07/2024, 9:34 pm - Hitesh: Mai tha sath mai 🤣🤣🤣
+10/07/2024, 9:34 pm - Lav: Dekha Nahi Aj Prisha Ne Id Card Pahena Tha
+10/07/2024, 9:34 pm - Lav: 😂
+10/07/2024, 9:34 pm - Hitesh: Full on jagda mujhe toh mazze aaya dekh kar
+10/07/2024, 9:34 pm - Hitesh: 🤣😂
+10/07/2024, 9:34 pm - Lav: 😂
+10/07/2024, 9:34 pm - Hitesh: <Media omitted>
+10/07/2024, 9:34 pm - Lav: 😂
+10/07/2024, 9:35 pm - Lav: Nahi Nahi Hamare Group me bahafur Ladki hai
+10/07/2024, 9:35 pm - Lav: Bahadur*
+10/07/2024, 9:35 pm - Nisarg (Red & White): Are aaj to itni mithi ban rahi hai prisha hoti to maza aata 😂😂
+10/07/2024, 9:36 pm - Hitesh: Bahafur 🤣😂😂
+10/07/2024, 9:36 pm - Lav: You deleted this message
+10/07/2024, 9:36 pm - Hitesh: <Media omitted>
+10/07/2024, 9:36 pm - Prisha: Bhai sahab
+10/07/2024, 9:36 pm - Prisha: 60 msg
+10/07/2024, 9:37 pm - Hitesh: Welcome
+10/07/2024, 9:37 pm - Lav: Welcome
+10/07/2024, 9:37 pm - Prisha: 🙃
+10/07/2024, 9:37 pm - Prisha: Yarrr
+10/07/2024, 9:37 pm - Hitesh: <Media omitted>
+10/07/2024, 9:37 pm - Prisha: Kya chal raha hai
+10/07/2024, 9:37 pm - Prisha: Bataoo plsss
+10/07/2024, 9:37 pm - Nisarg (Red & White): Ha or bol rahi thi ku6 ho to mag krna😏😂
+10/07/2024, 9:37 pm - Lav: Hamare Ghar pe 2-3 call aye
+10/07/2024, 9:37 pm - Prisha: Update doo
+10/07/2024, 9:37 pm - Lav: Bat To Sach Hai
+10/07/2024, 9:37 pm - Prisha: Haa but yeh full stack wala sir na exam de hai meko abhi
+10/07/2024, 9:37 pm - Prisha: 🥲
+10/07/2024, 9:37 pm - Hitesh: 3 call pura 🤣😂😂
+10/07/2024, 9:38 pm - Lav: Karo Karo
+10/07/2024, 9:37 pm - Hitesh: abhi
+10/07/2024, 9:38 pm - Prisha: 🤣🤣🤣🤣
+10/07/2024, 9:38 pm - Lav: 😂
+10/07/2024, 9:38 pm - Hitesh: Pagal hai kya voh
+10/07/2024, 9:38 pm - Prisha: <Media omitted>
+10/07/2024, 9:38 pm - Prisha: Mera laga hai
+10/07/2024, 9:38 pm - Lav: Ha Vahi To Itna To School se  bhi Nahi Aye Mere
+10/07/2024, 9:38 pm - Hitesh: Abhi nhi karni naa bol dee
+10/07/2024, 9:38 pm - Lav: Total mila ke
+10/07/2024, 9:38 pm - Prisha: I swear meri teach least interested hoti thi
+10/07/2024, 9:38 pm - Nisarg (Red & White): Lagta hai kisi ne sari musibato ko prisha ka pata de diya hai 🤣🤣
+10/07/2024, 9:39 pm - Lav: Ha
+10/07/2024, 9:39 pm - Lav: <Media omitted>
+10/07/2024, 9:41 pm - Hitesh: <Media omitted>
+10/07/2024, 9:41 pm - Hitesh: 🤣😂😂😂
+10/07/2024, 9:41 pm - Lav: <Media omitted>
+10/07/2024, 9:41 pm - Nisarg (Red & White): 🤣🤣🤣
+10/07/2024, 9:42 pm - Nisarg (Red & White): <Media omitted>
+10/07/2024, 9:42 pm - Nisarg (Red & White): Kal aao tab dekhna 🤣
+10/07/2024, 9:42 pm - Hitesh: 🤣😂😂
+10/07/2024, 9:42 pm - Hitesh: Aree yaa log kya karwa Raha h.
+10/07/2024, 9:42 pm - Lav: Ha dekhe Ahi
+10/07/2024, 9:42 pm - Lav: Time pass
+10/07/2024, 9:43 pm - Nisarg (Red & White): Kala jadu 😂😂
+10/07/2024, 9:43 pm - Lav: <Media omitted>
+10/07/2024, 9:46 pm - Prisha: Me mar dungi yarrr😭😭😭😭😭
+10/07/2024, 9:46 pm - Prisha: Eri halat karab hai
+10/07/2024, 9:47 pm - Prisha: College ki exam hai ek yeh and pata nhi kya kyaa hoga mera sath
+10/07/2024, 9:47 pm - Lav: <Media omitted>
+10/07/2024, 9:47 pm - Prisha: 🤣🤣
+10/07/2024, 9:47 pm - Prisha: Oye kya hua haj
+10/07/2024, 9:47 pm - Lav: <Media omitted>
+10/07/2024, 9:47 pm - Lav: You deleted this message
+10/07/2024, 9:47 pm - Lav: Kuch nahi
+10/07/2024, 9:48 pm - Prisha: Thank good
+10/07/2024, 9:49 pm - Lav: RNW jese Class Ko Select karne ke bad Ase choti choti Problems to ati rahte hai😂
+10/07/2024, 9:49 pm - Nisarg (Red & White): <Media omitted>
+10/07/2024, 9:50 pm - Lav: <Media omitted>
+10/07/2024, 9:50 pm - Lav: <Media omitted>
+10/07/2024, 9:50 pm - Prisha: Wtffff
+10/07/2024, 9:50 pm - Prisha: Kuch bhi safalta
+10/07/2024, 9:50 pm - Prisha: 🤣🤣
+10/07/2024, 9:50 pm - Lav: Ha 8-10k ki Safalta
+10/07/2024, 9:51 pm - Prisha: 🤣🤣
+10/07/2024, 9:51 pm - Lav: Ya Fir 10,600/- ka Course Purchase ki safalta
+10/07/2024, 9:51 pm - Nisarg (Red & White): 🤣🤣
+10/07/2024, 9:51 pm - Hitesh: <Media omitted>
+10/07/2024, 9:52 pm - Lav: <Media omitted>
+10/07/2024, 9:52 pm - Hitesh: 10600 nhi uss n 5000 wala liya hai 😂😂
+10/07/2024, 9:53 pm - Lav: <Media omitted>
+10/07/2024, 9:53 pm - Hitesh: Mast business plan hai 5000 k 150000
+10/07/2024, 9:53 pm - Hitesh: <Media omitted>
+10/07/2024, 9:53 pm - Lav: <Media omitted>
+10/07/2024, 9:53 pm - Lav: <Media omitted>
+10/07/2024, 9:55 pm - Prisha: Kya🤣🤣
+10/07/2024, 9:56 pm - Lav: <Media omitted>
+10/07/2024, 9:56 pm - Prisha: Mera deadline tha 9 abhi hua hai 10 😭😭😭
+10/07/2024, 9:56 pm - Lav: <Media omitted>
+10/07/2024, 9:57 pm - Prisha: 🤣🤣paisa Pani mee
+10/07/2024, 9:57 pm - Lav: Kya Bro Kitna Tension Leti Hai Itna Ager Hum Lene Lage to Khatam Sub..
+10/07/2024, 9:57 pm - Lav: <Media omitted>
+10/07/2024, 9:58 pm - Lav: <Media omitted>
+10/07/2024, 10:23 pm - Prisha: Tum nikal gaya
+10/07/2024, 10:23 pm - Prisha: Mom ko leave Kiya sab ki
+10/07/2024, 10:24 pm - Nisarg (Red & White): Nahi abhi andar hai sab
+10/07/2024, 10:24 pm - Nisarg (Red & White): Mujhe nind aa rahi hai ab to <This message was edited>
+10/07/2024, 10:30 pm - Prisha: Sachi yarr
+10/07/2024, 10:30 pm - Prisha: Inko kuch kaam dandna nhi hai
+10/07/2024, 10:44 pm - Nisarg (Red & White): Khatam huaa ab
+10/07/2024, 10:45 pm - Prisha: Bhai sahab
+10/07/2024, 10:45 pm - Prisha: Kya kya pucha uhhona
+10/07/2024, 10:45 pm - Prisha: ??
+10/07/2024, 10:45 pm - Prisha: Bhai meko dar lag raha hai
+10/07/2024, 11:04 pm - Nisarg (Red & White): Story batai bro 3 🤣🤣🤣
+10/07/2024, 11:23 pm - Nisarg (Red & White): Pink dress pehna tha na teri mom ne.!?@919081921022
+10/07/2024, 11:24 pm - Prisha: Haaa
+10/07/2024, 11:24 pm - Prisha: 🤣🤣🤣
+10/07/2024, 11:24 pm - Prisha: They said I am rude
+10/07/2024, 11:24 pm - Prisha: Ab kal me leti hu sab ki
+10/07/2024, 11:24 pm - Prisha: Mom bolti hai kya kar rahi hai prisha
+10/07/2024, 11:24 pm - Prisha: I was like
+10/07/2024, 11:24 pm - Nisarg (Red & White): Personal me bola hoga
+10/07/2024, 11:25 pm - Prisha: Mena paisa diya naa toh bass free ka nhi padati
+10/07/2024, 11:25 pm - Prisha: Toh fir meko mat bolo
+10/07/2024, 11:25 pm - Prisha: Unko bolna chahiye aapko🤣
+10/07/2024, 11:25 pm - Prisha: Mom said leave me alone
+10/07/2024, 11:25 pm - Prisha: Idk yarr
+10/07/2024, 11:25 pm - Nisarg (Red & White): 😂😂😂
+10/07/2024, 11:25 pm - Prisha: Itna nhi pucha
+10/07/2024, 11:25 pm - Prisha: Sachi yar🥺😮‍💨
+10/07/2024, 11:25 pm - Prisha: Mera he Ghar wala
+10/07/2024, 11:25 pm - Prisha: Mera against
+10/07/2024, 11:25 pm - Nisarg (Red & White): Bata raha hu baat kr rahe the bahar nikal kr
+10/07/2024, 11:26 pm - Prisha: 🤣🤣
+10/07/2024, 11:26 pm - Prisha: Kon kon tha
+10/07/2024, 11:26 pm - Prisha: Ma'am thi koi yaa mayur sir thi
+10/07/2024, 11:26 pm - Nisarg (Red & White): Meeting me.!?
+10/07/2024, 11:26 pm - Prisha: Nhi personal talk
+10/07/2024, 11:26 pm - Prisha: Kisska sath hui
+10/07/2024, 11:27 pm - Nisarg (Red & White): Wo nahi dikha
+10/07/2024, 11:27 pm - Nisarg (Red & White): Sab nikal rahe the to
+10/07/2024, 11:27 pm - Prisha: Meko uska tension kaam tha I said mom naa me esa esa karki aai thi toh iss wajase
+10/07/2024, 11:27 pm - Nisarg (Red & White): Achha hua nahi aayi tum 🤣
+Varna or L lagte
+10/07/2024, 11:46 pm - Prisha: Meri mom Ko I said Mera frds bhi bol rahi hai ki nhi bolna chahiye aapna bachi ki side Leni chahiye
+10/07/2024, 11:46 pm - Prisha: Toh I said her story she is like meko tu ab naam bata
+10/07/2024, 11:47 pm - Prisha: Me aati hu kal ab
+10/07/2024, 11:47 pm - Prisha: I was like yess chaloo
+10/07/2024, 11:47 pm - Prisha: 😂
+10/07/2024, 11:47 pm - Nisarg (Red & White): Kiska name
+10/07/2024, 11:48 pm - Prisha: Woh reception wali
+10/07/2024, 11:48 pm - Nisarg (Red & White): Konsa frnd😂
+10/07/2024, 11:48 pm - Nisarg (Red & White): Achha
+10/07/2024, 11:48 pm - Prisha: Tum log bol diya class mates karki🤣
+10/07/2024, 11:48 pm - Prisha: Toh mom is like meko thodi pata esa baat ki tera sath
+10/07/2024, 11:48 pm - Prisha: Mom alag he chal raha thi
+10/07/2024, 11:48 pm - Nisarg (Red & White): Dekho me ladai zagde se dur rehta hu bata raha hu😂
+10/07/2024, 11:49 pm - Prisha: Bhai koi nhi aa raha I said her no I talked karki
+10/07/2024, 11:49 pm - Prisha: Chill kar
+10/07/2024, 11:49 pm - Nisarg (Red & White): Rehne de receptionist ka face bigad jayega khali fokat teri mom ke hatho se🤣🤣🤣
+10/07/2024, 11:50 pm - Nisarg (Red & White): Chalo achha hai 😅
+10/07/2024, 11:50 pm - Prisha: Sachi yarr she was like kaal chalti hai I was like I would love that
+10/07/2024, 11:50 pm - Prisha: 🤣🤣
+10/07/2024, 11:51 pm - Nisarg (Red & White): <Media omitted>
+10/07/2024, 11:53 pm - Prisha: 🤣🤣🤣🤣
+10/07/2024, 11:53 pm - Prisha: Nhi yarrr
+10/07/2024, 11:53 pm - Prisha: I had to make her realise ki meri ghalti nhi hai
+11/07/2024, 12:01 am - Nisarg (Red & White): Ab santi hui ..? kab se Bina baat ke tension liye ja rahi thi <This message was edited>
+11/07/2024, 9:36 am - Hitesh: Hello everyone!!
+Grow Solutions is Hiring for the Below Position... 
+
+♦️Digital Marketing Executive 
+➡️ Exp.: 2 to 5+ years
+
+♦️DevOps Engineer
+➡️ Exp.3+ years
+
+♦️ Data Analyst
+➡️ Exp.: 0 to 1 years
+
+♦️ Social Media Manger
+➡️ Exp.: 2 to 3+ years
+
+♦️ SEO Executive
+➡️ Exp.: 2 to 4 years
+
+♦️Sr. iOS Developer
+➡️ Exp. : 3 year +
+
+♦️Sr. MERN Stack Developer
+➡️ Exp. : 3 to 5 year 
+
+👉Please note: These positions require on-site work in Surat and we are only considering candidates from these local areas. Interviews will be conducted in person.
+
+📍𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻 : 𝐒𝐮𝐫𝐚𝐭, 𝗚𝘂𝗷𝗮𝗿𝗮𝘁 (𝗪𝗼𝗿𝗸 𝗳𝗿𝗼𝗺 𝗼𝗳𝗳𝗶𝗰𝗲 𝗼𝗻𝗹𝘆)
+▶️ Interested candidates can share their resume at - 8140887960
+✉️ 𝐌𝐚𝐢𝐥: hr@growsolutions.in
+11/07/2024, 10:09 am - Nisarg (Red & White): Aaj 12 baje class hai.?
+11/07/2024, 10:09 am - Lav: Ha
+11/07/2024, 10:09 am - Nisarg (Red & White): Ok
+11/07/2024, 11:45 am - Prisha: Haa
+11/07/2024, 11:45 am - Prisha: But tum aai kyu nhi ho abhi tak
+11/07/2024, 11:45 am - Prisha: Tera toh 11:30 ki class thi <This message was edited>
+11/07/2024, 11:45 am - Prisha: 😂
+11/07/2024, 11:48 am - Nisarg (Red & White): <Media omitted>
+11/07/2024, 11:49 am - Prisha: <Media omitted>
+12/07/2024, 12:41 pm - Lav: <Media omitted>
+12/07/2024, 5:48 pm - Nisarg (Red & White): @919081921022  photo .!!
+12/07/2024, 8:10 pm - Prisha: <Media omitted>
+12/07/2024, 8:10 pm - Prisha: <Media omitted>
+12/07/2024, 8:20 pm - Hitesh: <Media omitted>
+12/07/2024, 8:23 pm - Prisha: 🤣
+13/07/2024, 8:58 am - Prisha: Bolo
+13/07/2024, 8:58 am - Prisha: @919925532093
+13/07/2024, 8:58 am - Hitesh: 10 - In a survey among few people, 60% read Hindi newspaper, 40% read English newspaper and 20% read both. If a person is chosen at random and if he already reads English newspaper find the probability that he also reads Hindi newspaper.
+
+ 11 -In a class, 40% of the students like Mathematics and 25% of students like Physics and 15% like both the subjects. One student select at random, find the probability that he likes Physics if it is known that he likes Mathematics.
+13/07/2024, 9:00 am - Hitesh: <Media omitted>
+13/07/2024, 9:05 am - Lav: <Media omitted>
+13/07/2024, 9:05 am - Prisha: Tu class per hai kya
+13/07/2024, 9:05 am - Lav: Kon ?
+13/07/2024, 9:05 am - Prisha: Hitesh
+13/07/2024, 9:06 am - Prisha: 10 wala toh woh din sir nai meko pucha tha na woh haa
+13/07/2024, 9:07 am - Hitesh: Naa
+13/07/2024, 9:08 am - Hitesh: Aaj aao g classes aap sab
+13/07/2024, 9:08 am - Lav: <Media omitted>
+13/07/2024, 9:08 am - Lav: College pe Hu
+13/07/2024, 9:09 am - Hitesh: <Media omitted>
+13/07/2024, 9:09 am - Lav: <Media omitted>
+13/07/2024, 9:10 am - Lav: Maths me Formula Yad Ralhba
+13/07/2024, 9:10 am - Lav: Rakhna *
+13/07/2024, 9:10 am - Lav: @919925532093
+13/07/2024, 9:10 am - Prisha: 20/40 we will have
+13/07/2024, 9:10 am - Lav: Kyo ki Jesa Main Bol Raha Tha Kal Vahi Hua
+13/07/2024, 9:10 am - Hitesh: 40 why
+13/07/2024, 9:10 am - Hitesh: I can't understanding that only
+13/07/2024, 9:10 am - Prisha: Because (h intersect e)/ e
+13/07/2024, 9:11 am - Prisha: Sun
+13/07/2024, 9:11 am - Hitesh: Ok haa last wala leta hai done
+13/07/2024, 9:11 am - Prisha: Hindi intersect Eng/ english
+13/07/2024, 9:11 am - Lav: Inbuilt Function  Ke  bina Bhi Karna Padta Hai Formula Se Code
+13/07/2024, 9:11 am - Hitesh: Ab 11 dekho uss mai aalga hai yrr
+13/07/2024, 9:11 am - Prisha: Matlab both / eng
+13/07/2024, 9:11 am - Prisha: Matlab 20/40
+13/07/2024, 9:11 am - Hitesh: Aap classes aane wala hoo kya
+13/07/2024, 9:12 am - Prisha: Kya code
+13/07/2024, 9:12 am - Prisha: 🤣🤣
+13/07/2024, 9:12 am - Lav: Kal Witgout Function ka Use Karke karvaya na LR
+13/07/2024, 9:13 am - Prisha: But usko kuch aur chahiye 😂🥲
+13/07/2024, 9:13 am - Prisha: Meko yaad mat Kara I have to study
+13/07/2024, 9:14 am - Prisha: Okay wait
+13/07/2024, 9:14 am - Hitesh: <Media omitted>
+13/07/2024, 9:14 am - Prisha: In this also
+13/07/2024, 9:15 am - Hitesh: Also
+13/07/2024, 9:15 am - Prisha: Math intersect physics/ math
+13/07/2024, 9:15 am - Prisha: Soo
+13/07/2024, 9:15 am - Prisha: Both / math
+13/07/2024, 9:15 am - Prisha: Soo
+13/07/2024, 9:15 am - Prisha: 15/40
+13/07/2024, 9:16 am - Prisha: Ho gaya solve
+13/07/2024, 9:16 am - Hitesh: Ab prisha why now math
+13/07/2024, 9:16 am - Hitesh: Iss mai  toh physics aana chaiya tha n.
+13/07/2024, 9:16 am - Hitesh: Solved hai yrr but joo division mai rakha raha hai.
+13/07/2024, 9:17 am - Hitesh: Voh value hum ko kha se pta chl rahai hai.
+13/07/2024, 9:17 am - Prisha: Okwaut
+13/07/2024, 9:19 am - Prisha: Waha per esa likha hai ki " find the probability that he likes Physics if it is known that he likes Mathematics" if he knows math
+13/07/2024, 9:19 am - Prisha: Knows math kya hota hai ki usko math toh pata hai but kya usa physics pasand hai
+13/07/2024, 9:20 am - Hitesh: Ok same scenario  ab aap 10 wala par laago
+13/07/2024, 9:20 am - Prisha: Okay
+13/07/2024, 9:22 am - Prisha: Waha clear likha hai ki dekh bhaiyo random liye and woh toh English read karta hai but kya probability hai ki woh Hindi bhi karta hoga matlab (eng and Hindi both ki probably) /(English toh karta hai toh English ki probably)
+13/07/2024, 9:22 am - Prisha: Hogaya
+13/07/2024, 9:22 am - Hitesh: Clear hai thoda or sums Karu g toh or clear hojya g
+13/07/2024, 9:22 am - Hitesh: Sahi hai.
+13/07/2024, 9:23 am - Prisha: Yesss
+13/07/2024, 9:23 am - Hitesh: Thank you 😀
+13/07/2024, 9:23 am - Prisha: Yepsss
+13/07/2024, 9:23 am - Prisha: Anytime
+13/07/2024, 9:23 am - Prisha: ✨
+13/07/2024, 9:23 am - Prisha: <Media omitted>
+13/07/2024, 9:23 am - Prisha: Coz hum finalists thii
+13/07/2024, 9:23 am - Hitesh: Congratulations 🎉
+13/07/2024, 9:24 am - Prisha: Yesss😊
+13/07/2024, 9:24 am - Hitesh: <Media omitted>
+13/07/2024, 9:24 am - Prisha: 😂
+13/07/2024, 9:57 am - Hitesh: https://youtube.com/@excelbasement?si=b8QyHIhIbo8qmiFA
+13/07/2024, 9:57 am - Hitesh: Excel bhi yaa se karwa raha h 🙂
+
+Paisa barbad 😂
+13/07/2024, 9:57 am - Lav: 😂😵😡😴
+13/07/2024, 9:57 am - Lav: <Media omitted>
+13/07/2024, 11:50 am - Nisarg (Red & White): Congratulations 🎉🎉
+13/07/2024, 11:53 am - Hitesh: <Media omitted>
+13/07/2024, 11:56 am - Nisarg (Red & White): <Media omitted>
+13/07/2024, 11:57 am - Hitesh: <Media omitted>
+13/07/2024, 12:00 pm - Lav: <Media omitted>
+13/07/2024, 12:24 pm - Prisha: Thank youu✨
+13/07/2024, 12:24 pm - Prisha: Meri internship nhi lagi bhai looog🤣🤣🤣
+13/07/2024, 12:24 pm - Prisha: Abhi lagna do fir pakaa daaru party🤣🥳
+13/07/2024, 12:27 pm - Hitesh: <Media omitted>
+13/07/2024, 12:45 pm - Hitesh: <Media omitted>
+13/07/2024, 12:45 pm - Prisha: Bhai kiski book hai
+13/07/2024, 12:46 pm - Hitesh: 11;12 ki book hai ncert
+13/07/2024, 12:46 pm - Hitesh: 😅
+13/07/2024, 12:51 pm - Prisha: Ohh bhai🤦🏻
+13/07/2024, 12:51 pm - Prisha: 😂😂
+13/07/2024, 12:51 pm - Prisha: Karo karo
+13/07/2024, 12:52 pm - Lav: Itna Mat Padho
+13/07/2024, 12:52 pm - Lav: <Media omitted>
+13/07/2024, 12:52 pm - Hitesh: Aaj Excel mai aao g kya 😅😅
+13/07/2024, 12:53 pm - Lav: Nahi
+13/07/2024, 12:53 pm - Hitesh: <Media omitted>
+13/07/2024, 12:54 pm - Lav: <Media omitted>
+15/07/2024, 8:30 pm - Hitesh: <Media omitted>
+16/07/2024, 4:54 pm - Hitesh: Dear Students,
+
+We are thrilled to announce an exciting 2-day trip to the historic Kumbhalgarh & Udaipur! This trip is a fantastic opportunity for you to explore the rich cultural heritage of Rajasthan, bond with your peers, and create unforgettable memories.
+
+Departure: Night of 8th August 2024
+Return: Morning of 11th August 2024
+Accommodation: Comfortable lodging for 2 nights.
+Cost: ₹3500/- (Extra Fort visit charge may be applicable other than this)
+
+Registration Details:
+
+Deadline: 20th july 2024, 7PM
+Payment: Registration fee to be paid at the admission office.
+Link: https://docs.google.com/forms/d/1FesquOwKvDMWYLwbzdUZWRSUxMtuob68qzIQ0YDsHRY/edit
+
+Please fill out the registration form and ensure you pay the fee at the admission office before the deadline. We look forward to your enthusiastic participation!
+
+Best regards,
+Khushali Miyani
+Branch Manager
+Red & White Multimedia Education
+RW2-Yogi chowk
+16/07/2024, 4:54 pm - Hitesh: Aa raha hona sab.😅😅
+16/07/2024, 7:41 pm - Nisarg (Red & White): Me to nai aa raha
+16/07/2024, 9:09 pm - Prisha: I don't have a problem
+16/07/2024, 9:20 pm - Hitesh: <Media omitted>
+16/07/2024, 9:21 pm - Prisha: 😂😂😂
+16/07/2024, 9:28 pm - Hitesh: https://youtube.com/@sentdex?si=JJIM-dZZBuycIU69
+16/07/2024, 9:29 pm - Hitesh: Thoda sa English mai hai but accha h 😅😅
+16/07/2024, 9:30 pm - Prisha: I think manipal is better
+16/07/2024, 9:30 pm - Prisha: for the college think
+16/07/2024, 9:30 pm - Prisha: i went through the sites
+16/07/2024, 9:37 pm - Hitesh: <Media omitted>
+16/07/2024, 9:39 pm - Lav: <Media omitted>
+16/07/2024, 9:58 pm - Nisarg (Red & White): <Media omitted>
+17/07/2024, 1:18 pm - Prisha: <Media omitted>
+17/07/2024, 1:18 pm - Prisha: <Media omitted>
+17/07/2024, 1:32 pm - Lav: <Media omitted>
+18/07/2024, 11:29 am - Hitesh: Aaj aane wala hona sab
+18/07/2024, 11:38 am - Lav: HA
+18/07/2024, 11:38 am - Nisarg (Red & White): Ha
+18/07/2024, 11:43 am - Hitesh: <Media omitted>
+18/07/2024, 12:25 pm - Lav: <Media omitted>
+18/07/2024, 12:26 pm - Prisha: @919925532093 meko tu 1 ko classes per chahiye time se nikal na kal ki tera nhi 😂
+18/07/2024, 12:26 pm - Hitesh: Haa , 😃
+19/07/2024, 12:42 pm - Hitesh: Aaj aao g kya sab log 😅😅
+19/07/2024, 12:43 pm - Nisarg (Red & White): <Media omitted>
+21/07/2024, 10:54 am - Hitesh: <Media omitted>
+21/07/2024, 10:54 am - Hitesh: Koi kar k dee skata hai kya.
+21/07/2024, 10:54 am - Hitesh: ??
+21/07/2024, 10:56 am - Lav: 😵🫠
+21/07/2024, 10:57 am - Hitesh: Bolo
+21/07/2024, 10:57 am - Hitesh: 👀👀
+21/07/2024, 10:58 am - Lav: Abhi To Nahi
+21/07/2024, 10:58 am - Hitesh: Aaj nhi
+21/07/2024, 10:58 am - Lav: Shikh jaye Fir😂
+21/07/2024, 10:58 am - Hitesh: 1-2 din k time hai bhaiya
+21/07/2024, 10:58 am - Hitesh: Aree payment karaa g agala apne ko
+21/07/2024, 10:58 am - Lav: Acha Per Pata nahi Dekha Last me kuch samaj nahi aya
+21/07/2024, 10:59 am - Lav: Regression vala
+21/07/2024, 10:59 am - Hitesh: Aree sir ko bhi lee lenga
+21/07/2024, 11:00 am - Lav: Hmm
+21/07/2024, 11:02 am - Hitesh: Confirm bolo
+21/07/2024, 11:03 am - Hitesh: @919081921022
+21/07/2024, 11:03 am - Hitesh: @917096814375
+21/07/2024, 11:03 am - Hitesh: @917383165330
+21/07/2024, 11:07 am - Lav: 11,12 + sttemodel , scipy
+21/07/2024, 11:07 am - Lav: Pata Nahi Hai...
+21/07/2024, 11:08 am - Hitesh: Sir ko pakda g bhai 🤣😂
+21/07/2024, 11:08 am - Lav: Ha
+21/07/2024, 11:08 am - Hitesh: Chatgpt hai
+21/07/2024, 11:08 am - Lav: Hmm
+21/07/2024, 11:08 am - Hitesh: Order done Karu
+21/07/2024, 11:08 am - Hitesh: Prisha bhi hai apne pass
+21/07/2024, 11:08 am - Hitesh: 😂🤣
+21/07/2024, 11:08 am - Nisarg (Red & White): Kya chal raha hai ku6 samaj nahi aa raha 😅
+21/07/2024, 11:09 am - Lav: 😅 Thik hai Dekhte hai kya kar shakte hai..
+21/07/2024, 11:09 am - Lav: Tab To koy Problem nahi hai 😂🤣😵
+21/07/2024, 11:09 am - Hitesh: Bhaiya ek assignment aaya hai
+21/07/2024, 11:10 am - Nisarg (Red & White): Ha to order kya kr rahe ho.?
+21/07/2024, 11:11 am - Lav: Are Kisi ko banavana Hai
+21/07/2024, 11:11 am - Lav: Ki koy Kar De Assignment
+21/07/2024, 11:11 am - Lav: To hitesh puch raha hai ki hum se hoga ki nahi Asaa
+21/07/2024, 11:11 am - Hitesh: <Media omitted>
+21/07/2024, 11:11 am - Nisarg (Red & White): Achha
+21/07/2024, 11:11 am - Hitesh: Demo hai
+21/07/2024, 11:11 am - Lav: Ohk
+21/07/2024, 11:12 am - Hitesh: Hojya g kya
+21/07/2024, 11:12 am - Hitesh: Bolo final
+21/07/2024, 11:12 am - Hitesh: Ek accha hua toh aage or aayaga
+21/07/2024, 11:12 am - Lav: Me Akele Kese Bolu
+21/07/2024, 11:12 am - Nisarg (Red & White): Ye solve krna hai kya !?
+21/07/2024, 11:13 am - Hitesh: Haa
+21/07/2024, 11:13 am - Lav: ??
+21/07/2024, 11:13 am - Lav: Thashe ??
+21/07/2024, 11:13 am - Hitesh: Haa
+21/07/2024, 11:14 am - Nisarg (Red & White): Apna ku6 loss nahi ho raha ho to try krte hai or kya
+21/07/2024, 11:15 am - Lav: Vo kuch pay karega..ass hai Per Usme Jo question hai vo honge ??
+21/07/2024, 11:15 am - Lav: Main ne dekha 2-4 nahi samaj aue
+21/07/2024, 11:15 am - Lav: aye*
+21/07/2024, 11:15 am - Hitesh: Aree yrr
+21/07/2024, 11:15 am - Hitesh: Bacche k future k sawaal h 😂😅
+21/07/2024, 11:15 am - Nisarg (Red & White): 😂😂😂
+21/07/2024, 11:15 am - Nisarg (Red & White): Kiske bachhe ki etni fikar hai😂
+21/07/2024, 11:16 am - Lav: 😂🤣
+21/07/2024, 11:16 am - Nisarg (Red & White): Mene sare nahi dekhe ruk dekhta hu
+21/07/2024, 11:16 am - Lav: Ha
+21/07/2024, 11:16 am - Lav: and Kale exam Ketla Vage Apvi Che ?
+21/07/2024, 11:17 am - Lav: Hum ne Diya Tha Vesa hi Hai... Thoda.
+21/07/2024, 11:17 am - Hitesh: 300 sab mai aaya g.
+21/07/2024, 11:18 am - Lav: Kab tak kar ke dena Hai ?
+21/07/2024, 11:19 am - Hitesh: Wednesday
+21/07/2024, 11:19 am - Lav: Thik hai
+21/07/2024, 11:20 am - Nisarg (Red & White): Ha ho sakta hai.!!🤔
+21/07/2024, 11:20 am - Lav: Ha Vahi Thoda Research karna padega per sayad go jayega
+21/07/2024, 11:20 am - Nisarg (Red & White): Dataset apna khudka dhundna padega ?
+21/07/2024, 11:20 am - Lav: Ha
+21/07/2024, 11:20 am - Lav: ..
+21/07/2024, 11:21 am - Nisarg (Red & White): 4.?
+21/07/2024, 11:21 am - Lav: Chalega
+21/07/2024, 11:21 am - Lav: <Media omitted>
+21/07/2024, 11:21 am - Hitesh: Bhaiya total 1200  hoo Raha hai
+21/07/2024, 11:21 am - Nisarg (Red & White): Sware rakhvu hoi to m.!!
+Bahumat 😅
+21/07/2024, 11:21 am - Nisarg (Red & White): Dena hai ki lena hai 😂
+21/07/2024, 11:22 am - Lav: Sanje j baraber che Exam j che to
+21/07/2024, 11:22 am - Hitesh: Lena h 😂😅
+21/07/2024, 11:22 am - Nisarg (Red & White): Ok
+21/07/2024, 11:23 am - Nisarg (Red & White): Dena bhi hai ku6 k free hai😬
+21/07/2024, 11:24 am - Lav: Hum jese college student honge jeko Assignment Karvana hai.. pisa Deke.😂
+21/07/2024, 11:24 am - Lav: You deleted this message
+21/07/2024, 11:25 am - Lav: Usko Wednesday Tak Submit karvana hai
+21/07/2024, 11:25 am - Hitesh: Haa
+21/07/2024, 11:26 am - Nisarg (Red & White): <Media omitted>
+21/07/2024, 11:26 am - Nisarg (Red & White): Krte hai to
+21/07/2024, 11:26 am - Lav: Ha
+21/07/2024, 11:27 am - Nisarg (Red & White): Detaset dhundte hai achha milen to confirm kr dena @919925532093
+21/07/2024, 11:28 am - Nisarg (Red & White): Ya fir abhi se krna hai
+21/07/2024, 11:28 am - Hitesh: Haa Aaj se karta hai
+21/07/2024, 11:28 am - Lav: Usne Kar Diya Sayad
+21/07/2024, 11:32 am - Lav: Aj Dataset Find karte Hai Kal Cleaning (Aj Or Kal Tak Acha Koy Data set find karte hai jesme Cleaning ka part zyadana ho To Modal bhi jaldi train hoga )or Tuesday ko model train kar denge..
+21/07/2024, 11:33 am - Hitesh: Haa
+21/07/2024, 11:37 am - Nisarg (Red & White): Ok
+21/07/2024, 12:13 pm - Prisha: 😂😂😂
+21/07/2024, 12:22 pm - Hitesh: For this also , I need separate file with each step explanation explanation
+21/07/2024, 12:22 pm - Hitesh: And most important we can't use time series here .
+21/07/2024, 12:27 pm - Hitesh pinned a message
+21/07/2024, 12:27 pm - Nisarg (Red & White): <Media omitted>
+21/07/2024, 12:28 pm - Nisarg (Red & White): Me ek data dekh raha tha supermarket sales ka..!!
+To wo chalega ki nai.!?
+21/07/2024, 12:29 pm - Lav: Usme Independent dependent sub dekh levo pdf me bola hai vese ho to chalega
+21/07/2024, 12:29 pm - Hitesh: Haa bhai
+21/07/2024, 12:29 pm - Hitesh: Voh sab bhi dekhna hai 😅
+21/07/2024, 12:29 pm - Hitesh: Apne hath mai ek baccha k future hai 😅😅
+21/07/2024, 12:29 pm - Lav: 😂
+21/07/2024, 12:30 pm - Nisarg (Red & White): Koi na barbad ho gaya to usko sikhne milega ese assignment nahi likhvate kisi se 😂
+21/07/2024, 12:31 pm - Hitesh: Paisa wala log hai  voh  log or kisi se karwaya g
+21/07/2024, 12:31 pm - Lav: 🤣 Me bhi vahi soch raha hu Ager Assa Kuch nahi try karnge to direct company me Kuch nahi kar payenge..
+21/07/2024, 12:31 pm - Hitesh: Bhaiya apne ko aisa or projects mil sakta hai.
+21/07/2024, 12:31 pm - Hitesh: Ek pass hua toh 😂😂
+21/07/2024, 12:32 pm - Lav: Ha 🤞🏻
+21/07/2024, 12:32 pm - Nisarg (Red & White): <Media omitted>
+21/07/2024, 12:32 pm - Lav: <Media omitted>
+21/07/2024, 12:32 pm - Hitesh: 😂😂
+21/07/2024, 12:32 pm - Nisarg (Red & White): Tu imagine ho gaya bro esa krte hue 🤣
+21/07/2024, 12:33 pm - Lav: <Media omitted>
+21/07/2024, 12:33 pm - Nisarg (Red & White): 🤣🤣🤣🤣🤣
+21/07/2024, 12:33 pm - Hitesh: 😂
+21/07/2024, 12:33 pm - Nisarg (Red & White): Ye to profile se match bhi ho raha hai 🤣🤣
+21/07/2024, 12:34 pm - Lav: <Media omitted>
+21/07/2024, 12:34 pm - Nisarg (Red & White): Ha ye sahi hai 😂
+21/07/2024, 12:34 pm - Lav: Nisarg ki nind Aj Puri ho gy Lagta hai
+21/07/2024, 12:34 pm - Nisarg (Red & White): <Media omitted>
+21/07/2024, 12:35 pm - Lav: <Media omitted>
+21/07/2024, 12:35 pm - Nisarg (Red & White): Etni achhe se ki 10 baje lag raha tha 1 baje hai 😅
+21/07/2024, 12:35 pm - Lav: <Media omitted>
+21/07/2024, 1:03 pm - Nisarg (Red & White): <Media omitted>
+21/07/2024, 5:42 pm - Lav: Saro che but ama apde model Ne Predict su karvshu
+21/07/2024, 5:42 pm - Lav: <Media omitted>
+21/07/2024, 5:43 pm - Lav: Ama ek salary predict karava shakay and ( x=4 , y =1 )che
+21/07/2024, 5:43 pm - Lav: <Media omitted>
+21/07/2024, 5:43 pm - Lav: Ama house ni price predict kaavi shakay
+21/07/2024, 6:48 pm - Nisarg (Red & White): Gross income 🤔
+21/07/2024, 6:49 pm - Lav: Hmm
+21/07/2024, 6:49 pm - Lav: Je Karvu Hoy Aa
+21/07/2024, 6:49 pm - Lav: @919925532093 @919081921022
+21/07/2024, 6:49 pm - Lav: ?
+21/07/2024, 6:53 pm - Hitesh: <Media omitted>
+21/07/2024, 6:54 pm - Prisha: nhiii
+21/07/2024, 6:56 pm - Hitesh: <Media omitted>
+21/07/2024, 6:57 pm - Nisarg (Red & White): <Media omitted>
+21/07/2024, 7:07 pm - Lav: Kyo m
+21/07/2024, 7:07 pm - Lav: ?
+21/07/2024, 7:29 pm - Nisarg (Red & White): Library k su kei.!!
+Import krvanu 6 statsmodels
+
+Library documentation ma pandas pa6i nu 6 te
+21/07/2024, 7:29 pm - Nisarg (Red & White): .
+21/07/2024, 8:18 pm - Hitesh: Yaa data set par kam Kara g
+22/07/2024, 8:57 am - Prisha: Oye
+22/07/2024, 8:58 am - Lav: Bolo
+22/07/2024, 8:58 am - Prisha: @917383165330 tera waha paani se float  ho gai hai road kya ??
+22/07/2024, 8:58 am - Hitesh: 👀
+22/07/2024, 8:58 am - Prisha: Aaj Maan nhi kar raha class Jana kaa
+22/07/2024, 8:58 am - Lav: Pata nahi
+22/07/2024, 8:58 am - Prisha: Mera sab studies nhi hua 🥺
+22/07/2024, 8:58 am - Lav: Me 2 din se nikla Hi nahi
+22/07/2024, 8:58 am - Prisha: Can we give excuses 😭😂
+22/07/2024, 8:58 am - Prisha: Me 3 😂😂
+22/07/2024, 8:59 am - Prisha: Muja mera ghar bohot pasand hai muja nhi jana
+22/07/2024, 8:59 am - Hitesh: <Media omitted>
+22/07/2024, 8:59 am - Prisha: For real 🤣
+22/07/2024, 8:59 am - Lav: Mat Jao..😂 Sir Ko Bol Do ki Exam Ghare Se Denge
+22/07/2024, 8:59 am - Hitesh: <Media omitted>
+22/07/2024, 8:59 am - Prisha: Done naa
+22/07/2024, 9:00 am - Lav: Sir Nahi Mange
+22/07/2024, 9:00 am - Prisha: Me esa bolu na ki sir bohot barish aa rahi hai and paani paani ho gaya road
+22/07/2024, 9:00 am - Prisha: Toh tu bolna lab same here
+22/07/2024, 9:00 am - Lav: vese bhi 1 din diya tha
+22/07/2024, 9:00 am - Prisha: Karki
+22/07/2024, 9:00 am - Lav: Ha
+22/07/2024, 9:00 am - Prisha: Yarrrr kal de denga naaa🥺🥺🥺
+22/07/2024, 9:00 am - Prisha: Plssss help me yar 🥲
+22/07/2024, 9:01 am - Prisha: Kal we will do class ka lecture and exam
+22/07/2024, 9:01 am - Hitesh: Full Pani bhara hu hai
+22/07/2024, 9:01 am - Hitesh: Or exam exam kar raha hoo
+22/07/2024, 9:01 am - Lav: Muje kuch nahi hai me to 10 din tak na Du Muje Koy Jaldi nahi hai..😂
+22/07/2024, 9:01 am - Prisha: Sachii yar🥺😂
+22/07/2024, 9:01 am - Lav: <Media omitted>
+22/07/2024, 9:01 am - Prisha: 🤣🤣🤣
+22/07/2024, 9:01 am - Prisha: Done fir
+22/07/2024, 9:01 am - Prisha: @917383165330 ek kaam kar tu pela msg dal
+22/07/2024, 9:01 am - Prisha: Fir uska 2 mins baad I will
+22/07/2024, 9:02 am - Hitesh: Yaa script likha rahi hai ab prisha 😂😂
+22/07/2024, 9:02 am - Prisha: Bolo kesa plan haa
+22/07/2024, 9:02 am - Prisha: 🤣🤣🤣🤣
+22/07/2024, 9:02 am - Lav: Nahi Last Time bhi main ne hi dala tha Aj Koy karo
+22/07/2024, 9:02 am - Prisha: @919925532093 chup reee😂
+22/07/2024, 9:02 am - Hitesh: <Media omitted>
+22/07/2024, 9:02 am - Prisha: Haa thik hai I will go firs
+22/07/2024, 9:02 am - Lav: Ha
+22/07/2024, 9:02 am - Prisha: Fir tu bolna ki sir yaha bhi paani bhar gaya hai
+22/07/2024, 9:03 am - Lav: @917096814375  To mast so raha honga..
+22/07/2024, 9:03 am - Prisha: Sachi Bhai 🤣🤣
+22/07/2024, 9:03 am - Hitesh: duniya chahe doob jaaye hum sooya g 😂😂
+22/07/2024, 9:03 am - Lav: <Media omitted>
+22/07/2024, 9:03 am - Prisha: An @917383165330 bc bolnaaaa
+22/07/2024, 9:03 am - Prisha: Oye oye oyeeeeeeeeewee
+22/07/2024, 9:04 am - Prisha: 😁😁😁😁
+22/07/2024, 9:04 am - Prisha: Come onnnn come onnnnn
+22/07/2024, 9:04 am - Hitesh: 😂😂
+22/07/2024, 9:04 am - Lav: Are Message to read karnede
+22/07/2024, 9:04 am - Prisha: Basss sala me haaa sir bol diya
+22/07/2024, 9:04 am - Prisha: 😭😭😴
+22/07/2024, 9:04 am - Prisha: ""Haa sir"""
+22/07/2024, 9:04 am - Prisha: 🤣🤣
+22/07/2024, 9:05 am - Prisha: Waha likhi mera waha bhi same
+22/07/2024, 9:05 am - Hitesh: <Media omitted>
+22/07/2024, 9:05 am - Lav: Are Hum kp kuch kam hai us Assignment regarding to jana hi padega..
+22/07/2024, 9:06 am - Prisha: Assignment??
+22/07/2024, 9:06 am - Lav: Are vo hitesh ne bheja tha Vo
+22/07/2024, 9:06 am - Prisha: Ohhh
+22/07/2024, 9:06 am - Hitesh: Haa yrr voh Karna hai bhai.
+22/07/2024, 9:07 am - Prisha: Sir meko pata rahi thi
+22/07/2024, 9:07 am - Prisha: Ki tu aa tu aa and sab ko bol aana ko
+22/07/2024, 9:07 am - Lav: Tu bol dena ki bimar hu
+22/07/2024, 9:07 am - Prisha: Aaaj bhi wahi song gaaunga
+22/07/2024, 9:07 am - Hitesh: <Media omitted>
+22/07/2024, 9:07 am - Lav: Bilkul asse😂
+22/07/2024, 9:07 am - Prisha: Chup re bhai meri lag jaigi mom ko call and I am dead
+22/07/2024, 9:08 am - Prisha: Bhai bilkul nhii pls
+22/07/2024, 9:08 am - Hitesh: <Media omitted>
+22/07/2024, 9:08 am - Lav: Kya bro Jab Man kare tab Chali jana Class Fir Thodi der me Khatam Karke nikal Jana..
+22/07/2024, 9:09 am - Prisha: 🤣🤣🤣 sachi
+22/07/2024, 9:40 am - Prisha: @917383165330
+22/07/2024, 9:41 am - Prisha: Sala text delete
+22/07/2024, 9:41 am - Prisha: Woww
+22/07/2024, 9:41 am - Prisha: Naaa
+22/07/2024, 9:41 am - Prisha: Bhai
+22/07/2024, 9:41 am - Prisha: Koi naaa re koi nai
+22/07/2024, 9:42 am - Lav: are per me abhi  na bolta hu to fir assignment ke liye bhi nahi ja shakhta tab sir bolnge ki class ke liye barish ka issue kyo banaya
+22/07/2024, 9:42 am - Lav: isleye fir delete kiya
+22/07/2024, 9:42 am - Prisha: Konsa assignment???
+22/07/2024, 9:43 am - Lav: hitesh vala
+22/07/2024, 9:43 am - Prisha: Samji nhi
+22/07/2024, 9:43 am - Hitesh: This one
+22/07/2024, 9:43 am - Prisha: Dekhlo fir mena bhi kyu he msg dala
+22/07/2024, 9:43 am - Lav: pin kiya hai upper vo solve karana hai
+22/07/2024, 9:43 am - Lav: rukto sir kya bolte hai vo dekhte hai
+22/07/2024, 9:44 am - Prisha: Sab ko karna tha kya
+22/07/2024, 9:44 am - Hitesh: Sab mil kar karoo
+22/07/2024, 9:44 am - Lav: ya fir sir ko bolna ki sir lecture ke bad exam de ke ghar jaynge
+22/07/2024, 9:44 am - Hitesh: Toh accha hi submit karaga
+22/07/2024, 9:44 am - Prisha: Haaa wahi sahi hai kal jata hai naa
+22/07/2024, 9:44 am - Lav: ha
+22/07/2024, 9:45 am - Prisha: Meko plsss samjao
+22/07/2024, 9:45 am - Prisha: I can not understand
+22/07/2024, 9:45 am - Hitesh: <Media omitted>
+22/07/2024, 9:45 am - Prisha: Did sir tell us to do the assignment
+22/07/2024, 9:45 am - Hitesh: Hee bhagwan
+22/07/2024, 9:45 am - Prisha: Yeh fir yeh hitesh ka hai not for uss
+22/07/2024, 9:45 am - Lav: hitesh explain karega
+22/07/2024, 9:45 am - Hitesh: <Media omitted>
+22/07/2024, 9:45 am - Prisha: Koi nai guys 🥲
+22/07/2024, 9:45 am - Hitesh: Aree mujhe bhar se project Mila hai
+22/07/2024, 9:46 am - Hitesh: Suno prisha.
+22/07/2024, 9:46 am - Lav: sir is tyoing
+22/07/2024, 9:46 am - Hitesh: Voh humko 1200  itna pay Kara g per project k
+22/07/2024, 9:46 am - Lav: 😂
+22/07/2024, 9:47 am - Hitesh: @919081921022
+22/07/2024, 9:47 am - Lav: @919081921022  kam ho gaya sir ne samne se bol diya
+22/07/2024, 9:47 am - Lav: 😂
+22/07/2024, 9:49 am - Hitesh: This message was deleted
+22/07/2024, 9:49 am - Prisha: Ohhh
+22/07/2024, 9:49 am - Prisha: I am. Now
+22/07/2024, 9:49 am - Hitesh: Haa toh voh bhar wala project apne ko karna hai.
+22/07/2024, 9:49 am - Prisha: Gotchaaa
+22/07/2024, 9:50 am - Prisha: Acha esa bolo naa
+22/07/2024, 9:50 am - Hitesh: Haa
+22/07/2024, 9:50 am - Prisha: Me toh rnw leka soch Rahi hu
+22/07/2024, 9:50 am - Hitesh: Naa naa. 😂😂
+22/07/2024, 9:50 am - Prisha: Chalo finally
+22/07/2024, 9:50 am - Prisha: Kal exam + lecture
+22/07/2024, 9:50 am - Prisha: Shanti
+22/07/2024, 9:50 am - Hitesh: Accha.
+22/07/2024, 9:50 am - Prisha: 😮‍💨😮‍💨😮‍💨😮‍💨
+22/07/2024, 9:53 am - Lav: <Media omitted>
+22/07/2024, 9:53 am - Lav: <Media omitted>
+22/07/2024, 9:57 am - Lav: Me Try karta hu jitna hota hai utna fir jo nahi shamaj ata vo discuss karlenge..
+22/07/2024, 9:58 am - Nisarg (Red & White): <Media omitted>
+22/07/2024, 9:59 am - Nisarg (Red & White): <Media omitted>
+22/07/2024, 10:00 am - Lav: Aj chute hai
+22/07/2024, 10:00 am - Lav: Chuti*
+22/07/2024, 10:01 am - Hitesh: 😂😂
+22/07/2024, 10:04 am - Nisarg (Red & White): Ha mera reply nahi dekha to sir ne personally msg kiya sir aaj 6utti hai 🤣🤣
+22/07/2024, 10:04 am - Lav: 😂
+22/07/2024, 10:13 am - Prisha: Yeh teko kissna diya
+22/07/2024, 10:14 am - Nisarg (Red & White): Assignment ya fir dataset.!?
+22/07/2024, 10:15 am - Lav: dataset hum ko apne hisab se lena tha
+22/07/2024, 3:33 pm - Lav: <Media omitted>
+22/07/2024, 3:34 pm - Lav: Q :- 6 Ma 3rd Multi Linear Regression Perform Kari Apno ne koy Mara ma Chat gpt ma be Limit Over Thay gy che Error Ave Che
+22/07/2024, 6:35 pm - Nisarg (Red & White): Bar aavyo 6u ghare jai jov..!!
+22/07/2024, 6:35 pm - Lav: Ha
+22/07/2024, 10:56 pm - Hitesh: <Media omitted>
+22/07/2024, 11:07 pm - Prisha: Kya kal class 10 ko jana hai
+22/07/2024, 11:07 pm - Prisha: Exam kar lena toh atleast 1 ko ghar ja sakti hai
+22/07/2024, 11:10 pm - Nisarg (Red & White): Jyada jaldi nai hai😅
+22/07/2024, 11:10 pm - Nisarg (Red & White): @917383165330  jo bole
+23/07/2024, 12:12 am - Nisarg (Red & White): Done
+23/07/2024, 12:17 am - Prisha: Tomorrow 10 it is then
+23/07/2024, 12:17 am - Prisha: Bhulna mat guysss
+23/07/2024, 12:17 am - Prisha: Ek din aaana ha Roz roz nhi😂
+23/07/2024, 12:21 am - Nisarg (Red & White): <Media omitted>
+23/07/2024, 7:43 am - Lav: thik hai
+23/07/2024, 9:03 am - Prisha: Kyu ki sir na subha subha class me hota hai tohbaapna copy ho jaiga😂
+23/07/2024, 9:03 am - Prisha: @917383165330 @917096814375 time se aana not 11 10 itself
+23/07/2024, 9:06 am - Nisarg (Red & White): Pehle exam dena hai esa.!!
+23/07/2024, 9:06 am - Nisarg (Red & White): Thoda edhar udhar hoga mera..!!
+23/07/2024, 9:20 am - Prisha: Haa
+23/07/2024, 9:21 am - Prisha: Dekh le yarr fir thing is we have to sit after class and sir bhi hunga toh copy not possible
+23/07/2024, 9:22 am - Hitesh: <Media omitted>
+23/07/2024, 9:24 am - Prisha: Tu bhi aa ja @919925532093
+23/07/2024, 9:24 am - Nisarg (Red & White): Oii hitesh apne parvat patiya se aage bhi pani bhara hai kya kahi.?
+23/07/2024, 9:29 am - Prisha: Wahi me Sochi rahi
+23/07/2024, 9:29 am - Prisha: Esa hota hai toh fir nhi aa sakta
+23/07/2024, 9:29 am - Prisha: Aapna log
+23/07/2024, 9:29 am - Prisha: Fast fast tell me
+23/07/2024, 9:29 am - Prisha: Guys
+23/07/2024, 9:29 am - Prisha: Meko pata chali nikal ka
+23/07/2024, 9:32 am - Prisha: Sir toh bol rahi hai nhi
+23/07/2024, 9:32 am - Prisha: Meko bata do toh pata chali nikalna ha ya nhi meko
+23/07/2024, 9:34 am - Nisarg (Red & White): 2 days continuously hui hai barish to hoga to sahi..!!
+23/07/2024, 9:34 am - Hitesh: Partiya par pani toh nhi hai traffic full hota hai 😅😂😂
+23/07/2024, 9:34 am - Nisarg (Red & White): Fir class tak.?
+23/07/2024, 9:35 am - Prisha: 🤣🤣🤣
+23/07/2024, 9:35 am - Prisha: Chalo aaj bhi nhi jana guys
+23/07/2024, 9:35 am - Prisha: Batai
+23/07/2024, 9:35 am - Nisarg (Red & White): Mere ghar se patiya ke bich me full traffic or pani bhara hai to mujhe pura ghum kr aana padega agr aa rahe hai to
+23/07/2024, 9:35 am - Nisarg (Red & White): Luv nikal gaya hoga pr
+23/07/2024, 9:35 am - Hitesh: Rahne doo mat jaaoo
+23/07/2024, 9:35 am - Prisha: toh sir ko ek bar bata esa haa
+23/07/2024, 9:35 am - Hitesh: Cancel
+23/07/2024, 9:35 am - Nisarg (Red & White): Ruk pu6ta hu
+23/07/2024, 9:36 am - Prisha: And dekhti hai kya bolti hai
+23/07/2024, 9:36 am - Prisha: Esa bolna kal aai class🤣
+23/07/2024, 9:36 am - Nisarg (Red & White): Sir bolenge roz roz raja.!!
+23/07/2024, 9:36 am - Prisha: Toh barishy
+23/07/2024, 9:36 am - Hitesh: Haa toh kya kara tum logo k liya hum swimming kar k aaya
+23/07/2024, 9:36 am - Prisha: Baarish haa
+23/07/2024, 9:36 am - Prisha: Tera haat me thodi haa
+23/07/2024, 9:36 am - Prisha: Chup re jutha 😂
+23/07/2024, 9:36 am - Prisha: Swimming wala
+23/07/2024, 9:37 am - Hitesh: 😂😂
+23/07/2024, 9:37 am - Prisha: Meko Aaj bhi nhi aana class chal bolu toh 🤣🤣
+23/07/2024, 9:38 am - Hitesh: <Media omitted>
+23/07/2024, 9:38 am - Prisha: Same here
+23/07/2024, 9:38 am - Prisha: I had to wake up early
+23/07/2024, 9:38 am - Prisha: Bolnaaa sir ko paani bara hai
+23/07/2024, 9:38 am - Prisha: Tera and prisha and lav toh gharnala se aata hai waha bhi paani paani ho gaya hai sab
+23/07/2024, 9:38 am - Prisha: Yeh bol
+23/07/2024, 9:39 am - Prisha: Fast call call
+23/07/2024, 9:39 am - Hitesh: Same same 😅
+23/07/2024, 9:39 am - Prisha: Hena so Jana fir pgl teko toh time ha
+23/07/2024, 9:39 am - Nisarg (Red & White): Luv pohoch gaya class pr
+23/07/2024, 9:39 am - Hitesh: 😂😂 Ghar wala
+23/07/2024, 9:39 am - Prisha: Woww
+23/07/2024, 9:39 am - Prisha: Msg nhi dala woh
+23/07/2024, 9:39 am - Nisarg (Red & White): Jate hai fir class
+23/07/2024, 9:39 am - Hitesh: Yaa barish mai nasta mangwa raha hai mujhe se 😂😂
+23/07/2024, 9:39 am - Prisha: Woh msg kyu nhi kar raha
+23/07/2024, 9:39 am - Prisha: Chalo
+23/07/2024, 9:40 am - Hitesh: <Media omitted>
+23/07/2024, 9:40 am - Prisha: 🤣🤣🤣
+23/07/2024, 9:40 am - Prisha: Leka aa ja
+23/07/2024, 9:40 am - Prisha: 😂
+23/07/2024, 9:40 am - Nisarg (Red & White): Just pohcha tha call kiya mene usko
+23/07/2024, 9:41 am - Lav: @919081921022  kaha ho ?
+23/07/2024, 9:42 am - Hitesh: <Media omitted>
+23/07/2024, 9:42 am - Hitesh: 😂😂
+23/07/2024, 9:42 am - Nisarg (Red & White): Dekh me abhii nikal raha hu to mujhe time lagega
+23/07/2024, 9:42 am - Nisarg (Red & White): Raste me pani kitna hai no idea...
+23/07/2024, 9:42 am - Nisarg (Red & White): To aane ka time bata nahi sakta me kab tak aaunga wo
+23/07/2024, 9:43 am - Nisarg (Red & White): Tum exam start kr do 😅@917383165330
+23/07/2024, 9:43 am - Hitesh: Love bhaiya class phonche gaya
+23/07/2024, 9:43 am - Hitesh: 👀
+23/07/2024, 9:43 am - Nisarg (Red & White): To ye kya bola mene
+23/07/2024, 9:46 am - Lav: nisarg sir aa na padi ke hu tamene apish dataset
+23/07/2024, 9:47 am - Lav: ama karvanu chu
+23/07/2024, 10:05 am - Lav: <Media omitted>
+23/07/2024, 10:05 am - Prisha: On way
+23/07/2024, 10:30 am - Nisarg (Red & White): Mujhe time lagega...2-3 raste try kiye pr pani ki vajah se bandh kiye hai sab
+23/07/2024, 10:30 am - Nisarg (Red & White): Dekhta hu kaha se aa dakta hu
+23/07/2024, 10:31 am - Lav: thik hai Tu Aa fir sir lecture lenge.. bol rahe hai 30 min jesa hoga
+23/07/2024, 10:31 am - Nisarg (Red & White): Tum exam to de do
+23/07/2024, 10:32 am - Nisarg (Red & White): Me adhe raste tak hi pohoch paya hu abhi tak
+23/07/2024, 10:32 am - Lav: main ne sir ko pata liya vo main ne kiya vahi upload kar diya
+23/07/2024, 10:32 am - Lav: prisha de rahi hai exam
+23/07/2024, 10:32 am - Nisarg (Red & White): Vopy kr sakte hai kya !?😂
+23/07/2024, 10:32 am - Nisarg (Red & White): Copy
+23/07/2024, 10:32 am - Lav: chat gpt
+23/07/2024, 10:32 am - Lav: usko 3 data set diye
+23/07/2024, 10:33 am - Nisarg (Red & White): L lage hai bhai dekhta hu jese tese aata hu
+23/07/2024, 10:33 am - Lav: uspe kar rahi hai
+23/07/2024, 10:33 am - Lav: aa aram se
+23/07/2024, 10:33 am - Nisarg (Red & White): Petrol bhi khatam hone ko aaya hai ek to🤧
+23/07/2024, 10:33 am - Nisarg (Red & White): Han
+23/07/2024, 10:54 am - Nisarg (Red & White): Dude me nahi aau to chalega kya.!!
+23/07/2024, 10:55 am - Lav: Hum ko chalega]
+23/07/2024, 10:57 am - Nisarg (Red & White): Bc 1hour ho gaya abhi me bich me hi atka huaa hu
+23/07/2024, 10:57 am - Nisarg (Red & White): Abhi ghar jane me pata nai kitna time lagega fir se 😂
+23/07/2024, 11:27 am - Hitesh: https://youtu.be/Kl09iSWvEBk?si=KH5AnoNnYKLfmBXL
+23/07/2024, 1:44 pm - Hitesh: Rnw aane k koi rasta btao bhai
+23/07/2024, 1:44 pm - Hitesh: Sab jagah Pani Pani 🙃🙃
+23/07/2024, 1:44 pm - Lav: Nisarg to naho aya
+23/07/2024, 1:44 pm - Lav: Aj
+23/07/2024, 1:44 pm - Nisarg (Red & White): Mat aa bhai
+23/07/2024, 1:45 pm - Nisarg (Red & White): Me to uske ghar tak bhi nahi pohoch paya 😂
+23/07/2024, 1:45 pm - Hitesh: Aree mai 3 rasta dekh liya sab jagah Pani hai
+23/07/2024, 1:46 pm - Hitesh: <Media omitted>
+23/07/2024, 1:46 pm - Nisarg (Red & White): Same dude pani ne charo taraf se hume gher liya hai 😂
+23/07/2024, 1:47 pm - Nisarg (Red & White): Ye bol de sir ko 🤣
+23/07/2024, 1:47 pm - Hitesh: 😂🤣😂
+23/07/2024, 3:43 pm - Nisarg (Red & White): @919081921022  exam answer wali file bhej na teri..
+23/07/2024, 3:46 pm - Prisha: Ruk
+23/07/2024, 3:48 pm - Prisha: https://colab.research.google.com/drive/1gGJQFyA67ZLLNuvobPiK2G4ZJW2zc9oe?usp=sharing
+23/07/2024, 4:52 pm - Lav: <Media omitted>
+23/07/2024, 4:52 pm - Lav: <Media omitted>
+23/07/2024, 5:10 pm - Nisarg (Red & White): exam me multiple linear nahi krna hai kya?
+23/07/2024, 5:10 pm - Lav: karva nu che
+23/07/2024, 5:10 pm - Nisarg (Red & White): matlb graph kisi ne banaye nahi
+23/07/2024, 5:10 pm - Lav: 3
+23/07/2024, 5:10 pm - Nisarg (Red & White): sir ke code me bhi nahi hai
+23/07/2024, 5:10 pm - Lav: Ha Vo Banana Hai per Main ne nahi banaya
+23/07/2024, 5:11 pm - Nisarg (Red & White): ok
+23/07/2024, 5:11 pm - Nisarg (Red & White): prisha ne to sirf data load kiya hai mlr me😅
+23/07/2024, 5:12 pm - Nisarg (Red & White): na na sorry hai...graph nahi hai sirf
+23/07/2024, 5:40 pm - Prisha: Nhi
+23/07/2024, 5:42 pm - Prisha: senddd senddd
+23/07/2024, 6:17 pm - Nisarg (Red & White): <Media omitted>
+23/07/2024, 11:46 pm - Prisha: Guys
+23/07/2024, 11:46 pm - Prisha: Kal aapan nhi ja rahi na
+23/07/2024, 11:46 pm - Prisha: Red alert hai ig
+23/07/2024, 11:46 pm - Prisha: Toh sab kuch baand ho gaya hai
+23/07/2024, 11:47 pm - Prisha: And if ja rahi hai toh dekho
+23/07/2024, 11:47 pm - Nisarg (Red & White): Han...
+23/07/2024, 11:47 pm - Prisha: @917096814375 toh nhi aa sakta
+23/07/2024, 11:47 pm - Nisarg (Red & White): Ha😂
+23/07/2024, 11:47 pm - Prisha: Toh hum kya esa kar de ki lav bhi nhi aa sakta
+23/07/2024, 11:47 pm - Prisha: Toh fir meko bhi nhi aana
+23/07/2024, 11:47 pm - Prisha: Mera Maan ha aaram karna kaa
+23/07/2024, 11:47 pm - Prisha: @917383165330 bol dena tera waha bhi paani paani ho gaya hai🤣
+23/07/2024, 11:47 pm - Nisarg (Red & White): Sir ko bolenge online class le lo
+23/07/2024, 11:48 pm - Prisha: Nhiwoh bhi nhi karna tbh🤣🤣
+23/07/2024, 11:48 pm - Prisha: But that will work for onces
+23/07/2024, 11:48 pm - Prisha: True
+23/07/2024, 11:48 pm - Hitesh: <Media omitted>
+23/07/2024, 11:49 pm - Prisha: Yess guys
+23/07/2024, 11:49 pm - Prisha: Yesss
+23/07/2024, 11:49 pm - Prisha: @919925532093 tu ja raha kal
+23/07/2024, 11:49 pm - Hitesh: Naa
+23/07/2024, 11:49 pm - Hitesh: State holiday h
+23/07/2024, 11:49 pm - Hitesh: 🤣😂
+23/07/2024, 11:51 pm - Prisha: Ohh woww🎉🥳🥳🥳🥳
+23/07/2024, 11:51 pm - Prisha: Rnw na bola nhi hai naa abhi tak
+23/07/2024, 11:51 pm - Prisha: Toh wahi pata nhi
+23/07/2024, 11:51 pm - Hitesh: प्रिय वाली और विद्यार्थियों,
+
+हम आप सभी को यह सूचित करना चाहते हैं कि वर्तमान में *सूरत शहर* में हो रही भारी वर्षा को ध्यान में रखते हुए, यदि किसी विद्यार्थी को इंस्टिट्यूट आने में असुविधा हो रही है, तो वह अपनी सुरक्षा और सुविधानुसार 24 जुलाई को स्वेच्छा से छुट्टी ले सकते हैं और अपने फेकल्टी को कॉल करके इन्फॉर्म करना जरुरी हैं। कृपया ध्यान दें कि इंस्टिट्यूट में किसी प्रकार की छुट्टी लागू नहीं है, और इंस्टिट्यूट सामान्य रूप से खुला रहेगा। लेकिन विद्यार्थी अपने स्थानीय हालात और परिस्थिति को देखते हुए स्वेच्छा से छुट्टी ले सकते हैं।
+
+हम आपकी सुरक्षा और स्वास्थ्य को प्राथमिकता देते हैं और चाहते हैं कि आप सभी सुरक्षित रहें। इस संदर्भ में आपके सहयोग और समझ के लिए हम आपके आभारी रहेंगे।
+
+धन्यवाद,
+Red & White Multimedia Education
+23/07/2024, 11:52 pm - Hitesh: Yaa msg nhi aaya aapke group mai
+23/07/2024, 11:52 pm - Prisha: ohh fir kya haa \
+24/07/2024, 12:05 am - Nisarg (Red & White): Ladki hai na 😂
+24/07/2024, 9:30 am - Nisarg (Red & White): Sir ko online lec ka kehna hai kya.??
+24/07/2024, 9:30 am - Hitesh: Naa
+24/07/2024, 9:30 am - Nisarg (Red & White): Ok
+24/07/2024, 9:30 am - Hitesh: Kl math k bheja tha online
+24/07/2024, 9:31 am - Hitesh: Kuch samajh nhi aaya 😂🤣🤣
+24/07/2024, 9:31 am - Hitesh: Aap logo k toh ML hai 😂😂
+24/07/2024, 9:31 am - Nisarg (Red & White): 😅
+24/07/2024, 9:37 am - Prisha: Boldee
+24/07/2024, 9:37 am - Lav: Na Recording
+24/07/2024, 9:37 am - Lav: Ml bhi kaha Samaj Aata Hai
+24/07/2024, 9:38 am - Prisha: 🤣🤣🤣
+24/07/2024, 9:38 am - Prisha: Nhi bhai recording bhi chahiye meko
+24/07/2024, 9:38 am - Prisha: Toh no class
+24/07/2024, 9:38 am - Prisha: Pls koi bhi recording mat bolna
+24/07/2024, 9:38 am - Prisha: Me mar dungi unko aavas he nhi aati
+24/07/2024, 9:38 am - Lav: Me To Hog Fir bhi nahi ane vala
+24/07/2024, 9:38 am - Prisha: Nhi padhna aaj
+24/07/2024, 9:39 am - Prisha: Ruk jaao koi decision mat lena
+24/07/2024, 9:39 am - Lav: To Online Attendant Karna padega
+24/07/2024, 9:39 am - Prisha: Me aati hu half an hour me rukooo
+24/07/2024, 9:39 am - Prisha: Kuch nhi padhna ek din
+24/07/2024, 10:27 am - Nisarg (Red & White): Sir ka call aaya tha...mene ku6 nahi bola sir samne se bole ki aaj nahi rakhte ... online me maza nahi aata...
+Pr esa hi raha to fir online krna padega...
+24/07/2024, 10:42 am - Prisha: perfect haaa
+24/07/2024, 10:42 am - Prisha: fir aaj no class
+24/07/2024, 10:42 am - Prisha: finally
+24/07/2024, 10:43 am - Nisarg (Red & White): Tum sabko call nahi aaya.?
+24/07/2024, 10:43 am - Lav: nahi
+24/07/2024, 10:43 am - Lav: muje nahi aya..
+24/07/2024, 10:44 am - Nisarg (Red & White): Ok
+24/07/2024, 10:46 am - Prisha: Nope nhi aaya
+24/07/2024, 10:59 am - Nisarg (Red & White): Waah kya answer diya hai😏😂
+24/07/2024, 10:59 am - Nisarg (Red & White): <Media omitted>
+24/07/2024, 11:01 am - Nisarg (Red & White): Group me msg kiya wo .!!
+Prisha : Me akele kya karungi
+24/07/2024, 11:01 am - Prisha: Smart hai tu
+24/07/2024, 11:01 am - Prisha: 🤣🤣🤣
+25/07/2024, 9:12 am - Lav: Aj Jana Hi Hai Na..?
+25/07/2024, 9:17 am - Prisha: Haa
+25/07/2024, 9:17 am - Prisha: But @917096814375
+25/07/2024, 9:17 am - Prisha: Kaa kya haa
+25/07/2024, 9:20 am - Nisarg (Red & White): Me nahi aa sakta
+25/07/2024, 9:21 am - Nisarg (Red & White): Aaj bhi pani hai
+25/07/2024, 9:22 am - Lav: Sir ko Message larte hai ana hi ki nahi
+25/07/2024, 9:53 am - Prisha: haa wahi
+25/07/2024, 9:55 am - Nisarg (Red & White): Institute to wese bhi open hai...hum sab ja rahe ho to sir ko kya problem hogi fir
+25/07/2024, 9:55 am - Lav: Problem nahi Unki Fir kuch meeting or kuch natak hoga
+25/07/2024, 9:56 am - Nisarg (Red & White): Ha wo ho sakta hai
+25/07/2024, 9:56 am - Nisarg (Red & White): Me thodi der me ek chakkar lagane jane wala hu pani utra hai ki nahi wo dekhne...fir batata hu mera ..agr sir 12 baje kahe to
+25/07/2024, 9:56 am - Lav: Ha
+25/07/2024, 9:57 am - Lav: Sir ke pass Syllabus Ready nahi hota Tab sir 2-3 din ki chuti dete hai or hum ko jab chaye tab natak karte hai
+25/07/2024, 9:57 am - Lav: me to sayad is Saturday Ya fir monday ko nahi aunga
+25/07/2024, 9:58 am - Lav: usme sir natak karnge ki 3-4 lecture piche hai hum
+25/07/2024, 9:58 am - Nisarg (Red & White): Han
+25/07/2024, 9:58 am - Hitesh: <Media omitted>
+25/07/2024, 10:00 am - Lav: @917096814375  us din tu nahi aya tha tab azsa hi hua tha Friday ager hum exam de dete to monday ko regular lecture hota or vo sir ka padhna baki tha isliye chutiya dedi practice ke name per or tu nahi tha tab orally bata diya topic
+25/07/2024, 10:00 am - Lav: To kya
+25/07/2024, 10:00 am - Lav: Bohot natak hai uske
+25/07/2024, 10:01 am - Prisha: har baar ka ha sir kaa natak
+25/07/2024, 10:02 am - Lav: Or ek bat to sach hai ki jab hum ko sir ka connect karna hai tab sir reply hi nahi dete meri bari pe to khas karke.. or time pass ke liye call karte hai
+25/07/2024, 10:03 am - Hitesh: <Media omitted>
+25/07/2024, 10:04 am - Prisha: achi bhai
+25/07/2024, 10:04 am - Nisarg (Red & White): Call se bhi nahi reply dete.?
+25/07/2024, 10:04 am - Prisha: woh deti haaa call per
+25/07/2024, 10:04 am - Lav: call kya karna usko
+25/07/2024, 10:05 am - Hitesh: Aap log question hi aisa puchta honga uss nhi aata hoga
+25/07/2024, 10:05 am - Hitesh: 😂😂
+25/07/2024, 10:05 am - Prisha: 🤣
+25/07/2024, 10:05 am - Lav: <Media omitted>
+25/07/2024, 10:06 am - Hitesh: 15000 pani mai
+25/07/2024, 10:06 am - Hitesh: 😂😂
+25/07/2024, 10:07 am - Lav: <Media omitted>
+25/07/2024, 10:07 am - Hitesh: <Media omitted>
+25/07/2024, 10:32 am - Lav: 12 Vage Che Class
+25/07/2024, 10:32 am - Lav: call kari ne puchyu
+25/07/2024, 10:47 am - Nisarg (Red & White): Marthi ni avase amna nikdelo me badhe jova mate
+25/07/2024, 10:48 am - Nisarg (Red & White): Bandh 6 rasta
+25/07/2024, 10:48 am - Lav: Saru
+25/07/2024, 10:48 am - Nisarg (Red & White): <Media omitted>
+25/07/2024, 10:48 am - Nisarg (Red & White): <Media omitted>
+25/07/2024, 10:48 am - Nisarg (Red & White): <Media omitted>
+25/07/2024, 10:48 am - Nisarg (Red & White): <Media omitted>
+25/07/2024, 10:49 am - Prisha: Arey koi baat nhi
+25/07/2024, 10:49 am - Prisha: Sir ko bol ki paani bhara ha kesa aao
+25/07/2024, 10:49 am - Nisarg (Red & White): Han
+25/07/2024, 10:49 am - Prisha: Wahi
+25/07/2024, 10:52 am - Prisha: Bhai meko laga 🥺😭
+25/07/2024, 10:53 am - Nisarg (Red & White): 🤣🤣🤣
+25/07/2024, 10:53 am - Hitesh: Kya hua
+25/07/2024, 10:53 am - Nisarg (Red & White): 🤣🤣🤣🤣🤣🤣
+25/07/2024, 10:54 am - Nisarg (Red & White): Sir wale group me msg kr rahi hai ye 😂
+25/07/2024, 10:54 am - Hitesh: Accha 😂
+25/07/2024, 10:54 am - Nisarg (Red & White): Ha sahi hai photo bhej man jayenge sir 😂
+25/07/2024, 10:55 am - Nisarg (Red & White): <Media omitted>
+25/07/2024, 10:59 am - Prisha: Haa yar 😭😭😭
+26/07/2024, 12:12 pm - Prisha: @917096814375
+26/07/2024, 12:12 pm - Prisha: This message was deleted
+26/07/2024, 12:12 pm - Prisha: 9-10
+26/07/2024, 12:12 pm - Prisha: Haa aapna class
+26/07/2024, 12:12 pm - Prisha: Morning se hehehhehehe
+26/07/2024, 12:12 pm - Prisha: Ehehehehehhheeh
+26/07/2024, 12:13 pm - Nisarg (Red & White): <Media omitted>
+26/07/2024, 12:14 pm - Prisha: 🤣🤣
+26/07/2024, 12:14 pm - Prisha: Aana padiga
+26/07/2024, 12:15 pm - Nisarg (Red & White): <Media omitted>
+26/07/2024, 12:16 pm - Prisha: <Media omitted>
+26/07/2024, 12:18 pm - Prisha: Haha
+26/07/2024, 12:59 pm - Nisarg (Red & White): <Media omitted>
+28/07/2024, 6:56 pm - Hitesh: Dekho ek baat samjho agr advance level pr Jana h 
+To ye project Mt krna 
+House price prediction 
+Heart attack prediction
+Spam ham classification 
+Flight price prediction 
+Cat dog classification (DL)
+Iris classification (cluster)
+In power bi 
+Sales dashboard 
+Hr dashboard 
+ These are the most common project for the data analyst level so no will show interest on your project
+28/07/2024, 6:56 pm - Hitesh: If these projects were on your resume then your selection chances will be less than 5% 
+Because in project ko to hr koi krega as a startup career in the data science domain or in ml domain
+29/07/2024, 6:42 pm - Nisarg (Red & White): Kal 9 baje on time aa jana 🥹
+@919081921022 
+@917383165330
+29/07/2024, 6:46 pm - Lav: ha
+29/07/2024, 6:49 pm - Prisha: Yess
+31/07/2024, 2:23 pm - Nisarg (Red & White): @919925532093 class jayega aaj.?
+31/07/2024, 2:23 pm - Prisha: This message was deleted
+31/07/2024, 2:24 pm - Nisarg (Red & White): Uska jo bhi chal raha hai
+31/07/2024, 2:24 pm - Prisha: Samaj gai @919925532093
+31/07/2024, 2:24 pm - Nisarg (Red & White): Ja raha hai to 1h pehle nikalna
+31/07/2024, 2:24 pm - Nisarg (Red & White): Bc bohot traffic hai aaj 1h huaa mujhe ghar pohochne me
+31/07/2024, 2:43 pm - Hitesh: Nhi 🙂
+31/07/2024, 2:44 pm - Nisarg (Red & White): Badhiya
+31/07/2024, 6:44 pm - Hitesh: <Media omitted>
+31/07/2024, 7:38 pm - Nisarg (Red & White): @917383165330  kal bhi 12 baje hai kya class.!
+31/07/2024, 7:38 pm - Lav: Kaber Ny
+31/07/2024, 8:03 pm - Nisarg (Red & White): Confirm..!! 12 vage sir ne pu6yu me
+31/07/2024, 8:03 pm - Nisarg (Red & White): @919081921022
+31/07/2024, 8:03 pm - Prisha: Noo 9
+31/07/2024, 8:04 pm - Lav: Ohk
+31/07/2024, 8:05 pm - Nisarg (Red & White): Sir ka number hai.?
+31/07/2024, 8:05 pm - Nisarg (Red & White): Personal.?
+31/07/2024, 8:05 pm - Lav: Ha
+31/07/2024, 8:05 pm - Lav: Rukho Puchta Hu
+31/07/2024, 8:06 pm - Nisarg (Red & White): Prisha.!!
+31/07/2024, 8:06 pm - Nisarg (Red & White): Mene pu6a
+31/07/2024, 8:06 pm - Nisarg (Red & White): 12 baje bola
+31/07/2024, 8:06 pm - Lav: 😂
+31/07/2024, 8:06 pm - Nisarg (Red & White): Khud se time nahi de raha me
+31/07/2024, 8:07 pm - Lav: Acha Tu bata Raha Tha Muje laga Ki Puch Raha Hai...
+31/07/2024, 8:07 pm - Lav: OHK
+31/07/2024, 8:07 pm - Nisarg (Red & White): @919081921022 .?
+31/07/2024, 8:07 pm - Lav: Jo aj Hua Uske bad to Ab Har Roz 12:00 hoga..😂
+31/07/2024, 8:08 pm - Nisarg (Red & White): Dekhte hai🥹
+31/07/2024, 8:08 pm - Nisarg (Red & White): 9 baje ka bhi pu6a hai sir ko... reply nahi diya sir ne
+31/07/2024, 8:08 pm - Nisarg (Red & White): Soch rahe hai
+31/07/2024, 8:08 pm - Lav: Ab 9:00 ka Karna Ho Na To New Sub Course (Unsupervised )me to hum officially Change Karvayenge..
+31/07/2024, 8:08 pm - Lav: 😂
+31/07/2024, 8:10 pm - Nisarg (Red & White): @919081921022  @917383165330 
+Kal sor ka demo lec hai 9 baje to 12 baje hi bola hai sir ne.!!
+31/07/2024, 8:11 pm - Lav: Ab Se To Hoga hi Demo Lecture..😂 Is liye hi Ab Hum Sir Ko Bol Denge... ki Sir Hum ko Apna Tiime Change karna hai...Ap Kuch bhi karo Humara Hum ko Jo Time Chaiye Vo Kar ke do...
+31/07/2024, 8:12 pm - Nisarg (Red & White): Han prisha kahegi sir ko ab...
+Aap demo 12 baje rakho hum to 9 baje ayenge 😅
+31/07/2024, 8:12 pm - Lav: matlab ne Kal ki bat nahi kar Raha Unsupervised Me Bat Kar Raha Hu
+31/07/2024, 8:13 pm - Lav: Or @917096814375  Tumhe Jaldi hai..Aj Sir ne Bola Ki nisarg ko jaldi hai
+31/07/2024, 8:13 pm - Lav: Course khatam karne ki isliye me bhaga raha hu
+31/07/2024, 8:14 pm - Lav: 1-2 Month Late hoga...12 me bol raha tha 2nd (February ) ma khatam thashe Bov to...
+31/07/2024, 8:15 pm - Lav: Muje aj sir bole Nisarg ko Jaldi Karna Hai Uske pass Yime nahi Hai.😅
+31/07/2024, 8:15 pm - Nisarg (Red & White): Han wesa hi samaj lo
+31/07/2024, 8:16 pm - Lav: ohk
+31/07/2024, 8:16 pm - Nisarg (Red & White): Pr mene ye nahi kaha tha ki hard topic bhagao
+31/07/2024, 8:16 pm - Nisarg (Red & White): Easy me bhi bhaga sakte hai na
+31/07/2024, 8:16 pm - Nisarg (Red & White): Usme 6utti dete hai sir
+31/07/2024, 8:16 pm - Lav: Vahi To...
+31/07/2024, 8:17 pm - Lav: Sir muje bol rahe The ki Yaha Pe Aram Se Topic ka Basic Samaj Lo or apne hisab se Research karo
+31/07/2024, 8:18 pm - Lav: Ab To Soch raha Hu Ki Sir Ki Ache Se Le..😂 vese Bhi Bohot Udte Hai..
+31/07/2024, 8:19 pm - Lav: Taki next batch Ko Asan Pade..
+31/07/2024, 8:20 pm - Lav: <Media omitted>
+31/07/2024, 8:20 pm - Nisarg (Red & White): Han
+31/07/2024, 8:20 pm - Lav: Kal Milte hai 12'o Clock
+31/07/2024, 8:20 pm - Nisarg (Red & White): Kal aaj ka fir se revise krne kahenge... Aaj search kr lete hai 😅
+31/07/2024, 8:20 pm - Nisarg (Red & White): Yup
+31/07/2024, 8:21 pm - Lav: ha
+31/07/2024, 8:21 pm - Nisarg (Red & White): I hope prisha bhi msg padh le 😂
+31/07/2024, 8:21 pm - Lav: <Media omitted>
+31/07/2024, 8:23 pm - Hitesh: <Media omitted>
+31/07/2024, 8:47 pm - Prisha: Haa
+31/07/2024, 8:47 pm - Prisha: Fir thi haa
+31/07/2024, 8:47 pm - Prisha: Sor??
+31/07/2024, 8:47 pm - Hitesh: <Media omitted>
+31/07/2024, 8:48 pm - Prisha: Tell me
+31/07/2024, 8:48 pm - Prisha: Plllllls
+31/07/2024, 8:48 pm - Prisha: Kya hua
+31/07/2024, 8:48 pm - Lav: Kuch nahi
+31/07/2024, 8:48 pm - Prisha: Boloo
+31/07/2024, 8:48 pm - Lav: aj jo hua Vo vapas na ho isliye
+31/07/2024, 8:48 pm - Lav: bola
+31/07/2024, 8:49 pm - Lav: Ki group me message padh bhi liya karo
+31/07/2024, 8:49 pm - Prisha: Kya bola perr
+31/07/2024, 8:49 pm - Prisha: Btw ukw
+31/07/2024, 8:49 pm - Lav: Kuch nahi bolo
+31/07/2024, 8:49 pm - Prisha: Meko kuch bhi samaj nhi aaaya Aaj ka topic🤣
+31/07/2024, 8:49 pm - Lav: vo vo dekh Raha Tha Call per
+31/07/2024, 8:49 pm - Prisha: Kya hua tha aaj??
+31/07/2024, 8:50 pm - Prisha: Kya dekh raha tha
+31/07/2024, 8:50 pm - Lav: Tera face pe aj to sir k lhudko hi samaj nahi aya
+31/07/2024, 8:57 pm - Nisarg (Red & White): Ku6 nahi short me kal 12 baje ka time hai ...or aaj ka topic decision tree khud se dekh lena kal sir ko bolenge firse revise krvane ko
+31/07/2024, 9:08 pm - Lav: <Media omitted>
+31/07/2024, 9:15 pm - Lav: @917096814375 Kal Hum Me or prisha 11 ko jane vale hai mam se bat karne ki samj nahi aa raha
+31/07/2024, 9:27 pm - Nisarg (Red & White): Thik hai me nahi aau to chalega na.?
+Wese bhi tum dono hi bolte ho waha 😅
+31/07/2024, 9:28 pm - Lav: ha 😂😂
+01/08/2024, 9:33 pm - Nisarg (Red & White): Kal ka time 9 baje rakhna hai.?
+01/08/2024, 9:33 pm - Nisarg (Red & White): @917383165330 @919081921022
+01/08/2024, 9:33 pm - Nisarg (Red & White): Sir pu6 rahe the
+01/08/2024, 9:36 pm - Prisha: Dekhlo
+01/08/2024, 9:36 pm - Nisarg (Red & White): Kya
+01/08/2024, 9:39 pm - Lav: Muje To Kuch bhi Chalega....9 bhi or 12 ' o'clock bhi
+01/08/2024, 9:40 pm - Prisha: Sir ka call aaya meko
+01/08/2024, 9:40 pm - Prisha: Puch rahi thi time
+01/08/2024, 9:40 pm - Prisha: I said okay to 9
+01/08/2024, 9:40 pm - Prisha: Toh kal 9 ko aana hai everyone
+01/08/2024, 9:41 pm - Nisarg (Red & White): Ok
+01/08/2024, 9:54 pm - Lav: Ohk
+02/08/2024, 8:11 pm - Nisarg (Red & White): Kal ka Class time 12:00 pm
+02/08/2024, 8:19 pm - Lav: Ohk
+03/08/2024, 10:22 am - Nisarg (Red & White): @917383165330 @919081921022 class time 1 vage kei 6 sir
+03/08/2024, 10:23 am - Nisarg (Red & White): Msg aaya tha sir ka.?
+03/08/2024, 10:28 am - Nisarg (Red & White): Prisha ka pH switched off 🫠
+03/08/2024, 10:28 am - Lav: 😂 Ab Aj Bhi Vo Jaldi jayegi
+03/08/2024, 10:29 am - Nisarg (Red & White): Esa hi lag raha hai
+03/08/2024, 10:29 am - Lav: Sir bhi kitna Time pass karte hai
+03/08/2024, 10:30 am - Nisarg (Red & White): ?
+03/08/2024, 10:30 am - Lav: Unko nahi Ata Hoga Jo Aj Padhane vale hai Vo Isliye Late kiya
+03/08/2024, 10:33 am - Nisarg (Red & White): 😂😂😂ha
+03/08/2024, 11:10 am - Prisha: Jyaa
+03/08/2024, 11:11 am - Prisha: 😂😂
+03/08/2024, 11:11 am - Prisha: Meko nhi jana classes🥺😭😭😭
+03/08/2024, 11:18 am - Lav: Same
+03/08/2024, 11:18 am - Lav: muje to ab chod dene ki full icha hai
+03/08/2024, 11:39 am - Prisha: Bhai sahab
+03/08/2024, 11:39 am - Prisha: Tuna Paisa dediya hai fir kyu ab
+03/08/2024, 11:42 am - Lav: Bas Pata Nahi Roj Iski Bakvas Nahi Suni Ja Rahi
+03/08/2024, 11:42 am - Lav: @919081921022 Main Aj Jane vala hu mam ko bolne Tu Ane Vali Hai ?
+03/08/2024, 11:48 am - Prisha: Haa sure
+03/08/2024, 11:48 am - Prisha: I can
+03/08/2024, 11:49 am - Lav: Done
+03/08/2024, 12:31 pm - Lav: late thashe mare
+03/08/2024, 12:31 pm - Lav: 15-20 min
+03/08/2024, 12:31 pm - Prisha: okk
+03/08/2024, 10:25 pm - Nisarg (Red & White): @917383165330 @919081921022 be sir ka call aaya tha pu6 rahe the kya dikkat aa rahi hai esa kr k...
+25min khicha bhai🥹🥹
+03/08/2024, 10:25 pm - Nisarg (Red & White): Kal tum logko bhi krenge esa bol rahe the
+03/08/2024, 10:25 pm - Nisarg (Red & White): Ma'am ne baat ki hogi shayad sir ko
+03/08/2024, 10:27 pm - Nisarg (Red & White): Kyu ki sir bol rahe the call pr ki aapka koi question ho to wo mujhe thik se samjane ke liye material chahiye tab me aapko bata sakta hu ki esa hi hota hai...esa nahi hai ki mujhe aata nahi ...pr aapko samja saku thik se isliye dusre din samjane bolta hu esa keh rahe the
+03/08/2024, 10:28 pm - Nisarg (Red & White): Mene to esa ku6 kaha nahi isliye lagta hai ma'am ne hi baat ki hogi sir se
+03/08/2024, 10:50 pm - Prisha: Oh bhai sahab🥲
+03/08/2024, 10:51 pm - Prisha: Ohhh shooot
+03/08/2024, 10:51 pm - Prisha: Haaa wahi hoga aur kya he haa
+03/08/2024, 11:15 pm - Nisarg (Red & White): Or bol rahe the Monday thoda jaldi aa jao to discuss kr lenge ki kesa krna hai ab aage.!!
+04/08/2024, 7:53 am - Lav: 😂
+04/08/2024, 7:55 am - Lav: Bola To ki Pahle Theory Fir Maths Or Last me coding
+04/08/2024, 7:56 am - Lav: Hitesh Ne bhi Muje Bola Kal Ki Vo Dono Bat kar Rahe The... Or Power BI Vala Subscription Sayad Red And White walo ne hi Dilvaya hai
+04/08/2024, 8:04 am - Lav: @919081921022  Ab Hum ko Vo bhi Pata Chal Gaya Ki mam ko bol lar bhi kuch fayda nahi Hai
+04/08/2024, 8:05 am - Lav: Sub Mile Hua Hi Hai... ab to Usme Hum Grade Denge C or D 😂 Ab Hum ko Vese Bhu Kuvh farak nahi Padta
+04/08/2024, 11:49 am - Nisarg (Red & White): Bata dena to sir ko aaj tumhe krenge call esa bol rahe the.!!
+04/08/2024, 11:49 am - Prisha: Ohhhhh
+04/08/2024, 11:50 am - Prisha: For real
+04/08/2024, 11:50 am - Prisha: Yessssssss
+04/08/2024, 12:45 pm - Hitesh: Happy friendship day 🎉😀
+04/08/2024, 12:56 pm - Nisarg (Red & White): Happy friendship day 🥳
+04/08/2024, 12:56 pm - Nisarg (Red & White): <Media omitted>
+04/08/2024, 1:12 pm - Prisha: Happy Friendship Day 🎈
+04/08/2024, 9:50 pm - Prisha: Hello
+04/08/2024, 9:50 pm - Prisha: Guyysss
+04/08/2024, 9:50 pm - Prisha: Kal call ka time
+04/08/2024, 9:50 pm - Nisarg (Red & White): 9 baje bol rahe the
+04/08/2024, 9:51 pm - Nisarg (Red & White): @917383165330 call aaya tha.?
+04/08/2024, 10:16 pm - Lav: Nahi
+04/08/2024, 10:16 pm - Lav: 😂 Or Ana Bhi Nahi Chahiye...
+04/08/2024, 10:19 pm - Nisarg (Red & White): 😅
+04/08/2024, 10:20 pm - Nisarg (Red & White): To to 9 baje hi hoga class wese bhi exam hai
+04/08/2024, 10:25 pm - Prisha: Nhi naa
+04/08/2024, 10:25 pm - Prisha: 12 ko rakh
+04/08/2024, 10:26 pm - Prisha: Meri health thodi karab hai
+04/08/2024, 10:26 pm - Nisarg (Red & White): Sir ka msg aaya abhi 9 se 11 ka
+04/08/2024, 10:26 pm - Nisarg (Red & White): Pu6ta hu
+04/08/2024, 10:26 pm - Prisha: Haa plsss
+04/08/2024, 10:26 pm - Prisha: Unko puch 12 se chalega
+04/08/2024, 10:26 pm - Prisha: Fuck mera dataset nhi dunga
+04/08/2024, 10:26 pm - Prisha: Tum na kiya kya
+04/08/2024, 10:27 pm - Nisarg (Red & White): Nahi baki hai mera bhi
+04/08/2024, 10:27 pm - Lav: kal kaha exam hai
+04/08/2024, 10:27 pm - Nisarg (Red & White): Sir bol rahe the🤔🤷🏻‍♂️
+04/08/2024, 10:27 pm - Lav: abhi classification kr bad hai na
+04/08/2024, 10:27 pm - Prisha: Same here
+04/08/2024, 10:27 pm - Prisha: Haa exam ha sir bol rahi thi
+04/08/2024, 10:27 pm - Lav: Exam ka ?
+04/08/2024, 10:27 pm - Prisha: Regression ka haa
+04/08/2024, 10:27 pm - Prisha: Haaa
+04/08/2024, 10:27 pm - Nisarg (Red & White): Ha
+04/08/2024, 10:27 pm - Prisha: Dataset dekhna haa we have to get kne
+04/08/2024, 10:28 pm - Prisha: 12 ko rakhti hai me kuch Ghar se karki bhi aa sakti hu
+04/08/2024, 10:28 pm - Nisarg (Red & White): Pu6 lo esa hai to sir se
+04/08/2024, 10:28 pm - Prisha: Dataset baku hai mera
+04/08/2024, 10:28 pm - Prisha: Okay wai
+04/08/2024, 10:28 pm - Lav: Regression me 3 Algo. Hi to Padhaya Hai Sir Ache se baki to sub Classification me ayega asa Bol Rahe the
+04/08/2024, 10:28 pm - Prisha: Haa woh 3 ki test ha woh bol rahi thi
+04/08/2024, 10:29 pm - Nisarg (Red & White): Are wo class ka number hai usme...matlab wo waha honge tabhi wo use krte hai
+04/08/2024, 10:29 pm - Lav: Main to nahi dunga Exam Or Ager Deni Bhi Pade To 3 Algo. Simple Multi Or Poly. Vala Hi Karunga
+04/08/2024, 10:29 pm - Nisarg (Red & White): Personal me msg kro sir ko
+04/08/2024, 10:29 pm - Lav: Uski Dedi Hum ne
+04/08/2024, 10:30 pm - Lav: Main Ne or nisarg ne Ghar se Kiya Tha Or Apne Class pe jake
+04/08/2024, 10:30 pm - Nisarg (Red & White): Ok bol rahe hai sir 12 baje
+04/08/2024, 10:30 pm - Prisha: Okay perfect then toh
+04/08/2024, 10:30 pm - Prisha: Exam ka phcha
+04/08/2024, 10:30 pm - Nisarg (Red & White): Luv exam ki baat kre tu sir se.!?
+04/08/2024, 10:30 pm - Lav: Uske bad To sub Me Bol Rahe the ki Adha Classification me Pata Chalega
+04/08/2024, 10:30 pm - Prisha: Same here only 3 algos and measurement wala Matrix karki de dungi
+04/08/2024, 10:31 pm - Prisha: Haaa true
+04/08/2024, 10:31 pm - Lav: Main Nahi Karne Vala Bhai Usne Samne Se hi Muje Call Message nahi kiya To Main Kyo Karu
+04/08/2024, 10:31 pm - Lav: Hogi Ro Delh lenge..
+04/08/2024, 10:31 pm - Lav: Main ne jo bola Vahi Karunga..
+04/08/2024, 10:32 pm - Nisarg (Red & White): Msg kiya hai mujhe ki..
+Done che but kale avo te pela Data set ready kari ne ava no che.
+04/08/2024, 10:32 pm - Lav: Or Ager Research ka Bola To Mam ko bolunga ap mana Kar Rahe ho or sir Karne ko Bol rahe hai Ap Fix Karlo Kya Kare 😂
+04/08/2024, 10:33 pm - Lav: Dekhte hai..Man Hua To Karunga Varna jo Ready Hoga Vohi Dedunga
+04/08/2024, 10:33 pm - Nisarg (Red & White): Ok
+04/08/2024, 10:33 pm - Lav: Ab To muje Certificate Ke Alava Kisi bat se Fark Nahi Padta
+04/08/2024, 10:34 pm - Nisarg (Red & White): Kya research.?
+04/08/2024, 10:35 pm - Lav: Net ka Use Karo You Tube Se dekho vo bolta hai na
+04/08/2024, 10:35 pm - Lav: To mam Ne Mana Kiya Ki Yaha Ke Alava Kahi Or Se Mat Padho
+04/08/2024, 10:35 pm - Nisarg (Red & White): Le
+04/08/2024, 10:36 pm - Nisarg (Red & White): Matlab aap jo sikhao wo hi sahi
+04/08/2024, 10:36 pm - Lav: Ha Jo Sub Actually Wrong hota hai
+04/08/2024, 10:36 pm - Lav: 😂
+04/08/2024, 10:37 pm - Nisarg (Red & White): <Media omitted>
+04/08/2024, 10:38 pm - Lav: bhai Ek Sach Bat Bolu..😅 Ab Main or Prisha To Puri Tarah se...Sir Ki nazro se gir gaye hai isliye Usne Tumko Pakda hai
+04/08/2024, 10:38 pm - Lav: Krish Or Vo dusra Nikla Tab Muje call Kiya Karta tha ki sub Acha Chal Raha Hai ki nahi etc..etc.
+04/08/2024, 10:42 pm - Nisarg (Red & White): Ha esa hi lagta hai
+05/08/2024, 10:38 am - Prisha: Mera salary dataset haii
+05/08/2024, 10:38 am - Prisha: Wbu guys
+05/08/2024, 10:38 am - Prisha: Sachiii
+05/08/2024, 10:38 am - Prisha: So trueeee
+05/08/2024, 10:39 am - Hitesh: What about you 🤣🤣
+05/08/2024, 10:39 am - Prisha: Hii @919925532093
+05/08/2024, 10:39 am - Hitesh: Hello morning 😅
+05/08/2024, 10:39 am - Prisha: 😂😂😂😂
+05/08/2024, 10:39 am - Prisha: Good morning 🌞
+05/08/2024, 10:39 am - Prisha: Kkkrh
+05/08/2024, 10:39 am - Hitesh: <Media omitted>
+05/08/2024, 10:39 am - Hitesh: Lecture
+05/08/2024, 10:40 am - Prisha: <Media omitted>
+05/08/2024, 10:56 am - Prisha: Guys I am thinking not to come
+05/08/2024, 10:56 am - Prisha: I ain't well
+05/08/2024, 10:56 am - Prisha: Exam he ha Ghar se kar dungi me
+05/08/2024, 11:19 am - Nisarg (Red & White): Sir se baat kr lo
+05/08/2024, 11:25 am - Prisha: i did
+05/08/2024, 11:47 am - Nisarg (Red & White): Han fir tum dono sir jese mat krna ku6 ho to tum bata dena esa kr k 😂😂
+05/08/2024, 11:48 am - Prisha: Nhi me kal exam de dungi kitna he time lagta hai exam me yeh bata
+05/08/2024, 11:48 am - Prisha: Faltu ka kyu jau me
+05/08/2024, 12:30 pm - Hitesh: Kya hua prisha all well 😅
+05/08/2024, 12:30 pm - Prisha: Nhi health karab hai
+05/08/2024, 12:31 pm - Prisha: Woh rain me I got wet toh us wajase tabse
+05/08/2024, 12:31 pm - Hitesh: Accha
+05/08/2024, 12:31 pm - Prisha: Haa
+05/08/2024, 12:32 pm - Hitesh: <Media omitted>
+05/08/2024, 12:52 pm - Lav: Plz Koy Ek Dataset Dedo Acha
+05/08/2024, 1:46 pm - Prisha: 😂😂
+05/08/2024, 1:46 pm - Prisha: I took salary wala
+05/08/2024, 8:40 pm - Lav: kal ka Time 9 baje hai
+05/08/2024, 8:40 pm - Lav: @919081921022
+05/08/2024, 8:41 pm - Nisarg (Red & White): Or sir ko kya bolna hai.??
+05/08/2024, 8:43 pm - Lav: 1st Valu J But Ama Theory Add Karvani
+05/08/2024, 8:44 pm - Lav: @917096814375  kem sir 9 vage ready thaya kaber che..?
+05/08/2024, 8:44 pm - Nisarg (Red & White): Aavde 6.!! 😂
+05/08/2024, 8:44 pm - Nisarg (Red & White): Sir ne
+05/08/2024, 8:44 pm - Lav: Kadach Aje mam 12 vage avela And kale be ave ny atle
+05/08/2024, 8:44 pm - Lav: Vo to kabhi nahi hoga
+05/08/2024, 8:45 pm - Nisarg (Red & White): Achha
+06/08/2024, 12:05 am - Prisha: Kal 12 ko aana ha naa
+06/08/2024, 7:16 am - Lav: 9 baje hai
+06/08/2024, 7:28 am - Hitesh: POLL:
+Time
+OPTION: 9 beja (1 vote)
+OPTION: 12 beja (0 votes)
+OPTION: Jana hi kyon hai 😂😂 cancel cancel ❌❌ (1 vote)
+
+06/08/2024, 7:28 am - Lav: Sir ne 9 baje kaha hai
+06/08/2024, 7:29 am - Lav: 3rd vala hi Apply karna hai per kya kare
+06/08/2024, 8:49 am - Prisha: Oh fuckx
+06/08/2024, 8:49 am - Lav: Kal Message to Kiya Tha
+06/08/2024, 8:51 am - Nisarg (Red & White): Koi na aao dekhte hai kon pehle aata hai 😂
+06/08/2024, 8:51 am - Prisha: Meko late hoga
+06/08/2024, 8:52 am - Lav: kitna
+06/08/2024, 8:52 am - Lav: ?
+06/08/2024, 8:58 am - Prisha: Activa ki wajase haa
+06/08/2024, 9:03 am - Nisarg (Red & White): Mujhe 9.10
+06/08/2024, 9:14 am - Nisarg (Red & White): Me jita.!! 😂😂
+06/08/2024, 9:15 am - Nisarg (Red & White): <Media omitted>
+07/08/2024, 8:21 pm - Nisarg (Red & White): @917383165330 @919081921022 kal kitne baje !?
+07/08/2024, 8:21 pm - Nisarg (Red & White): Jo bhi ho sir ko mag kr dena.!! 😂😂
+07/08/2024, 8:22 pm - Lav: muje kuch bhi chalega ap log fix karlo
+07/08/2024, 8:22 pm - Nisarg (Red & White): 9 bje hi rakhte hai khatam ho subah
+07/08/2024, 8:35 pm - Lav: Ha Chalega
+07/08/2024, 8:36 pm - Nisarg (Red & White): @919081921022  sir ko bol dogi ?
+07/08/2024, 8:46 pm - Prisha: Haaa
+07/08/2024, 8:46 pm - Prisha: No worries
+07/08/2024, 8:46 pm - Prisha: Nhi tum boldo plsss
+07/08/2024, 8:46 pm - Prisha: Woh meko upload karna bolinga link and abhi me so Rahi hu 🥲😂
+07/08/2024, 8:46 pm - Nisarg (Red & White): Me aaj late huaa tha fir sur bolenge mujh2
+07/08/2024, 8:47 pm - Nisarg (Red & White): @917383165330 😂
+07/08/2024, 8:47 pm - Prisha: 😂
+07/08/2024, 8:47 pm - Prisha: Lavvvvvv tu bol 😂
+07/08/2024, 9:05 pm - Hitesh: <Media omitted>
+07/08/2024, 9:05 pm - Lav: Bola Hai
+07/08/2024, 9:05 pm - Lav: Reply nahi aya
+07/08/2024, 9:07 pm - Nisarg (Red & White): 10/10.30 baje bhi msg aata hai padh lenge wo to
+07/08/2024, 9:07 pm - Lav: Acha
+07/08/2024, 9:08 pm - Prisha: Ok
+07/08/2024, 9:08 pm - Nisarg (Red & White): Kal time pr aaneki kosish krunga🤭
+07/08/2024, 9:08 pm - Lav: Ha
+07/08/2024, 9:09 pm - Nisarg (Red & White): @919081921022  tum  bhi 😅
+07/08/2024, 9:09 pm - Lav: plz Vo Fir 11 bajata Hai
+07/08/2024, 9:09 pm - Prisha: 😂😂
+07/08/2024, 9:09 pm - Prisha: Time kya ha but
+07/08/2024, 9:09 pm - Lav: <Media omitted>
+07/08/2024, 9:09 pm - Nisarg (Red & White): <Media omitted>
+07/08/2024, 9:10 pm - Lav: <Media omitted>
+07/08/2024, 9:10 pm - Nisarg (Red & White): <Media omitted>
+07/08/2024, 9:11 pm - Nisarg (Red & White): Kal ka time 
+
+
+🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+
+
+9 baje
+@919081921022 
+
+🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨 <This message was edited>
+07/08/2024, 9:13 pm - Prisha: Okkkkk
+07/08/2024, 9:13 pm - Prisha: 😂
+07/08/2024, 10:16 pm - Lav: Sir  ka Reply Nahi Aya....
+07/08/2024, 10:16 pm - Lav: Kya Karna Hai..?
+07/08/2024, 10:16 pm - Lav: <Media omitted>
+07/08/2024, 10:16 pm - Nisarg (Red & White): Jayenge 9 baje...sir ka wese bhi konsa class hota hai
+07/08/2024, 10:16 pm - Nisarg (Red & White): Han
+07/08/2024, 10:16 pm - Lav: Ha Thik hau
+07/08/2024, 10:16 pm - Lav: Hai*
+07/08/2024, 10:17 pm - Nisarg (Red & White): Dekhte hai kal aaye to jayenge varna 12 baje or kya kre
+07/08/2024, 10:18 pm - Nisarg (Red & White): Subah 8 tak msg na aaye to 12 baje
+07/08/2024, 10:20 pm - Lav: Thik Hai
+07/08/2024, 10:20 pm - Lav: @919081921022  Chats Padh lena...
+08/08/2024, 1:47 am - Prisha: okayyyy
+08/08/2024, 3:27 am - Prisha: Sunno muja call kar dena at 8 plss
+08/08/2024, 3:28 am - Prisha: Normal call thik haa wifi off hoga
+08/08/2024, 3:28 am - Prisha: Yeh sahi hau
+08/08/2024, 3:28 am - Prisha: But call karna mat bhulna
+08/08/2024, 9:49 am - Prisha: Me jo neeend me hu I swear can't definite
+08/08/2024, 9:49 am - Prisha: Sorry lav meko ring bhi nhi sunai de🥲
+08/08/2024, 9:50 am - Prisha: 4 alarm ki baad I woke up
+08/08/2024, 10:17 am - Nisarg (Red & White): <Media omitted>
+09/08/2024, 7:26 am - Nisarg (Red & White): Aaj 12 baje hai kya.?
+09/08/2024, 7:26 am - Nisarg (Red & White): @917383165330
+09/08/2024, 8:15 am - Lav: HA
+09/08/2024, 8:19 am - Hitesh: Sab log toh rajsthan gaya honga n 😂😂😂
+09/08/2024, 9:47 am - Lav: Vo nahi Gaya Na Per
+09/08/2024, 9:47 am - Hitesh: <Media omitted>
+09/08/2024, 9:53 am - Nisarg (Red & White): <Media omitted>
+09/08/2024, 9:54 am - Hitesh: <Media omitted>
+09/08/2024, 12:03 pm - Prisha: Class aajao
+09/08/2024, 12:03 pm - Prisha: Kaha ho tum log
+09/08/2024, 12:04 pm - Nisarg (Red & White): Bas aaya 7min me
+09/08/2024, 12:04 pm - Prisha: Okay
+10/08/2024, 1:48 pm - Hitesh: <Media omitted>
+14/08/2024, 2:24 am - Prisha: Hello
+14/08/2024, 2:24 am - Prisha: Kal late aati hai na
+14/08/2024, 2:24 am - Prisha: Exam he hai toh 11 ko aaungi me
+14/08/2024, 7:31 am - Nisarg (Red & White): Or @917383165330 .?
+14/08/2024, 7:32 am - Hitesh: ML complete hogya kya aap sab k 👀
+14/08/2024, 7:35 am - Nisarg (Red & White): Nahi... supervise me classification chal raha hai..!!
+14/08/2024, 7:36 am - Hitesh: Accha 😄
+14/08/2024, 7:42 am - Lav: 10 ke Ass Pas
+14/08/2024, 7:42 am - Nisarg (Red & White): Ok me bhi 10 baje aata hu to fir
+14/08/2024, 7:43 am - Lav: Ha
+14/08/2024, 7:55 am - Prisha: 11
+14/08/2024, 7:58 am - Nisarg (Red & White): Han tum aao 11 baje
+14/08/2024, 9:26 am - Prisha: What!?
+14/08/2024, 9:28 am - Hitesh: <Media omitted>
+14/08/2024, 9:53 am - Nisarg (Red & White): <Media omitted>
+14/08/2024, 10:03 am - Prisha: U guys reached
+14/08/2024, 10:03 am - Prisha: ??
+14/08/2024, 10:03 am - Prisha: Tum puch gai kya
+14/08/2024, 10:08 am - Lav: Ha Muje Kam Hai Bataya Tha na Ki Bahar Jane vala Hu So... Isliye me to Jaldi khatam karke nikal jaunga
+14/08/2024, 10:08 am - Prisha: Me aajao kya fir
+14/08/2024, 10:08 am - Prisha: Chalo I am coming wait for me plss
+14/08/2024, 10:18 am - Nisarg (Red & White): Me too
+14/08/2024, 10:29 am - Lav: <Media omitted>
+14/08/2024, 10:31 am - Lav: My Dataset
+14/08/2024, 10:32 am - Prisha: Oye
+14/08/2024, 10:33 am - Prisha: Answer file send me
+14/08/2024, 10:33 am - Hitesh: 😂😂
+14/08/2024, 10:33 am - Lav: abhi to start bhi nahi kiya
+14/08/2024, 10:33 am - Prisha: Ohh fuck yar
+14/08/2024, 10:33 am - Nisarg (Red & White): Sab ka ek hi rakhna hai kya.!!?
+14/08/2024, 10:34 am - Hitesh: <Media omitted>
+14/08/2024, 10:34 am - Nisarg (Red & White): Kr nahi sakte na🤧
+14/08/2024, 11:11 am - Lav: <Media omitted>
+14/08/2024, 11:12 am - Lav: <Media omitted>
+14/08/2024, 11:15 am - Lav: Perform logistic and knn algo. with python code in sklearn easy code step by step and with graph code
+14/08/2024, 11:18 am - Lav: for logistic and knn scatter polt for classification
+14/08/2024, 11:20 am - Lav: <Media omitted>
+14/08/2024, 12:18 pm - Nisarg (Red & White): https://drive.google.com/file/d/1M7VK3ejFd9kceSZ8jYfPh94M-WpQRnpP/view?usp=sharing
+15/08/2024, 5:19 pm - Nisarg (Red & White): @919081921022 
+Kal class hai pr mujhe kaam hai thoda to me gaau ja raha hu..!!
+To sir ko bolu ki Friday ka class half Saturday ko or half Monday ko le le to..!! <This message was edited>
+15/08/2024, 5:21 pm - Prisha: Me bolu esa ??
+15/08/2024, 5:21 pm - Prisha: Ok
+15/08/2024, 5:21 pm - Nisarg (Red & White): Nai me bolta hu sir ko..!!
+15/08/2024, 5:21 pm - Prisha: Yesss
+15/08/2024, 5:21 pm - Prisha: Olsss
+15/08/2024, 5:21 pm - Nisarg (Red & White): Pr pu6 raha hu chalega na tumhe
+15/08/2024, 5:21 pm - Prisha: Yess
+15/08/2024, 5:21 pm - Prisha: Ofc
+15/08/2024, 5:21 pm - Nisarg (Red & White): Ohk then
+15/08/2024, 5:21 pm - Prisha: 🤣🤣
+15/08/2024, 5:22 pm - Prisha: Yeh bhi koi puchna ki baat bai
+15/08/2024, 5:22 pm - Nisarg (Red & White): 🤔
+15/08/2024, 5:22 pm - Nisarg (Red & White): Pu6na padta hai..!!
+Kyu @917383165330  sahi kaha na.!! 😂
+15/08/2024, 6:00 pm - Lav: Ap khatam Karlo Sub Tuesday ke pahle..fir muje shanti....nahi padhna bhai
+15/08/2024, 6:01 pm - Lav: 😂
+15/08/2024, 6:02 pm - Nisarg (Red & White): 🥹🥹
+15/08/2024, 6:16 pm - Prisha: 🤣🤣
+15/08/2024, 6:16 pm - Prisha: Tu enjoy kar bhai
+15/08/2024, 6:16 pm - Prisha: 😐😑
+15/08/2024, 6:17 pm - Nisarg (Red & White): Tuesday ko rakhte hai luv ko akela thodi 6od sakte hai🤭😂
+15/08/2024, 6:17 pm - Prisha: 🤣🤣🤣
+15/08/2024, 6:17 pm - Prisha: Ek number
+15/08/2024, 7:46 pm - Lav: Me Tuesday bhi nahi ane val
+15/08/2024, 8:30 pm - Nisarg (Red & White): <Media omitted>
+15/08/2024, 10:06 pm - Nisarg (Red & White): Prisha .!!
+15/08/2024, 10:07 pm - Nisarg (Red & White): @919081921022 ..!!
+Sir bol rahe hai Saturday 2 lec rakhte hai
+15/08/2024, 10:07 pm - Lav: 🤣
+15/08/2024, 10:07 pm - Nisarg (Red & White): Thoda break le kr 2nd bhi le lenge .!!
+Bcoz ese nahi to wese bithayenge to sahi aapne ko
+15/08/2024, 10:07 pm - Nisarg (Red & White): Lec nahi to question de kr bithayenge
+15/08/2024, 10:08 pm - Nisarg (Red & White): <Media omitted>
+15/08/2024, 10:15 pm - Prisha: Nhiii
+15/08/2024, 10:15 pm - Prisha: Me nhi aa rahi
+15/08/2024, 10:18 pm - Nisarg (Red & White): To fir tum baat kr lo sir se
+15/08/2024, 10:18 pm - Nisarg (Red & White): Me sachhi kal possible nahi hai family matter hai mera
+15/08/2024, 10:18 pm - Nisarg (Red & White): To nai aa sakta
+15/08/2024, 10:19 pm - Nisarg (Red & White): Tum hi batao fir kal ka lec kese set kre
+15/08/2024, 11:40 pm - Nisarg (Red & White): 🚨🚨🚨🚨🚨🚨🚨🚨🚨
+
+@919081921022 
+Upr ke msg padh lena.!!
+
+🚨🚨🚨🚨🚨🚨🚨🚨
+15/08/2024, 11:41 pm - Nisarg (Red & White): Koi jag raha hai.!!
+16/08/2024, 9:43 am - Nisarg (Red & White): Ok.!?
+Kal to na bol rahi thi.!!
+@919081921022
+16/08/2024, 9:43 am - Prisha: Aajaungi
+16/08/2024, 9:43 am - Prisha: Koi nai
+16/08/2024, 9:43 am - Nisarg (Red & White): Ok thanks
+16/08/2024, 9:44 am - Prisha: 🤣🤣
+16/08/2024, 9:44 am - Prisha: Nhi it's good if we complete it fast yar☹️
+16/08/2024, 9:44 am - Prisha: I got realised
+16/08/2024, 9:44 am - Hitesh: Yrr kitna padhna hai
+16/08/2024, 9:58 am - Prisha: 😂😂
+16/08/2024, 8:11 pm - Nisarg (Red & White): Kal 10 baje..!!
+@919081921022
+16/08/2024, 8:12 pm - Prisha: Okk
+16/08/2024, 8:54 pm - Prisha: <Media omitted>
+17/08/2024, 11:25 pm - Hitesh: This message was deleted
+19/08/2024, 11:17 am - Nisarg (Red & White): Kal 12 baje ka class hai.!!
+@919081921022 
+@917383165330
+19/08/2024, 11:47 am - Lav: Me To Kal Nahi Ane Vala
+19/08/2024, 11:48 am - Nisarg (Red & White): Ok
+19/08/2024, 2:48 pm - Prisha: Ok
+21/08/2024, 11:57 am - Lav: <Media omitted>
+21/08/2024, 12:26 pm - Hitesh: Powerbi chlu hogya 😃
+21/08/2024, 12:26 pm - Prisha: 🤣🤣🤣
+21/08/2024, 12:26 pm - Prisha: Chapla
+21/08/2024, 12:27 pm - Hitesh: 😂😂
+21/08/2024, 12:34 pm - Prisha: Aur bata hitesh
+21/08/2024, 12:34 pm - Prisha: Sala u left
+21/08/2024, 12:36 pm - Lav: <Media omitted>
+21/08/2024, 12:38 pm - Hitesh: Chlo bano plan
+21/08/2024, 12:38 pm - Hitesh: 😂😂
+21/08/2024, 12:39 pm - Prisha: Sachi milta hai
+21/08/2024, 12:39 pm - Hitesh: Sab badhiya si 😅
+
+App btao
+21/08/2024, 12:39 pm - Hitesh: Haa😃
+23/08/2024, 9:01 am - Prisha: Bhai koi nhi aaya
+23/08/2024, 9:01 am - Prisha: Aaj class hai ya nhi
+23/08/2024, 9:01 am - Prisha: ??
+23/08/2024, 9:05 am - Nisarg (Red & White): Nahi aane wale aaj
+23/08/2024, 9:05 am - Prisha: Hitesh Teri yaad aa rahi hai 😂😂
+23/08/2024, 9:15 am - Hitesh: null
+23/08/2024, 9:15 am - Hitesh: Toh Milne k plan bano
+23/08/2024, 9:16 am - Hitesh: Plan kya milta hai chlo
+23/08/2024, 9:16 am - Hitesh: 😂😂
+23/08/2024, 9:34 am - Prisha: null
+23/08/2024, 9:34 am - Prisha: Tu aa ja wapas 😂
+23/08/2024, 9:35 am - Hitesh: Supervise learning chl Raha hai 😅
+23/08/2024, 9:36 am - Hitesh: Abhi tak addmission cancel nhi karwaya hu 🤣🤣
+23/08/2024, 9:40 am - Prisha: Aaja plsss
+23/08/2024, 9:42 am - Hitesh: Time set nhi hoo Raha hai yrr baki icche full hai 😅
+23/08/2024, 9:43 am - Prisha: Sir se baat karna
+23/08/2024, 9:43 am - Hitesh: Voh bole online kar lee 🤣😂
+23/08/2024, 9:44 am - Hitesh: Online ab aap hi btao rnw or online 😂
+23/08/2024, 9:53 am - Prisha: Raat ka nhi le lo 5-6 ya 4-5
+23/08/2024, 9:54 am - Prisha: Noo online mat kar
+23/08/2024, 9:59 am - Nisarg (Red & White): Multinomial Naive Bayes;
+α=1 is called Laplace smoothing, while 
+α <1 is called Lidstone smoothing. <This message was edited>
+23/08/2024, 10:00 am - Hitesh: 6 beja ghar aata hu
+23/08/2024, 10:01 am - Hitesh: What about ā>1 is called 😂😂
+23/08/2024, 10:01 am - Prisha: Morning kitna baje jata hai tu
+23/08/2024, 10:02 am - Hitesh: 9:50 se niklna h 😂😅
+23/08/2024, 9:49 pm - Hitesh: Hello
+23/08/2024, 9:50 pm - Hitesh: Kl aao g kya rnw morning mai
+23/08/2024, 9:50 pm - Nisarg (Red & White): 12 baje class hai hamari
+23/08/2024, 9:51 pm - Hitesh: Toh 10-11 beja milta hai 😅
+23/08/2024, 9:51 pm - Hitesh: 12  se
+23/08/2024, 9:52 pm - Nisarg (Red & White): Pata nahi
+23/08/2024, 9:56 pm - Prisha: wont be possible meko kaaam tha toh i got time changed to 12☹️☹️
+23/08/2024, 9:58 pm - Hitesh: Kitne beja tak hoga
+23/08/2024, 10:11 pm - Nisarg (Red & White): 1 , 1.30 tak chalega...fir hum to free hai sab bethenge to rukenge 2-3 baje tak
+23/08/2024, 10:12 pm - Nisarg (Red & White): Baki 2 ka pata nai 😅 <This message was edited>
+23/08/2024, 10:12 pm - Hitesh: 😂😂😂
+23/08/2024, 10:12 pm - Nisarg (Red & White): Kisi ne ku6 nahi dekha 🤣
+23/08/2024, 10:12 pm - Hitesh: <Media omitted>
+23/08/2024, 10:12 pm - Hitesh: <Media omitted>
+23/08/2024, 10:13 pm - Hitesh: Toh 2 bej aao
+23/08/2024, 10:15 pm - Prisha: Haa yeh perfect hai
+23/08/2024, 10:22 pm - Lav: <Media omitted>
+23/08/2024, 10:23 pm - Lav: @919925532093 kal araha hai ?
+23/08/2024, 10:24 pm - Hitesh: Haa
+23/08/2024, 10:24 pm - Lav: Kab ?
+23/08/2024, 10:24 pm - Lav: Time Kya Hai Kal Ka ?
+23/08/2024, 10:24 pm - Prisha: 2pm bol toh sahi woh
+23/08/2024, 10:24 pm - Prisha: 12 se pata nhi kab tak
+23/08/2024, 10:25 pm - Lav: Usne Thodi Bola Nisarg Ne bola
+23/08/2024, 10:25 pm - Lav: Ki Vo bethega..Kar Ke
+23/08/2024, 10:25 pm - Prisha: ohhh
+23/08/2024, 10:25 pm - Nisarg (Red & White): .
+23/08/2024, 10:25 pm - Prisha: haa haa  samaj gai
+23/08/2024, 10:26 pm - Lav: <Media omitted>
+23/08/2024, 10:25 pm - Hitesh: Haa
+23/08/2024, 10:26 pm - Lav: Kyo Lecture Ke Liye Ane Vala Hai ?
+23/08/2024, 10:26 pm - Prisha: lav yeh tu he ha
+23/08/2024, 10:26 pm - Lav: Tu..
+23/08/2024, 10:26 pm - Lav: <Media omitted>
+23/08/2024, 10:26 pm - Lav: <Media omitted>
+23/08/2024, 10:26 pm - Hitesh: <Media omitted>
+23/08/2024, 10:27 pm - Prisha: itna achi sticker kaha se lati ho
+23/08/2024, 10:27 pm - Lav: <Media omitted>
+23/08/2024, 10:27 pm - Lav: <Media omitted>
+23/08/2024, 10:27 pm - Hitesh: <Media omitted>
+23/08/2024, 10:27 pm - Lav: <Media omitted>
+23/08/2024, 10:28 pm - Nisarg (Red & White): <Media omitted>
+23/08/2024, 10:28 pm - Lav: Kal Ka Time Ab Fix 12 baje
+23/08/2024, 10:28 pm - Lav: <Media omitted>
+23/08/2024, 10:28 pm - Nisarg (Red & White): Ha lec ka
+23/08/2024, 10:28 pm - Lav: Ha
+23/08/2024, 10:28 pm - Lav: Ab Kal Aram Se Soyenge.
+23/08/2024, 10:28 pm - Nisarg (Red & White): Or ye kal luv kr ke dikhayega jab hum sab milenge 😂🤣
+23/08/2024, 10:28 pm - Lav: @919925532093 👀
+23/08/2024, 10:29 pm - Hitesh: Done 😂
+23/08/2024, 10:29 pm - Hitesh: Naa
+23/08/2024, 10:29 pm - Lav: Apni Bat Mat Kiya Kar
+23/08/2024, 10:29 pm - Lav: To
+23/08/2024, 10:29 pm - Lav: <Media omitted>
+23/08/2024, 10:29 pm - Hitesh: Admission cancel karwane
+23/08/2024, 10:29 pm - Lav: <Media omitted>
+26/08/2024, 11:53 am - Hitesh: Core Python:
+
+What is the difference between a list and a tuple?
+How do you handle exceptions in Python?
+Discuss try, except, else, and finally blocks.
+Explain the use of *args and **kwargs in functions.
+What is a lambda function? Provide an example.
+How is memory managed in Python?
+Talk about reference counting and garbage collection.
+
+NumPy:
+
+What is the difference between a Python list and a NumPy array?
+Highlight speed, functionality, and memory efficiency.
+How do you create a NumPy array?
+Discuss np.array(), np.zeros(), np.ones(), and np.arange().
+Explain broadcasting in NumPy.
+How operations can be performed on arrays of different shapes.
+How would you compute the dot product of two arrays?
+Use np.dot() or the @ operator.
+How do you reshape a NumPy array?
+Discuss reshape() and ravel() methods.
+
+Pandas:
+
+What are the key data structures in Pandas?
+DataFrame and Series.
+How do you handle missing data in Pandas?
+Discuss isna(), dropna(), and fillna().
+How can you group data in Pandas?
+Use the groupby() function.
+Explain the difference between loc and iloc.
+loc is label-based, iloc is index-based.
+How do you merge or join data in Pandas?
+Talk about merge(), concat(), and join().
+Matplotlib:
+How do you create a basic plot in Matplotlib?
+Example: plt.plot(x, y)
+What are subplots and how do you create them?
+Discuss plt.subplot() and plt.subplots().
+How do you add labels and titles to a plot?
+Use plt.xlabel(), plt.ylabel(), and plt.title().
+How do you customize a plot’s appearance?
+Discuss changing colors, line styles, and markers.
+How can you save a plot to a file?
+Use plt.savefig().
+
+Seaborn:
+
+What is Seaborn and how does it differ from Matplotlib?
+It is built on top of Matplotlib and provides a high-level interface for drawing attractive statistical graphics.
+How do you create a categorical plot in Seaborn?
+Use functions like sns.barplot(), sns.boxplot(), sns.violinplot().
+What is a heatmap and how do you create one?
+Use sns.heatmap() and discuss its use for correlation matrices.
+How do you create pair plots?
+Use sns.pairplot() for exploring relationships across the entire dataset.
+How can you adjust the aesthetics of a plot in Seaborn?
+Discuss sns.set_style(), sns.despine().
+26/08/2024, 11:54 am - Hitesh: Python interview questions 😅
+26/08/2024, 1:13 pm - Hitesh: <Media omitted>
+26/08/2024, 1:15 pm - Nisarg (Red & White): <Media omitted>
+26/08/2024, 2:04 pm - Lav: <Media omitted>
+26/08/2024, 5:10 pm - Nisarg (Red & White): Kal apna time 10 baje hai na.?
+26/08/2024, 5:17 pm - Prisha: Pata nhi sir se confirm karvao
+26/08/2024, 5:18 pm - Nisarg (Red & White): <Media omitted>
+26/08/2024, 5:40 pm - Lav: Me Nahi Aunga...
+26/08/2024, 5:40 pm - Lav: <Media omitted>
+26/08/2024, 5:40 pm - Lav: <Media omitted>
+26/08/2024, 5:40 pm - Nisarg (Red & White): 🤧
+26/08/2024, 5:51 pm - Prisha: 🤣🤣
+26/08/2024, 7:57 pm - Nisarg (Red & White): <Media omitted>
+26/08/2024, 8:06 pm - Nisarg (Red & White): @919925532093 apne yaha kesa hai.!?
+Pani bhar gaya kya sab jagah.!!
+26/08/2024, 8:07 pm - Lav: Me To Baroda Hu
+26/08/2024, 8:07 pm - Lav: Yaha To Sub Bandh Kal ab Kese Niklege...Vahi soch Raha Tha..
+26/08/2024, 8:08 pm - Nisarg (Red & White): Mere yaha valssd bhi school clg bandh krwai hai kal to
+26/08/2024, 8:09 pm - Nisarg (Red & White): Karwai matlab 6utti di hai 😅
+26/08/2024, 8:09 pm - Lav: Same Yaha Bhi
+26/08/2024, 8:09 pm - Lav: Surat Me Kya Hai Pata Nahi
+26/08/2024, 8:09 pm - Nisarg (Red & White): @919925532093
+26/08/2024, 8:09 pm - Nisarg (Red & White): @919081921022
+26/08/2024, 8:14 pm - Prisha: Kal class nhi jati me bhimar ho gaya
+26/08/2024, 8:15 pm - Prisha: Time diya sir na kuch
+26/08/2024, 8:15 pm - Prisha: Toh bata dena
+26/08/2024, 8:16 pm - Nisarg (Red & White): Ab kya me akela jau class.!! 😂
+26/08/2024, 8:20 pm - Hitesh: Yaa itna nhi bhar hai abhi tak toh 😅
+26/08/2024, 8:39 pm - Nisarg (Red & White): This message was deleted
+26/08/2024, 8:43 pm - Nisarg (Red & White): <Media omitted>
+26/08/2024, 9:44 pm - Nisarg (Red & White): Luv sir ko bol du tum nahi aa rahe kal esa.?
+26/08/2024, 9:44 pm - Nisarg (Red & White): @917383165330
+26/08/2024, 10:13 pm - Lav: Ha Bol De..
+26/08/2024, 10:13 pm - Nisarg (Red & White): Ok
+26/08/2024, 10:13 pm - Lav: Or Kuch bole To Bolna Ki Vo Baroda Hai..Or Use Vat Karo..
+26/08/2024, 10:14 pm - Nisarg (Red & White): Net off sir nu🫠🫠
+26/08/2024, 10:14 pm - Prisha: Class hotoh time bata dena
+26/08/2024, 10:14 pm - Nisarg (Red & White): Tel lene gaya bhai me bhi nai aaraha kal
+26/08/2024, 10:15 pm - Hitesh: <Media omitted>
+26/08/2024, 10:15 pm - Nisarg (Red & White): Fir bhi kahe to 4-5 bje kahunga sir ko
+26/08/2024, 10:15 pm - Hitesh: <Media omitted>
+27/08/2024, 12:26 am - Nisarg (Red & White): Mene sab ka bol diya hai fir bhi kal subah apna apna bata dena tum dono..!!
+@917383165330 @919081921022 
+Or kehna kal ka cancel kre ..
+27/08/2024, 12:30 am - Prisha: Ok
+27/08/2024, 12:30 am - Prisha: I am coming I no problem coming
+27/08/2024, 12:30 am - Nisarg (Red & White): Sir ko mene kaha hai ki kal cancel rakhe...luv fasa hai vadodra..prisha bhi bimar hai or news bhii aa rahi hai sab school clg bandh rehne wale hai kal barish ki wajah se
+27/08/2024, 12:31 am - Nisarg (Red & White): 🧐
+27/08/2024, 12:31 am - Prisha: Okay no problem then
+27/08/2024, 12:31 am - Prisha: I will say I am bimar
+27/08/2024, 12:31 am - Nisarg (Red & White): 😂
+27/08/2024, 12:31 am - Prisha: Woh kya ha na abhi better ho raha hai fever
+27/08/2024, 12:31 am - Nisarg (Red & White): Sir ka msg aaya abhi pr
+27/08/2024, 12:31 am - Prisha: Toh that's y
+27/08/2024, 12:31 am - Nisarg (Red & White): Nahi tum bimar ho tumhe pata nahi hai pr tum ho 🤣🤣
+27/08/2024, 12:32 am - Nisarg (Red & White): Sir : but Class to regular chalu hi hai apne
+27/08/2024, 12:32 am - Nisarg (Red & White): Mene reply nahi diya... kal dekhenge jo bhi hai
+27/08/2024, 12:32 am - Prisha: 🤣🤣🤣🤣
+27/08/2024, 12:32 am - Prisha: Ohhh
+27/08/2024, 12:32 am - Prisha: 🤣🤣🤣
+27/08/2024, 12:32 am - Prisha: Meko bata dena 🤣🤣
+27/08/2024, 12:33 am - Nisarg (Red & White): Hoge to bhi subah to possible nahi hai
+27/08/2024, 12:33 am - Nisarg (Red & White): Me valsad hu abhi bhi...or 11 baje train pakdunga subah
+27/08/2024, 9:06 am - Nisarg (Red & White): Baat ki sir ke sath.?
+27/08/2024, 9:28 am - Nisarg (Red & White): Bolo bhai sir mera gala pakdenge🥹🥺
+27/08/2024, 10:11 am - Prisha: 🤣🤣🤣
+27/08/2024, 10:12 am - Prisha: Me sachi nhi aa sakti meko kaam aa gaya😭
+27/08/2024, 10:12 am - Prisha: Sir kuch bola toh dar lag raha hai
+27/08/2024, 7:51 pm - Nisarg (Red & White): Me to mst net bandh kr ke betha tha 🤣🤣🤣
+27/08/2024, 7:52 pm - Nisarg (Red & White): Luv ko pakda
+27/08/2024, 7:52 pm - Prisha: 🤣🤣🤣
+27/08/2024, 7:52 pm - Nisarg (Red & White): @917383165330 to kal aayega ki kal bhi prisha ko bimar rehna hai🤭😂
+27/08/2024, 7:52 pm - Prisha: Bhai🤣🤣
+27/08/2024, 7:53 pm - Nisarg (Red & White): Me to aa gaya hu surat
+27/08/2024, 7:53 pm - Lav: Ha 😅
+27/08/2024, 7:54 pm - Prisha: Bhai ek din esa na aai ki tum bol rahi ho sir woh hospital me hai zindagi aur moot ki bich me hai toh class mat rakho🤣🤣
+27/08/2024, 7:54 pm - Prisha: 🤣🤣
+27/08/2024, 7:54 pm - Nisarg (Red & White): E...esa mat bol...etne bhi bure nahi hai hum
+27/08/2024, 7:54 pm - Lav: <Media omitted>
+27/08/2024, 7:54 pm - Lav: Ha Kal To On Time
+27/08/2024, 7:54 pm - Prisha: Arey mast ho rahi hai ik and come in
+27/08/2024, 7:55 pm - Nisarg (Red & White): Ha behosh kr sakte hai 😂
+27/08/2024, 7:55 pm - Prisha: Touch wood and bagwan hai sab ki sath kuch nhi hoga
+27/08/2024, 7:55 pm - Nisarg (Red & White): Pata nahi kya huaa..nind ki goli 2 le li to uth hi nahi rahi 😂
+27/08/2024, 7:56 pm - Nisarg (Red & White): Dr ne bola 48h baad hosh aayega 🤣
+27/08/2024, 8:34 pm - Hitesh: <Media omitted>
+28/08/2024, 12:13 am - Hitesh: <Media omitted>
+28/08/2024, 11:19 am - Lav: <Media omitted>
+28/08/2024, 8:27 pm - Hitesh: <Media omitted>
+30/08/2024, 6:09 pm - Hitesh: <Media omitted>
+30/08/2024, 6:09 pm - Hitesh: <Media omitted>
+30/08/2024, 6:09 pm - Hitesh: <Media omitted>
+30/08/2024, 6:09 pm - Hitesh: <Media omitted>
+31/08/2024, 8:53 am - Nisarg (Red & White): Lec ke baad exam dena hai kya.!?
+31/08/2024, 8:54 am - Lav: PowerBI vala ?
+31/08/2024, 8:55 am - Nisarg (Red & White): E ho chale !!
+31/08/2024, 8:55 am - Prisha: Chalega
+31/08/2024, 8:56 am - Lav: Ani Pachi Apde Exam Apishi to 1 - 1:30 vagi Jashe Pachi Apdo lecture leshe 2  vage
+31/08/2024, 8:56 am - Lav: Chalshe ?
+31/08/2024, 8:56 am - Nisarg (Red & White): Le avyo msg
+31/08/2024, 8:56 am - Lav: Chutiyo Che
+31/08/2024, 8:56 am - Prisha: Haa
+31/08/2024, 8:56 am - Prisha: 🤣🤣🤣
+31/08/2024, 8:57 am - Prisha: Mekk Aaj ek din Sona tha
+31/08/2024, 8:57 am - Prisha: Yeh bc dekhna
+31/08/2024, 8:57 am - Prisha: 10 baja
+31/08/2024, 8:57 am - Nisarg (Red & White): Ha mujhe bhi 🥺
+31/08/2024, 8:57 am - Lav: Main ne call kiya tab bola ki 11 baje powerbi fir 12 apka ha fir exam vo ap logo milker fix karna
+31/08/2024, 8:57 am - Prisha: Henaa abhi bhi I am shower Li liye ab sungi
+31/08/2024, 8:57 am - Nisarg (Red & White): To bole kya esa sir ko.!?
+31/08/2024, 8:58 am - Prisha: Haa wahi hai 11 ko
+31/08/2024, 8:58 am - Prisha: 10 se 11 exam hai
+31/08/2024, 8:58 am - Lav: To pachi 2 vage exam thodi apna
+31/08/2024, 8:58 am - Lav: sayad
+31/08/2024, 8:58 am - Nisarg (Red & White): Saru 10 vage chal kaam patavu badhu
+31/08/2024, 8:58 am - Lav: Exam mate bija be cje ne
+31/08/2024, 8:58 am - Lav: Aa Loko aa karayo hashe
+31/08/2024, 8:58 am - Prisha: But aapan baadme de denga
+31/08/2024, 8:59 am - Prisha: Kya chata hai
+31/08/2024, 8:59 am - Prisha: Half an hour lagage max re
+31/08/2024, 8:59 am - Lav: Usne kal Hi na Bola Tha Ki exam Sub Sath me Dena
+31/08/2024, 8:59 am - Lav: Ha To 10 baje milte hai exam me
+31/08/2024, 8:59 am - Prisha: Ok
+31/08/2024, 8:59 am - Lav: to 1 baje sub khatam ho
+31/08/2024, 8:59 am - Prisha: Hmm u wish
+31/08/2024, 9:00 am - Prisha: Woh nhi jana dega
+31/08/2024, 9:52 am - Nisarg (Red & White): Tumlog start kro me aata hu 10.10.ko
+31/08/2024, 10:00 am - Prisha: Ok😂
+31/08/2024, 11:07 am - Hitesh: All the best 💯
+31/08/2024, 11:07 am - Nisarg (Red & White): <Media omitted>
+31/08/2024, 11:41 am - Hitesh: <Media omitted>
+31/08/2024, 11:41 am - Lav: <Media omitted>
+31/08/2024, 11:41 am - Lav: Bhai Tere Classmates Ko Dekh Kar Tere Yad Aa Gy
+31/08/2024, 11:41 am - Lav: <Media omitted>
+31/08/2024, 11:42 am - Prisha: 😂😂
+31/08/2024, 11:43 am - Lav: Vo Numpy ki Exam De Rahe Hai
+31/08/2024, 11:43 am - Hitesh: Numpy
+31/08/2024, 11:44 am - Hitesh: <Media omitted>
+31/08/2024, 11:46 am - Hitesh: Yrr yaa log math k exam dene k bol raha hai.
+31/08/2024, 11:46 am - Hitesh: Math k certificate luu ki nhi 😅😅😅
+31/08/2024, 11:48 am - Lav: 😂 Dedo
+02/09/2024, 6:33 pm - Lav: <Media omitted>
+02/09/2024, 6:33 pm - Lav: <Media omitted>
+02/09/2024, 6:33 pm - Lav: <Media omitted>
+02/09/2024, 6:33 pm - Lav: Lav - Datasets
+07/09/2024, 10:27 pm - Hitesh: <Media omitted>
+11/09/2024, 9:25 am - Hitesh: https://matistics.com
+11/09/2024, 9:29 pm - Hitesh: Power BI Interview Questions that have been askedRepetitively  in interviews -
+
+
+1. What techniques can be used to reduce the file size of a Power BI report?
+2. Describe the different layers involved in Power BI architecture.
+3. How do you implement data lineage in Power BI?
+4.What is the role of the M language in Power BI?
+5. How do you create a gauge chart in Power BI?
+6. What is the difference between a heat map and a filled map in Power BI?
+7. Explain the concept of data masking in Power BI and its use cases.
+8. What is the function of the "Append Queries" feature in Power BI, and how is it used?
+ 9. How can you ensure that Power BI recognizes a specific column as a date column if it doesn't do so automatically?
+10.Describe the process Power BI uses to handle large datasets exceeding the in-memory capacity.
+11 Can you explain the role of the Power BI service in the overall Power BI architecture?
+12. What are the key components of data modeling in Power BI?
+13. What is the purpose of the VertiPaq engine in Power BI?
+14. How do you create a stacked area chart in Power BI?
+15. What is the difference between a clustered bar chart and a stacked bar chart?
+16.Explain the concept of role-based access control (RBAC) in Power BI.
+17. What is a calculated column in Power BI, and how is it different from a measure?
+18. How can you create and apply a custom data category in Power BI?
+19. What are the different methods to optimize data load performance in Power BI?
+20. Can you outline the Power BI ecosystem and its major components?
+21. What is the difference between a dataflow and a dataset in Power BI?
+22. How does the DirectQuery mode work in Power BI, and when would you use it?
+23. How do you create a waterfall chart in Power BI?
+24. What are the advantages and disadvantages of using a scatter plot in Power BI?
+25. Explain the concept of incremental refresh in Power BI.
+26. What is the purpose of the "Group By" feature in Power BI, and how is it used?
+27. How can you handle time zone conversions in Power BI?
+12/09/2024, 7:49 pm - Nisarg (Red & White): @917383165330 @919081921022 Saturday nahi jana na class.!!
+To me kal apna saman lekr aata hu waha se gau chala jaunga
+12/09/2024, 7:53 pm - Lav: me to College ka bpl dunga
+12/09/2024, 7:56 pm - Prisha: Haaa done fir
+12/09/2024, 7:56 pm - Prisha: Tum de do kal exam
+12/09/2024, 7:57 pm - Nisarg (Red & White): Ok
+12/09/2024, 7:57 pm - Lav: konsi ?
+12/09/2024, 8:18 pm - Nisarg (Red & White): Viva
+12/09/2024, 9:06 pm - Lav: Ok
+12/09/2024, 9:07 pm - Lav: 😂 Prisha Kal bhi nahi degi
+12/09/2024, 9:07 pm - Lav: 🙄?
+12/09/2024, 9:15 pm - Nisarg (Red & White): Ha kal usko ku6 clg ka submission hai to....
+12/09/2024, 9:16 pm - Lav: Acha
+12/09/2024, 10:07 pm - Hitesh: Hi i need a cloud based software, that can search bot views for youtube video ranking only. And do user behaviour factors
+
+Those who know this and can work on this assignment then please msg
+12/09/2024, 10:07 pm - Hitesh: Chat bot bana sikha hai kya 😅
+12/09/2024, 11:06 pm - Lav: nahi nlp me ayega vo
+12/09/2024, 11:08 pm - Prisha: Kon aa raha hai kya
+12/09/2024, 11:08 pm - Prisha: Hitesh is coming back
+12/09/2024, 11:08 pm - Lav: 🤦🏻
+12/09/2024, 11:11 pm - Hitesh: Naa yrr 🙂
+12/09/2024, 11:11 pm - Prisha: 🥲
+13/09/2024, 12:27 pm - Nisarg (Red & White): Hello Guysis...uthayu j nai aaje...✌🏻🙂
+Kal nu kai kahyu sir e.!?
+13/09/2024, 12:44 pm - Lav: Message karshe
+13/09/2024, 12:46 pm - Nisarg (Red & White): Ok
+15/09/2024, 11:08 am - Lav: https://www.instagram.com/p/C_t37vgy1Ki/?igsh=MWhlOWgxZmVuNjdmdQ==
+16/09/2024, 10:59 am - Hitesh: kitna baki hai
+16/09/2024, 10:59 am - Hitesh: ?
+16/09/2024, 11:00 am - Nisarg (Red & White): Ku6 keh nahi sakte🫠
+16/09/2024, 11:00 am - Hitesh: yrr
+18/09/2024, 9:57 am - Lav: <Media omitted>
+18/09/2024, 10:13 am - Prisha: Me coming guys
+18/09/2024, 10:13 am - Prisha: I came class
+20/09/2024, 12:19 am - Hitesh: <Media omitted>
+20/09/2024, 9:33 am - Nisarg (Red & White): <Media omitted>
+20/09/2024, 9:34 am - Nisarg (Red & White): Galat bhi ho sakta hai thoda questions dekh lena ek baar likhne se pehle 😅
+20/09/2024, 9:48 am - Nisarg (Red & White): bike_return = CALCULATE(
+    SUM('Returns Data'[ReturnQuantity]),
+    'Product Lookup'[product_category]= "Bikes"
+)
+20/09/2024, 9:48 am - Nisarg (Red & White): return_bike_rate = CALCULATE(DIVIDE([return_qty]*100,[Total_order_qty]))
+20/09/2024, 9:49 am - Prisha: Hello sir
+20/09/2024, 9:49 am - Nisarg (Red & White): Ha bolo beta 😂
+20/09/2024, 9:50 am - Prisha: 😂😂😂
+20/09/2024, 9:50 am - Prisha: Sun na nisharg
+20/09/2024, 9:50 am - Prisha: Sir ko bolna meko 15 min late hoga
+20/09/2024, 9:50 am - Nisarg (Red & White): Ok
+20/09/2024, 9:50 am - Prisha: Abhi ja rahi hu shower ki liye
+20/09/2024, 9:50 am - Nisarg (Red & White): Ha jaldi aa
+20/09/2024, 9:52 am - Prisha: Hes
+20/09/2024, 10:01 am - Nisarg (Red & White): Year = [BirthDate].[Year]
+20/09/2024, 10:01 am - Nisarg (Red & White): Q.4
+22/09/2024, 10:34 am - Hitesh: <Media omitted>
+30/09/2024, 7:34 pm - Hitesh: <Media omitted>
+30/09/2024, 7:35 pm - Prisha: Bhai kuch kaam nhi aata
+30/09/2024, 7:36 pm - Hitesh: Padha g fir kam aaya g n 😂😂
+30/09/2024, 7:36 pm - Hitesh: Abhi yaa ML khatam nhi hoo Raha hai 😂😂
+30/09/2024, 7:36 pm - Prisha: <Media omitted>
+30/09/2024, 7:36 pm - Prisha: Ho nhi Raha sala
+30/09/2024, 7:36 pm - Prisha: Kuch bhi kaam nhi aata
+30/09/2024, 7:37 pm - Prisha: Bhai yeh sab karna padega aur sala l kuch nhi aata hoga kuchki bhai itna sari cheeza hai na
+30/09/2024, 7:37 pm - Hitesh: Hoga hoga it's  take  time
+30/09/2024, 7:37 pm - Prisha: I swear ml ai woh he karo jo sachi aaram se kaam kar sakta hai
+30/09/2024, 7:38 pm - Prisha: Ukw I have installed 50 libs iss chakar me
+30/09/2024, 7:38 pm - Prisha: It's like fucked
+30/09/2024, 7:38 pm - Hitesh: Apne UPSC ki taiyaari kar raha hai aisa lagne laga hai ab mujh 😂😂
+30/09/2024, 7:38 pm - Prisha: I swear maa kasam
+30/09/2024, 7:39 pm - Prisha: Bhai uske baad bhi job nhi milti 😂😂😂
+30/09/2024, 7:39 pm - Hitesh: <Media omitted>
+30/09/2024, 7:39 pm - Lav: <Media omitted>
+30/09/2024, 7:39 pm - Lav: kesa raha aj ?
+30/09/2024, 7:39 pm - Lav: @919081921022
+30/09/2024, 7:40 pm - Prisha: I swear hitesh me itna kar rahi hu na within 1-2 year if I don't get a good job I am going to take saniyas
+30/09/2024, 7:40 pm - Prisha: Kuch kaas nahi re
+30/09/2024, 7:40 pm - Lav: <Media omitted>
+30/09/2024, 7:40 pm - Prisha: Exam ki abhi bhi 2 days baki hai re
+30/09/2024, 7:40 pm - Lav: Khatam karo Jaldi jaldi
+30/09/2024, 7:40 pm - Hitesh: Saniyas abhi hi lee loo bad mai bahut taklif hogai 😂😂
+30/09/2024, 7:40 pm - Prisha: Maa kasam lav bhai teko lag raha hai na math yeh woh but this is beyond all of this
+30/09/2024, 7:40 pm - Lav: Ha
+30/09/2024, 7:40 pm - Prisha: This is fucked
+30/09/2024, 7:40 pm - Prisha: I swear 😂😂😂
+30/09/2024, 7:41 pm - Lav: <Media omitted>
+30/09/2024, 7:41 pm - Prisha: Chup re uarrrr
+30/09/2024, 7:41 pm - Lav: Hoga Hoga Abhi time hai bhai master Karnge Tab tak Ache se Experience Ho jayega
+30/09/2024, 7:41 pm - Hitesh: Master bhi karna hai aapko
+30/09/2024, 7:41 pm - Lav: Ha
+30/09/2024, 7:41 pm - Hitesh: Mat karo mai fass gaya hu
+30/09/2024, 7:41 pm - Prisha: Me abhi tak 10 docs padki code kar chuki koi bhi woh nhi kar raha Jo mujhe chahiye
+30/09/2024, 7:42 pm - Lav: KYO
+30/09/2024, 7:42 pm - Prisha: Same here
+30/09/2024, 7:42 pm - Lav: ?
+30/09/2024, 7:42 pm - Prisha: Degree ki baat kar raha hai woh
+30/09/2024, 7:42 pm - Hitesh: Vnsgu walo n toh pura school jesa kar diya hai
+30/09/2024, 7:42 pm - Lav: Hmm
+30/09/2024, 7:42 pm - Hitesh: 10:30 se 5 beja tak
+30/09/2024, 7:42 pm - Lav: 😂 BMU 2.0
+30/09/2024, 7:42 pm - Hitesh: Haa 😀
+30/09/2024, 7:42 pm - Prisha: Woh toh ho jai gaa bhai real world kaam kar nhi hoga woh mera laga pade hai
+30/09/2024, 7:43 pm - Lav: Are Uske Sath Karnge Assa
+30/09/2024, 7:43 pm - Hitesh: Haa yrr
+30/09/2024, 7:43 pm - Lav: College ke sath Data science me Internship
+30/09/2024, 7:43 pm - Prisha: Kar le bhai abhi
+30/09/2024, 7:43 pm - Prisha: Kyu ki baad me time nhi hai
+30/09/2024, 7:44 pm - Prisha: And company layoff kar rahi hai
+30/09/2024, 7:44 pm - Prisha: Like hell chal raha hai abhi market
+30/09/2024, 7:44 pm - Lav: June Tak Ye Sub Khatam Karunga College Class Or Apne hisab se Sub Fir Start Karunga Apply karne ki
+30/09/2024, 7:44 pm - Lav: after Jun
+30/09/2024, 7:44 pm - Lav: 🙄
+30/09/2024, 7:45 pm - Prisha: Abhi se apply kar tab jaki milaga koi jaga
+30/09/2024, 7:45 pm - Prisha: Connections chahiye
+30/09/2024, 7:45 pm - Lav: Ha per Kuch Ana Bhi to chaiye
+30/09/2024, 7:45 pm - Lav: 10 line ka code Bina Dekhe nahi kar Shakte
+30/09/2024, 7:45 pm - Prisha: Bhai interview aaya toh soch uska bareme
+30/09/2024, 7:46 pm - Prisha: Pela dekh kitna resume change karna padta hai
+30/09/2024, 7:46 pm - Lav: chatgpt or sub hoga per kuch to knowledge hona chaihye
+30/09/2024, 7:46 pm - Prisha: Bhai karab haal hai
+30/09/2024, 7:46 pm - Prisha: Tbh
+30/09/2024, 7:46 pm - Lav: Ha
+30/09/2024, 7:46 pm - Prisha: There is nothing wrong in chatgpt tbh
+30/09/2024, 7:46 pm - Prisha: I have learned that
+30/09/2024, 7:46 pm - Prisha: U don't need to waste ur time in coding
+30/09/2024, 7:47 pm - Lav: Ha Vo to hai
+30/09/2024, 7:47 pm - Prisha: Things work like reading docs understanding functionality and then chatgpt karo fir code read Karo and fix only thale part needed
+30/09/2024, 7:47 pm - Lav: Dekhte Hai 7-8 Month hai ek bar ye bmu khatam ho fir sab
+30/09/2024, 7:48 pm - Lav: <Media omitted>
+30/09/2024, 7:48 pm - Prisha: Rn companies want there work so fast ki woh kuch chat gpt deta hai
+30/09/2024, 7:48 pm - Lav: @919925532093  kaha gaya
+30/09/2024, 7:48 pm - Lav: ?
+30/09/2024, 7:48 pm - Prisha: Haa wahi
+30/09/2024, 7:48 pm - Prisha: Gayab hmmmm @919925532093
+30/09/2024, 7:48 pm - Lav: Project Ka Lafda Hai College me Or 6 sub alag se hai
+30/09/2024, 7:49 pm - Prisha: Ohhh bhai lag gai hai
+30/09/2024, 7:53 pm - Hitesh: Project mai dee dunga
+30/09/2024, 7:53 pm - Hitesh: True
+30/09/2024, 7:53 pm - Lav: Tum to Dedoge Per Vo Approve karna Chahiye
+30/09/2024, 7:53 pm - Hitesh: @917096814375  welcome you 😅
+30/09/2024, 7:53 pm - Hitesh: Voh bhi hai
+30/09/2024, 7:54 pm - Prisha: 😂😂😂
+30/09/2024, 7:54 pm - Prisha: Kaha ha nisharg??
+30/09/2024, 7:59 pm - Nisarg (Red & White): <Media omitted>
+30/09/2024, 8:05 pm - Hitesh: But interview crack karne k liya khud se code aana chaiya 😵‍💫
+30/09/2024, 8:07 pm - Prisha: Bhai interview tak toh poch
+30/09/2024, 8:07 pm - Hitesh: Yaa bhi thik h.
+30/09/2024, 8:07 pm - Prisha: Wahi bohot hai and tbh 2-3 interview fail jainge toh u will know how things work
+30/09/2024, 8:07 pm - Prisha: 😂😂
+30/09/2024, 8:07 pm - Hitesh: Haa 😁
+30/09/2024, 8:08 pm - Prisha: 🙆🏻
+30/09/2024, 8:08 pm - Hitesh: I think the interview crack karna easy practical test hard hota hai h
+30/09/2024, 8:11 pm - Prisha: u wish
+30/09/2024, 8:11 pm - Prisha: lidfe is fucked
+30/09/2024, 8:12 pm - Hitesh: Joo hoga aacha hi hoga chill 😅
+30/09/2024, 8:12 pm - Nisarg (Red & White): Red and white se nikle ho sab students...achha hi hoga✌🏻🙂
+30/09/2024, 8:12 pm - Hitesh: Motivation hai bhai 😂😹
+30/09/2024, 8:13 pm - Lav: <Media omitted>
+30/09/2024, 8:13 pm - Nisarg (Red & White): <Media omitted>
+30/09/2024, 8:15 pm - Lav: <Media omitted>
+30/09/2024, 8:15 pm - Hitesh: <Media omitted>
+03/10/2024, 9:07 am - Lav: You deleted this message
+07/10/2024, 10:15 am - Hitesh: <Media omitted>
+07/10/2024, 10:17 am - Lav: @919081921022  @917096814375  avana cho ?
+07/10/2024, 10:17 am - Nisarg (Red & White): Tu pochi gayo.?
+07/10/2024, 10:17 am - Lav: ha
+07/10/2024, 10:17 am - Nisarg (Red & White): Hu 2 vage aavish
+07/10/2024, 10:18 am - Lav: Hm
+07/10/2024, 10:18 am - Lav: saru
+10/10/2024, 11:13 pm - Prisha: Sunno guys
+10/10/2024, 11:13 pm - Prisha: Kal me nhi aaa rahi
+10/10/2024, 11:13 pm - Prisha: Koi mat janaaa
+10/10/2024, 11:13 pm - Prisha: Navratri ki wajase I will be tired
+10/10/2024, 11:14 pm - Lav: sir ko bol si kya bolte hai fir batana
+10/10/2024, 11:43 pm - Prisha: meko kal ek family function me bhi jana hai thats y
+11/10/2024, 7:35 am - Nisarg (Red & White): Me ja raha hu class aaj...aa sako to aa jana..!!
+@919081921022
+11/10/2024, 8:20 am - Prisha: I can't
+11/10/2024, 8:20 am - Prisha: I'm at a family Function
+11/10/2024, 8:20 am - Prisha: Wahi toh problem hai
+11/10/2024, 8:54 am - Nisarg (Red & White): Call aya tha sir ka...tum nahi aaogi to maybe Monday se start krenge esa bol rahe the
+11/10/2024, 8:55 am - Lav: To nahi jana Aj
+11/10/2024, 8:55 am - Nisarg (Red & White): Tere pr bhi aayega abhi thodi der me
+11/10/2024, 8:55 am - Lav: Ha
+11/10/2024, 9:07 am - Prisha: 😂
+11/10/2024, 9:10 am - Nisarg (Red & White): 6utti
+11/10/2024, 9:10 am - Nisarg (Red & White): <Media omitted>
+14/10/2024, 2:10 pm - Prisha: Hiii
+14/10/2024, 2:11 pm - Prisha: <Media omitted>
+14/10/2024, 2:11 pm - Prisha: <Media omitted>
+14/10/2024, 2:11 pm - Prisha: <Media omitted>
+14/10/2024, 2:11 pm - Prisha: <Media omitted>
+14/10/2024, 2:11 pm - Prisha: <Media omitted>
+14/10/2024, 2:11 pm - Prisha: <Media omitted>
+14/10/2024, 2:11 pm - Prisha: <Media omitted>
+14/10/2024, 2:11 pm - Prisha: <Media omitted>
+14/10/2024, 2:11 pm - Prisha: <Media omitted>
+14/10/2024, 2:18 pm - Hitesh: <Media omitted>
+14/10/2024, 4:11 pm - Prisha: 🤣🤣
+15/10/2024, 8:15 pm - Hitesh: https://leetcode.com/studyplan/introduction-to-pandas/
+15/10/2024, 8:15 pm - Hitesh: https://leetcode.com/studyplan/30-days-of-pandas/
+16/10/2024, 7:50 pm - Nisarg (Red & White): Kal 11 baje lec hai..
+16/10/2024, 7:50 pm - Nisarg (Red & White): @919081921022  @917383165330
+16/10/2024, 7:58 pm - Lav: Ok
+18/10/2024, 12:01 am - Nisarg (Red & White): Me kal bhi online hi aaunga lec me..!!
+18/10/2024, 12:37 am - Prisha: Okk
+22/10/2024, 1:42 pm - Prisha: Guys class ka time ² hai naa
+22/10/2024, 1:47 pm - Nisarg (Red & White): Ha
+22/10/2024, 2:01 pm - Prisha: Ok
+22/10/2024, 2:01 pm - Prisha: Me ab nikal rahi hu
+22/10/2024, 2:01 pm - Prisha: Sorry
+22/10/2024, 2:01 pm - Prisha: Sir ko bol he can start
+22/10/2024, 2:01 pm - Nisarg (Red & White): 🫠
+22/10/2024, 10:21 pm - Lav: Kal Nu Su Karvanu che ??
+22/10/2024, 10:21 pm - Lav: Final ?
+22/10/2024, 10:21 pm - Nisarg (Red & White): E ha
+22/10/2024, 10:21 pm - Nisarg (Red & White): Raja j vri
+22/10/2024, 10:21 pm - Nisarg (Red & White): 24 e exam + vi a
+22/10/2024, 10:21 pm - Nisarg (Red & White): Prisha to m pn nai aavse kale
+22/10/2024, 10:26 pm - Prisha: Yes final kal holiday
+22/10/2024, 10:45 pm - Lav: Ok
+23/10/2024, 8:24 pm - Nisarg (Red & White): Kale time ?
+23/10/2024, 8:27 pm - Lav: tum lag Message kar dena...
+23/10/2024, 8:27 pm - Lav: muje to koy bhi chalega
+23/10/2024, 8:37 pm - Nisarg (Red & White): <Media omitted>
+23/10/2024, 9:17 pm - Nisarg (Red & White): @917383165330 tari kusalta thi 50 marks ni fat fat krva ma help krto hoi to 2 vage aavie
+23/10/2024, 9:33 pm - Lav: Mane j ny avadtu ne su help karva na
+23/10/2024, 9:33 pm - Lav: 😂
+23/10/2024, 10:06 pm - Nisarg (Red & White): Me 2 vage aavish tme tmari rite aavjo
+23/10/2024, 10:09 pm - Nisarg (Red & White): Assignment ho gaya ?
+23/10/2024, 10:35 pm - Lav: nahi
+23/10/2024, 10:45 pm - Prisha: Kal
+23/10/2024, 10:45 pm - Prisha: 10 baje aati hai
+24/10/2024, 9:42 am - Prisha: Time batao
+24/10/2024, 9:42 am - Prisha: Guysss
+24/10/2024, 9:42 am - Hitesh: <Media omitted>
+24/10/2024, 9:44 am - Prisha: 😂😂
+24/10/2024, 9:45 am - Nisarg (Red & White): Me 2 baje aaunga ya to nai aaunga tabiyat kharab hai...
+24/10/2024, 9:47 am - Prisha: Same haal ha Mera bhi
+24/10/2024, 9:47 am - Prisha: Nhi aana wala toh jaldi bata dena I will also not come
+24/10/2024, 9:48 am - Nisarg (Red & White): Luv to hai na
+24/10/2024, 9:58 am - Lav: Me pochi gayo
+24/10/2024, 10:19 am - Prisha: U r at the class
+24/10/2024, 10:19 am - Prisha: Bhai
+24/10/2024, 10:29 am - Lav: Yes
+24/10/2024, 10:30 am - Lav: Have new ny start kre
+24/10/2024, 10:30 am - Lav: sir
+24/10/2024, 10:30 am - Lav: diwali ke bad Diwali ke pahle Ye Batch Complete karne ki hai
+24/10/2024, 10:33 am - Prisha: Me kal aa rahi hu
+24/10/2024, 3:11 pm - Lav: https://drive.google.com/drive/folders/1GT3ytLpsOUDjEFPobdegOKnleDFsN6b8?usp=sharing
+31/10/2024, 1:27 pm - Hitesh: "May this Diwali bring joy, peace, and laughter to your home. Wishing you a festival filled with love and warmth!"
+
+Happy diwali 🪔🪄💥✨🎆🎇
+31/10/2024, 3:13 pm - Prisha: Happy Diwali to all 🪔✨
+31/10/2024, 4:27 pm - Nisarg (Red & White): <Media omitted>
+31/10/2024, 4:31 pm - Lav: 🪔🎇
+31/10/2024, 4:31 pm - Lav: HAPPY DIWALI
+08/11/2024, 9:01 am - Hitesh: <Media omitted>
+10/11/2024, 6:49 am - Hitesh: <Media omitted>
+10/11/2024, 6:49 am - Hitesh: <Media omitted>
+10/11/2024, 4:58 pm - Hitesh: <Media omitted>
+11/11/2024, 1:19 am - Prisha: hello everyone
+11/11/2024, 1:19 am - Prisha: kal ka class time kya hai?
+11/11/2024, 7:31 am - Lav: Sayad 2 baje hai
+11/11/2024, 7:31 am - Lav: Me to Online karne vala hu sir bola hua hai kam me hu isliye
+11/11/2024, 7:41 am - Nisarg (Red & White): 🥹
+11/11/2024, 9:47 am - Prisha: Ohh konsa kaaam😏
+11/11/2024, 9:47 am - Prisha: Nisharg tu bhi online kar le
+11/11/2024, 9:47 am - Prisha: Me offline jaungi yar nhi toh meko bolungi fir sir
+11/11/2024, 9:47 am - Lav: Personal Kam Hai
+11/11/2024, 9:48 am - Prisha: Ohh sorry
+11/11/2024, 9:48 am - Lav: 😂
+11/11/2024, 9:51 am - Nisarg (Red & White): Dekhte hai
+11/11/2024, 10:09 am - Prisha: 😂😅
+11/11/2024, 2:34 pm - Lav: https://docs.opencv.org/4.x/index.html
+12/11/2024, 1:39 pm - Prisha: Meko aati aati 10 mins le ho sakta hai
+12/11/2024, 1:39 pm - Prisha: Maybe
+13/11/2024, 1:52 pm - Nisarg (Red & White): 10 min late thase aaje mane  trail late aavi som.
+13/11/2024, 2:08 pm - Lav: <Media omitted>
+14/11/2024, 9:54 am - Prisha: Aaj call koi nai aaya?
+14/11/2024, 9:55 am - Nisarg (Red & White): Kiska call
+14/11/2024, 10:00 am - Prisha: Aaj class nhi aana kya??
+14/11/2024, 10:00 am - Prisha: Mei akela kyu hu
+14/11/2024, 10:01 am - Nisarg (Red & White): Aaya me 2 min
+20/11/2024, 2:23 pm - Lav: Sir link mokle che
+20/11/2024, 2:23 pm - Nisarg (Red & White): Ok
+20/11/2024, 2:26 pm - Lav: Kal vali link pe request dal do
+20/11/2024, 2:38 pm - Prisha: Link
+21/11/2024, 2:16 pm - Lav: Nisarg Link per join ho ja
+21/11/2024, 2:17 pm - Nisarg (Red & White): Aaj nai aa paunga busy hu..!!
+21/11/2024, 2:18 pm - Lav: Thik hai
+23/11/2024, 3:17 pm - Lav: Monday se 25-30 class time 5:00 PM
+23/11/2024, 3:17 pm - Lav: sir ne bola hai
+26/11/2024, 11:33 am - Nisarg (Red & White): @917383165330  @919081921022  5 baje class hai aaj
+26/11/2024, 11:50 am - Prisha: Okay
+30/11/2024, 6:49 am - Nisarg (Red & White): Idk sir ne tumlogo ko bataya ki nai pr aaj 9 to 11 ka time hai @917383165330  @919081921022
+30/11/2024, 7:58 am - Lav: Ha bola tha per main nahi Ane vala sir ko bol diya tha
+30/11/2024, 7:58 am - Nisarg (Red & White): Ok
+30/11/2024, 7:59 am - Lav: Ki prisha nisarg ka continue karo mera bad me start karna
+30/11/2024, 7:59 am - Lav: Sir ne thik hai bola hai
+30/11/2024, 7:59 am - Lav: Kale gayela ?
+30/11/2024, 7:59 am - Nisarg (Red & White): Na
+30/11/2024, 7:59 am - Nisarg (Red & White): Saturday nu j kahelu sir e
+30/11/2024, 7:59 am - Nisarg (Red & White): Have aaje prisha aave to saru
+30/11/2024, 8:00 am - Lav: Hn
+30/11/2024, 8:00 am - Lav: Kale natu ky ?
+30/11/2024, 8:00 am - Nisarg (Red & White): Na
+30/11/2024, 8:00 am - Lav: Hm
+30/11/2024, 8:01 am - Lav: Sir ne time pass j kare che matlab apda name per
+30/11/2024, 8:01 am - Lav: Me Thursday kidhu tu ke aa Loko nu start karo sir ha padi ti
+30/11/2024, 8:01 am - Nisarg (Red & White): Keta hata mane kale avay to aav j m pn pa6i Saturday nu j kahyu
+30/11/2024, 8:01 am - Lav: Hm
+30/11/2024, 8:02 am - Nisarg (Red & White): Maths etle avvu padse m krta hata baki online kravi lete
+30/11/2024, 9:57 am - Lav: Hm
+01/12/2024, 1:03 pm - Hitesh: <Media omitted>
+02/12/2024, 9:23 am - Nisarg (Red & White): Aaj 2.30 to 3.30 class hai ...sir ki meeting hai or me kabutar  🐦‍⬛🙂
+02/12/2024, 9:25 am - Lav: Ha
+02/12/2024, 9:25 am - Lav: 😂
+02/12/2024, 9:25 am - Lav: Roj na natak che sir na
+02/12/2024, 9:28 am - Prisha: 🤣🤣🤣
+02/12/2024, 9:29 am - Lav: Sir ka favourite student hai tu
+02/12/2024, 9:29 am - Lav: Saturday class tha. ?
+02/12/2024, 9:30 am - Prisha: Haa
+02/12/2024, 9:31 am - Lav: Thik hai
+02/12/2024, 9:40 am - Nisarg (Red & White): <Media omitted>
+02/12/2024, 2:27 pm - Prisha: Mei 5-10 mins mei aai
+02/12/2024, 2:46 pm - Prisha: Same link per join kar @917096814375
+02/12/2024, 2:46 pm - Nisarg (Red & White): Ok
+02/12/2024, 4:02 pm - Nisarg (Red & White): Saturday kraya tha wahi same kraya aaj bhi🤦🏻‍♂️
+02/12/2024, 4:02 pm - Nisarg (Red & White): <Media omitted>
+02/12/2024, 4:02 pm - Nisarg (Red & White): <Media omitted>
+02/12/2024, 4:02 pm - Nisarg (Red & White): <Media omitted>
+02/12/2024, 4:02 pm - Nisarg (Red & White): <Media omitted>
+02/12/2024, 4:02 pm - Nisarg (Red & White): <Media omitted>
+02/12/2024, 9:19 pm - Lav: Mere name pe .. Uska Khudka Padhna Baki hoga
+02/12/2024, 9:19 pm - Lav: Isliye repeat karva raha hai
+02/12/2024, 9:44 pm - Nisarg (Red & White): Ha🫠
+03/12/2024, 8:53 am - Lav: Aje class Time 03:00 Pm to 04:00 PM
+03/12/2024, 9:27 am - Prisha: Okay
+03/12/2024, 9:48 am - Nisarg (Red & White): Ok
+03/12/2024, 3:10 pm - Lav: <Media omitted>
+03/12/2024, 3:10 pm - Lav: <Media omitted>
+04/12/2024, 10:50 am - Nisarg (Red & White): Aaj time.?
+04/12/2024, 10:52 am - Lav: 2 hi hoga
+04/12/2024, 10:52 am - Lav: Message nahi aya ki h
+04/12/2024, 10:52 am - Lav: Kuch*
+04/12/2024, 10:55 am - Nisarg (Red & White): Ok
+04/12/2024, 11:30 am - Prisha: Okay
+04/12/2024, 11:30 am - Prisha: 2 paka hai na?
+04/12/2024, 11:38 am - Lav: Sir se bat karle
+04/12/2024, 12:00 pm - Nisarg (Red & White): 2 baje confirm..!!
+04/12/2024, 12:06 pm - Prisha: Ok
+04/12/2024, 2:38 pm - Lav: https://keras.io/api/losses/
+04/12/2024, 2:38 pm - Lav: Huber class
+05/12/2024, 8:56 am - Lav: Aje class Time 02:30 PM To 03:30 PM
+05/12/2024, 9:25 am - Prisha: Okay
+05/12/2024, 12:22 pm - Nisarg (Red & White): Sir e su kahyu vaat thay kai.!?
+Raja rakhi k bolavya.?
+05/12/2024, 12:22 pm - Nisarg (Red & White): Marthi avay m nathi aaje etle
+05/12/2024, 12:25 pm - Lav: Na
+05/12/2024, 12:25 pm - Lav: Bolaya che
+05/12/2024, 12:25 pm - Lav: Time no message ayo
+05/12/2024, 12:25 pm - Nisarg (Red & White): Ok
+05/12/2024, 12:25 pm - Lav: Mare be nathi javu
+05/12/2024, 12:26 pm - Lav: null
+05/12/2024, 12:26 pm - Nisarg (Red & White): Sir e mane aavu kahyu..
+
+To Pachi Kale nu Setting Kari dav to chal se
+
+To mane m k raja aapvana
+05/12/2024, 12:26 pm - Lav: Kyare vat thay
+05/12/2024, 12:26 pm - Lav: ?
+05/12/2024, 12:26 pm - Nisarg (Red & White): Hamna 10min pella
+05/12/2024, 12:26 pm - Nisarg (Red & White): 😍
+05/12/2024, 12:26 pm - Lav: To haji nathi ayu
+05/12/2024, 12:27 pm - Lav: Avishe have
+05/12/2024, 12:27 pm - Lav: Roj ek nu ek karave che
+05/12/2024, 12:27 pm - Nisarg (Red & White): Ha
+05/12/2024, 12:27 pm - Lav: Ny jayaa
+05/12/2024, 12:27 pm - Nisarg (Red & White): <Media omitted>
+05/12/2024, 12:27 pm - Nisarg (Red & White): Joie chal ne j thay e
+05/12/2024, 12:27 pm - Lav: Ha
+05/12/2024, 1:31 pm - Lav: Class nathi
+05/12/2024, 1:31 pm - Lav: @919081921022 nisarg
+05/12/2024, 1:32 pm - Lav: Saturday 2 hour na che
+05/12/2024, 1:35 pm - Nisarg (Red & White): Brobr
+05/12/2024, 1:38 pm - Lav: You deleted this message
+05/12/2024, 1:39 pm - Lav: Ke nisarg ny Ave to su karvu che
+05/12/2024, 1:39 pm - Lav: Me kidhu khali khali ni avu tya avu ne me ek hov and ama be repeat karava na hoy to mare submission che to ni avu
+05/12/2024, 1:39 pm - Lav: Sir key saru Saturday avje
+05/12/2024, 1:39 pm - Nisarg (Red & White): Ha 2 vage kehte k raja
+05/12/2024, 1:40 pm - Lav: Hm
+06/12/2024, 11:42 am - Lav: class Time 02:00 PM
+06/12/2024, 11:50 am - Nisarg (Red & White): Ok
+06/12/2024, 2:04 pm - Prisha left
+06/12/2024, 2:08 pm - You added Prisha
+06/12/2024, 2:21 pm - Lav: You deleted this message
+06/12/2024, 2:22 pm - Lav: kya karvaya new 🤯
+06/12/2024, 2:22 pm - Nisarg (Red & White): This message was deleted
+06/12/2024, 2:22 pm - Lav: prisha tu sir ke samne group mat khola kar
+06/12/2024, 2:22 pm - Prisha: 🤣🤣🤣🤣
+06/12/2024, 2:22 pm - Prisha: Got it 🤐👍🏻
+06/12/2024, 2:26 pm - Prisha: Yeh kya Ula sidha bol raha tha pela
+07/12/2024, 10:35 am - Prisha: https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll
+07/12/2024, 10:47 am - Nisarg (Red & White): https://youtube.com/shorts/gqsYY4LKwFI?si=katPgQLF1wGJCUHJ
+07/12/2024, 10:52 am - Prisha: https://medium.com/@juanc.olamendy/real-world-ml-understanding-batch-size-train-faster-and-better-deep-learning-models-2b24c353e292#:~:text=Batch%20Gradient%20Descent%20(Batch%20Size,to%20the%20entire%20training%20set.
+12/12/2024, 6:02 am - Hitesh: Pandas Ebook:
+https://colab.research.google.com/drive/1rkw1G7Zsk43HhbEHiRSc7_SuuOLCTbOd?usp=sharing
+
+NumPy Ebook:
+https://colab.research.google.com/drive/1LMFOyqTptU7TLtQrnnpq0qx4hleeY30G?usp=sharing
+
+Matplotlib Ebook:
+https://colab.research.google.com/drive/1bLU_58qJGdwk9StmhRr4HV7y0WrHaFvH?usp=sharing
+
+Seaborn Ebook:
+https://colab.research.google.com/drive/1bLU_58qJGdwk9StmhRr4HV7y0WrHaFvH?usp=sharing
+
+Here is the all Collab files for EDA basic to advance all covered mostly plss check this all files
+12/12/2024, 2:52 pm - Nisarg (Red & White): <Media omitted>
+12/12/2024, 2:53 pm - Nisarg (Red & White): <Media omitted>
+12/12/2024, 2:53 pm - Nisarg (Red & White): <Media omitted>
+25/12/2024, 1:44 pm - Lav: Class time 2:10
+26/12/2024, 1:49 pm - Prisha: Meko aaj 5 mins late hoga
+26/12/2024, 2:18 pm - Nisarg (Red & White): In deep learning, an optimizer is a model component that determines how well and how fast a network performs. The right optimizer can help reduce training time and improve accuracy, while the wrong one can waste time and resources. Here are some optimizers used in deep learning: 
+Gradient descent
+A simple and widely-used algorithm that minimizes the loss function by adjusting the model's parameters. The learning rate is a key factor in the convergence of gradient descent. 
+RMSProp
+Adjusts the learning rate for each weight in the model, which can help find the global minimum of the loss functions. It works well with sparse gradients and non-stationary objectives. 
+Stochastic gradient descent (SGD)
+A good choice when working with large datasets and simple neural network architectures. It can also be a good option when time is limited and a quick solution is needed. 
+AdaGrad
+Useful for handling sparse data, where some input features are missing or have low frequency. Adagrad can adaptively adjust the learning rate of each parameter. 
+Mini batch gradient descent
+An improvement on SGD and standard gradient descent. It updates the model parameters after every batch. 
+Adadelta
+An extension of Adagrad that allows for per-dimension learning rates. 
+Adam optimizer
+Combines the advantages of momentum and RMSprop. It calculates an adaptive learning rate for each parameter. 
+SGD with momentum
+Works better than the normal Stochastic Gradient Descent Algorithm.
+26/12/2024, 3:37 pm - Nisarg (Red & White): https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c
+26/12/2024, 3:37 pm - Nisarg (Red & White): https://ashutoshkriiest.medium.com/exploring-nesterov-accelerated-gradient-nag-a-powerful-optimization-technique-in-deep-learning-fb7366892840
+26/12/2024, 3:37 pm - Nisarg (Red & White): https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c
+28/12/2024, 9:52 am - Nisarg (Red & White): https://svitla.com/blog/cnn-for-image-processing/
+28/12/2024, 9:53 am - Lav: 🚨Important Announcement🚨
+
+जय भारत,
+
+हरेक विध्यार्थीओ को यह सूचित किया जाता हे कि Saturday यानि कि 28 December को आपके लिए Company Visit Arrange कि हुई हे तो निचे दि हुई Information को Follow करके आपको Compulsory Company Visit के लिए जाना रहेगा | जिसकी हरेक विध्यार्थीओ को खाश नोंध लेनी रहेगी |
+
+Reporting Venue : RW2 Yogichowk Branch - 10:00 AM.
+
+Date : 28/12/2024
+Day : Saturday
+Dress Code : Red & White Tshirt With iCard
+
+Company Name : Hitinfotech.com
+
+Company Website URL : https://hitinfotech.com/
+
+Company Address : 309, Amazing Star, Mahavir Circle, Yogi Chowk, Surat, India.
+
+Google Map : https://maps.app.goo.gl/zw2BEvgTqMV32h9S7
+30/12/2024, 2:21 pm - Lav: Mera kuch kam important nahi hai
+30/12/2024, 2:21 pm - Lav: Main ne kal exam di thi usme 1 file me nan nan aa raha hai vo hi hai
+30/12/2024, 2:22 pm - Lav: Vo to sir bad me bhi dekh shakta hai
+30/12/2024, 2:22 pm - Lav: Sir ko shikhna baki hai aj
+30/12/2024, 2:22 pm - Lav: Sir ne bola leras tuning ke under error aa rahi hai
+30/12/2024, 2:22 pm - Lav: So .🥲 Mere koy galti nahi hai...
+30/12/2024, 2:22 pm - Lav: Sry
+30/12/2024, 2:24 pm - Nisarg (Red & White): <Media omitted>
+30/12/2024, 3:13 pm - Nisarg (Red & White): @917383165330  dataset mokl evu hoi to try krie amara ma solve thay to
+30/12/2024, 3:30 pm - Lav: Ha
+30/12/2024, 3:30 pm - Lav: Moklu thodi var ma
+31/12/2024, 11:09 am - Lav: <Media omitted>
+31/12/2024, 11:09 am - Lav: <Media omitted>
+03/01/2025, 3:07 pm - Nisarg (Red & White): <Media omitted>
+03/01/2025, 3:13 pm - Prisha: Thank you
+03/01/2025, 3:13 pm - Prisha: Tu
+03/01/2025, 3:35 pm - Nisarg (Red & White): <Media omitted>
+03/01/2025, 3:35 pm - Nisarg (Red & White): <Media omitted>
+03/01/2025, 3:35 pm - Nisarg (Red & White): <Media omitted>
+03/01/2025, 3:35 pm - Nisarg (Red & White): <Media omitted>
+10/01/2025, 9:53 pm - Nisarg (Red & White): Kal 9:00 am baje class hai ... @917383165330 @919081921022
+11/01/2025, 9:28 am - Nisarg (Red & White): Lecture cancel...sir ko meeting hai...
+12 baje expert session hoga
+
+Session Link:  meet.google.com/bbw-nqqd-tfd
+11/01/2025, 9:28 am - Lav: Ohk
+11/01/2025, 9:28 am - Lav: Me kyar no join thav chu
+11/01/2025, 9:28 am - Nisarg (Red & White): Me pn
+11/01/2025, 9:28 am - Lav: 😂
+11/01/2025, 9:29 am - Nisarg (Red & White): Sir kei sorry class nathi meeting 6...
+Me v4ru ema sorry su congratulations kevanu hoi 🤣🤣
+11/01/2025, 9:31 am - Prisha: sir ko bolo na let me in
+11/01/2025, 9:33 am - Nisarg (Red & White): <Media omitted>
+11/01/2025, 9:33 am - Nisarg (Red & White): @917383165330 aap ku6 kehna chahenge.!?😂
+11/01/2025, 9:33 am - Nisarg (Red & White): Prisha ko
+11/01/2025, 9:35 am - Lav: <Media omitted>
+11/01/2025, 9:36 am - Lav: <Media omitted>
+11/01/2025, 9:40 am - Nisarg (Red & White): @919081921022 lecture nahi hai aaj...
+Sirf expect session hoga wo bhi 12 baje..!!
+11/01/2025, 9:40 am - Nisarg (Red & White): 🤓
+11/01/2025, 9:40 am - Prisha: 😭😂😂
+11/01/2025, 12:01 pm - Lav: Join karvanu che ?
+11/01/2025, 12:02 pm - Nisarg (Red & White): Ha avyo hu pn
+11/01/2025, 12:25 pm - Prisha: Naa
+16/01/2025, 9:25 am - Nisarg (Red & White): Aje class Time 02:30 PM To 03:30 PM che
+@917383165330 @919081921022
+16/01/2025, 10:04 am - Prisha: Donee
+16/01/2025, 1:34 pm - Nisarg (Red & White): Sarthana
+304-311, Royal Arcade, Opp. Deepkamal Multiplex, Varachha Road, Sarthana Jakatnaka, Surat-395006, Gujarat (INDIA).
+
++91 78787 80511
+16/01/2025, 1:34 pm - Nisarg (Red & White): https://www.google.com/maps/place/Red+and+White+Skill+Education+-+Sarthana/@21.2286147,72.8981254,812m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3be0458a801c2521:0x7f7b92a502e19649!8m2!3d21.2286147!4d72.8981254!16s%2Fg%2F11btvgc427?entry=ttu&g_ep=EgoyMDI1MDExNC4wIKXMDSoASAFQAw%3D%3D
+16/01/2025, 1:34 pm - Nisarg (Red & White): Aje A Branch Par Ava nu che
+16/01/2025, 1:34 pm - Nisarg (Red & White): Msg aaya na sir ka.?
+@917383165330 @919081921022
+16/01/2025, 1:34 pm - Nisarg (Red & White): .
+16/01/2025, 1:35 pm - Lav: Ha atle j puchyu tane
+16/01/2025, 1:34 pm - Prisha: Yess
+16/01/2025, 1:35 pm - Prisha: Thanks
+16/01/2025, 1:35 pm - Nisarg (Red & White): Ha tera samaj gaya prisha ka keh nahi sakte esliye pu6 liya 😂
+16/01/2025, 1:35 pm - Prisha: Sir yeh itna bura insaan hai na I swear
+16/01/2025, 1:35 pm - Lav: 😂
+16/01/2025, 1:35 pm - Prisha: I am coming
+16/01/2025, 1:35 pm - Lav: <Media omitted>
+16/01/2025, 1:36 pm - Prisha: Meko tabiyat itni karab hai bolta hai mom ko ki app usko bhijo
+16/01/2025, 1:36 pm - Prisha: Bc insaan
+16/01/2025, 1:37 pm - Nisarg (Red & White): <Media omitted>
+16/01/2025, 2:14 pm - Lav: Kaha pe ho ?
+16/01/2025, 2:17 pm - Nisarg (Red & White): Amroli
+16/01/2025, 2:17 pm - Lav: 😂
+16/01/2025, 2:17 pm - Nisarg (Red & White): Aa raha hu bus me tha
+16/01/2025, 2:17 pm - Lav: Ok
+16/01/2025, 2:17 pm - Lav: @919081921022 ?
+16/01/2025, 2:18 pm - Nisarg (Red & White): Baar ubho 6 k class ma aavi gayo.?
+16/01/2025, 2:18 pm - Lav: Bar
+16/01/2025, 2:18 pm - Lav: Lobi ma
+16/01/2025, 2:18 pm - Nisarg (Red & White): Ok
+16/01/2025, 2:19 pm - Prisha: Aa rahi hu
+16/01/2025, 2:19 pm - Lav: Hm
+16/01/2025, 2:19 pm - Prisha: Wait for me pls
+16/01/2025, 2:19 pm - Lav: Ha aoo
+16/01/2025, 2:19 pm - Lav: Jaldi
+16/01/2025, 2:27 pm - Prisha: Kaha ho
+16/01/2025, 2:28 pm - Lav: Class me
+16/01/2025, 2:28 pm - Lav: Wait sir av rahe hai
+20/01/2025, 2:21 pm - Nisarg (Red & White): Word guess using :
+Lstm
+By directional
+Gru
+20/01/2025, 2:22 pm - Lav: Me exam banavi lidhi che
+20/01/2025, 2:22 pm - Lav: Exam mate che ne ?
+20/01/2025, 2:22 pm - Lav: Khali arrange j karvani baki che
+20/01/2025, 3:16 pm - Nisarg (Red & White): Ha
+20/01/2025, 3:16 pm - Nisarg (Red & White): Kale upload kr j 😅
+20/01/2025, 3:16 pm - Nisarg (Red & White): Ame aaje banavsu..aaj kal ma
+20/01/2025, 3:17 pm - Lav: Ha
+20/01/2025, 3:17 pm - Lav: Ohk
+25/01/2025, 3:04 pm - Lav: @917096814375 link mokal
+25/01/2025, 3:04 pm - Lav: And class 3:15 aa start thashe
+25/01/2025, 3:05 pm - Nisarg (Red & White): https://meet.google.com/ywg-vyua-vca
+25/01/2025, 3:05 pm - Nisarg (Red & White): Ok
+25/01/2025, 3:18 pm - Lav: Nisarg join kar
+25/01/2025, 3:20 pm - Nisarg (Red & White): Pehle se hai me andar😅
+25/01/2025, 3:20 pm - Lav: Mane sir call Karine key Ane call kar
+25/01/2025, 3:20 pm - Nisarg (Red & White): Ok
+27/01/2025, 10:19 pm - Nisarg (Red & White): @917383165330 @919081921022 ...sir bol rahe the kal chalu rakhne ko class..!!
+27/01/2025, 10:19 pm - Nisarg (Red & White): Tumhara lya kehna hai.!?
+27/01/2025, 10:34 pm - Lav: Ha chalega
+27/01/2025, 10:34 pm - Lav: Dekhta hu
+27/01/2025, 10:35 pm - Lav: Me sayad Thursday Tak hi hu fir direct 20 ke ass pass
+27/01/2025, 10:35 pm - Lav: Aunga
+27/01/2025, 10:35 pm - Lav: Class to time per chalu ho hai
+27/01/2025, 10:35 pm - Lav: Me recording dekh lunga
+27/01/2025, 10:37 pm - Nisarg (Red & White): 🥺
+27/01/2025, 10:37 pm - Nisarg (Red & White): Kal ka ku6 krke cancel ho sake to kro na
+27/01/2025, 10:37 pm - Nisarg (Red & White): Me ku6 keh nahi sakta kaam hai vgera
+27/01/2025, 10:41 pm - Lav: Ha thik hai
+27/01/2025, 10:41 pm - Lav: Chal na muje puchenge to me bol dunga me nahi aaa shakta
+27/01/2025, 10:45 pm - Nisarg (Red & White): <Media omitted>
+27/01/2025, 11:14 pm - Prisha: 🤣🤣
+27/01/2025, 11:14 pm - Prisha: Bhai shayad mei hu ya nhi hu
+28/01/2025, 1:18 pm - Lav: @919081921022 Ane vali hai ?
+28/01/2025, 1:42 pm - Prisha: Aa rahi hu sir called
+28/01/2025, 1:42 pm - Prisha: 🥺
+28/01/2025, 1:42 pm - Nisarg (Red & White): 2.30 bola hai start krenge
+28/01/2025, 1:43 pm - Lav: Ha
+28/01/2025, 1:43 pm - Lav: Isliye hi pucha ki ager vo na Ane vali ho to Start karva du
+28/01/2025, 1:43 pm - Lav: Tu to online hi hai
+28/01/2025, 1:43 pm - Nisarg (Red & White): Ha
+30/01/2025, 11:13 am - Nisarg (Red & White): 3 to 4 bol rahe hai lec online..!!
+@919081921022 @917383165330
+30/01/2025, 11:56 am - Lav: Im Out
+30/01/2025, 3:05 pm - Prisha: link
+30/01/2025, 3:53 pm - Nisarg (Red & White): https://huggingface.co/facebook/hubert-large-ls960-ft
+30/01/2025, 3:55 pm - Nisarg (Red & White): 50 - Marks - Object Detections base on Ternsflow  , yolo
+Transform Learning  - BERT etc
+31/01/2025, 5:51 pm - Nisarg (Red & White): Ye kya galti se apne wale group me msg kr diya kya sir ne !!🤔
+31/01/2025, 6:00 pm - Prisha: Nhi
+31/01/2025, 6:21 pm - Nisarg (Red & White): To ja rahe ho kya tum log.?
+31/01/2025, 6:21 pm - Nisarg (Red & White): Luv to hai nahi ab..!!
+31/01/2025, 6:22 pm - Lav: Ha
+31/01/2025, 6:22 pm - Nisarg (Red & White): Mujhe bhi bahar jana hai kal online rakhte hai to aaunga me
+31/01/2025, 6:22 pm - Lav: I'm out
+31/01/2025, 6:22 pm - Lav: Sahi hai
+31/01/2025, 6:22 pm - Lav: Ab me sirf exam me milunga or reinforcement vale 6-7 lecture me
+31/01/2025, 6:22 pm - Lav: <Media omitted>
+31/01/2025, 6:23 pm - Lav: <Media omitted>
+31/01/2025, 6:23 pm - Lav: <Media omitted>
+31/01/2025, 6:25 pm - Nisarg (Red & White): <Media omitted>
+03/02/2025, 12:25 pm - Prisha: ...
+12/02/2025, 9:42 am - Hitesh: <Media omitted>
+16/02/2025, 12:47 pm - Hitesh: <Media omitted>
+17/02/2025, 1:17 pm - Lav: Lecture Time : 2:30
+17/02/2025, 1:17 pm - Lav: @917096814375 ,@919081921022
+17/02/2025, 1:23 pm - Nisarg (Red & White): Are sir ne kevanu rei gayu hu online aavish
+17/02/2025, 1:23 pm - Lav: Ky de
+17/02/2025, 1:23 pm - Lav: Mari tabiyet ny sari atle clinic ayo che var lagshe atle 2:30 nu karayu
+17/02/2025, 1:23 pm - Prisha: Mei sayad nhi aa rahi but sir ko bat bolna
+17/02/2025, 1:23 pm - Lav: Online j chu hu
+17/02/2025, 1:23 pm - Prisha: Okay ki I said I ain't coming karki
+17/02/2025, 1:24 pm - Lav: Ok
+17/02/2025, 1:24 pm - Prisha: Esa ho toh bol Dena uska kuch aaj college ka kaam tha bol rahi thi karki
+17/02/2025, 1:24 pm - Prisha: Okay!
+17/02/2025, 1:24 pm - Prisha: Thank youyu
+17/02/2025, 1:24 pm - Lav: 😂
+17/02/2025, 2:34 pm - Prisha: Lav mei nhi aa rahi and don't tell sir I texted karki
+17/02/2025, 2:34 pm - Lav: Ha
+17/02/2025, 2:34 pm - Nisarg (Red & White): Online bhi nahi.?
+17/02/2025, 2:34 pm - Lav: Me bhi nahi jaraha
+17/02/2025, 2:34 pm - Lav: Nahi
+17/02/2025, 2:34 pm - Lav: Sir ne message karyo sir key try kar
+17/02/2025, 2:34 pm - Nisarg (Red & White): @919081921022
+17/02/2025, 2:34 pm - Nisarg (Red & White): Bau try kri nai aavatu 🤧😂
+17/02/2025, 2:35 pm - Nisarg (Red & White): @919081921022
+17/02/2025, 2:35 pm - Lav: 😂
+17/02/2025, 2:35 pm - Prisha: Nope
+17/02/2025, 2:35 pm - Nisarg (Red & White): 🥹
+17/02/2025, 2:35 pm - Prisha: 🤣🤣
+17/02/2025, 2:35 pm - Nisarg (Red & White): Pata nahi esi setuation me mai apne aap aage kese aa jata hu🥹🥹
+17/02/2025, 2:35 pm - Prisha: 🤣🤣🤣
+17/02/2025, 2:36 pm - Lav: <Media omitted>
+17/02/2025, 2:45 pm - Prisha: Sir teko kuch bola lav
+17/02/2025, 2:45 pm - Lav: Nahi kyo ?
+17/02/2025, 2:46 pm - Lav: Sir ne bola koy ni nisarg se puch lena fir
+17/02/2025, 3:34 pm - Nisarg (Red & White): <Media omitted>
+17/02/2025, 3:35 pm - Nisarg (Red & White): Mujhe bol rahe the prisha ko call kro...mene bol diya nai lag raha🙃
+17/02/2025, 3:37 pm - Nisarg (Red & White): <Media omitted>
+22/02/2025, 10:07 am - Hitesh: <Media omitted>
+25/02/2025, 11:55 am - Nisarg (Red & White): <Media omitted>
+25/02/2025, 11:55 am - Nisarg (Red & White): <Media omitted>
+25/02/2025, 11:55 am - Nisarg (Red & White): <Media omitted>
+25/02/2025, 11:55 am - Nisarg (Red & White): <Media omitted>
+25/02/2025, 11:55 am - Nisarg (Red & White): <Media omitted>
+25/02/2025, 11:55 am - Nisarg (Red & White): <Media omitted>
+25/02/2025, 11:55 am - Nisarg (Red & White): <Media omitted>
+25/02/2025, 11:55 am - Nisarg (Red & White): <Media omitted>
+28/02/2025, 2:14 pm - Nisarg (Red & White): @919081921022 @917383165330  sir mcq ke liye abhi bol rahe hai tum log ready ho to de dete hai..!!
+28/02/2025, 2:15 pm - Nisarg (Red & White): Or 3 baje lecture
+28/02/2025, 2:15 pm - Lav: Chalegaa
+28/02/2025, 2:16 pm - Prisha: okkk
+28/02/2025, 2:21 pm - Nisarg (Red & White): Student portal me hoga exam..
+28/02/2025, 2:21 pm - Lav: Ok
+28/02/2025, 2:22 pm - Nisarg (Red & White): @919081921022
+28/02/2025, 2:23 pm - Prisha: ok
+28/02/2025, 2:23 pm - Lav: Sir badha ne alag alag call Karine key Ani karta Group ma message karta hoy to
+28/02/2025, 2:23 pm - Lav: 🫠
+28/02/2025, 2:23 pm - Nisarg (Red & White): Lagvu joie ne sir kaam kre 6 m🙂
+28/02/2025, 2:23 pm - Lav: 😂
+28/02/2025, 2:43 pm - Prisha: 😂
+28/02/2025, 2:44 pm - Lav: Khatam hogaya Mera to
+28/02/2025, 2:44 pm - Nisarg (Red & White): Mere me to sab mcq ke answer A hai bhai
+28/02/2025, 2:44 pm - Nisarg (Red & White): Tumhare me bhi esa tha.!?
+28/02/2025, 2:44 pm - Lav: Same
+28/02/2025, 2:44 pm - Nisarg (Red & White): 1 to 30 A.!! 😂
+28/02/2025, 2:44 pm - Nisarg (Red & White): ?
+28/02/2025, 2:44 pm - Lav: Sub se lamba jo option hai vahi hai right and.
+28/02/2025, 2:44 pm - Nisarg (Red & White): 😂
+28/02/2025, 2:45 pm - Lav: Na kadach ny kaber ny ry but mostly badha ma A j che
+28/02/2025, 2:45 pm - Nisarg (Red & White): Ha
+28/02/2025, 2:45 pm - Lav: Submit karyu ?
+28/02/2025, 2:45 pm - Nisarg (Red & White): 7 baki 6
+28/02/2025, 2:45 pm - Lav: Hm karu le
+28/02/2025, 2:45 pm - Lav: Kari le*
+28/02/2025, 2:51 pm - Nisarg (Red & White): Marks ni avya
+28/02/2025, 2:51 pm - Nisarg (Red & White): 28 mcq ma A kryu 6 me khali 2 ma bija select krya 6 😂
+28/02/2025, 2:54 pm - Nisarg (Red & White): Le aavi gayu 28 marks 🤣
+28/02/2025, 2:54 pm - Lav: 😂
+28/02/2025, 2:54 pm - Lav: 27
+28/02/2025, 2:56 pm - Lav: Sir ne kyaa ke start kare
+28/02/2025, 2:56 pm - Nisarg (Red & White): Pelli var vadhare avya tara thi 🤣
+28/02/2025, 2:56 pm - Lav: Haji time pass karshe
+28/02/2025, 2:56 pm - Lav: 😂
+28/02/2025, 2:56 pm - Nisarg (Red & White): 3.15 e keta hata
+28/02/2025, 2:56 pm - Lav: Karu message
+28/02/2025, 2:56 pm - Nisarg (Red & White): Ok
+28/02/2025, 2:56 pm - Lav: @919081921022
+28/02/2025, 2:56 pm - Lav: ?
+28/02/2025, 2:56 pm - Prisha: Boloo
+28/02/2025, 2:56 pm - Nisarg (Red & White): Exam done?
+28/02/2025, 2:56 pm - Prisha: null
+28/02/2025, 2:57 pm - Lav: Aree ready rahena
+28/02/2025, 2:57 pm - Lav: Sir ko message Kiya hai lecture ke liye
+28/02/2025, 2:58 pm - Prisha: 30/30
+28/02/2025, 2:58 pm - Prisha: 🙂😁😁😁
+28/02/2025, 2:59 pm - Nisarg (Red & White): <Media omitted>
+28/02/2025, 3:00 pm - Lav: Kya hai bhai
+28/02/2025, 3:00 pm - Lav: @919081921022
+28/02/2025, 3:00 pm - Prisha: 😭😭😭😭😭
+28/02/2025, 3:00 pm - Lav: Kyo bola sir ko ki sare ans. Me A hi ans. Hai
+28/02/2025, 3:01 pm - Lav: Kya maza aya tuje
+28/02/2025, 3:01 pm - Nisarg (Red & White): Fir se dena hai kya ab.?
+28/02/2025, 3:01 pm - Lav: Sir ab kal vapas exam lene vale hai sub ki
+28/02/2025, 3:01 pm - Lav: Ha
+28/02/2025, 3:01 pm - Prisha: Meko nhi pata thi
+28/02/2025, 3:01 pm - Lav: Bola hi kyo
+28/02/2025, 3:01 pm - Nisarg (Red & White): Be yaar🥺
+28/02/2025, 3:02 pm - Nisarg (Red & White): Ab yaad rakhna class me ho ya online sir se ku6 discuss mat kro jo ho raha hai hone do 😅
+Krna hi ho to yaha group me msg kr dena
+28/02/2025, 3:03 pm - Prisha: https://meet.google.com/ngc-ttod-azc?authuser=0
+28/02/2025, 3:04 pm - Lav: https://meet.google.com/ngc-ttod-azc?authuser=0
+28/02/2025, 3:04 pm - Nisarg (Red & White): Me bhi bheju kya 😂
+28/02/2025, 3:04 pm - Nisarg (Red & White): https://meet.google.com/ngc-ttod-azc?authuser=0
+28/02/2025, 3:04 pm - Lav: 😂
+28/02/2025, 3:04 pm - Lav: Nisarg be ready kuch bhi ho jaye per nahi jana kal or interview bhi nahi dena
+28/02/2025, 3:05 pm - Nisarg (Red & White): Ha done
+28/02/2025, 3:05 pm - Lav: Voice ny avto
+28/02/2025, 3:06 pm - Lav: Fari join kar
+28/02/2025, 3:07 pm - Lav: Join kar
+28/02/2025, 3:10 pm - Lav: Nisarg bol
+28/02/2025, 3:10 pm - Lav: Bhai
+28/02/2025, 3:12 pm - Lav: Bol nisarg
+28/02/2025, 3:13 pm - Lav: Nisarg bol
+28/02/2025, 3:14 pm - Lav: 🫠😂😅🙄
+28/02/2025, 3:19 pm - Nisarg (Red & White): <Media omitted>
+28/02/2025, 3:20 pm - Lav: <Media omitted>
+28/02/2025, 3:20 pm - Lav: Prisha chup ho ja
+28/02/2025, 3:20 pm - Lav: Vo mare ga humari fir
+28/02/2025, 3:21 pm - Lav: Bol nisarg naker aa tane heran j karshe
+28/02/2025, 3:22 pm - Nisarg (Red & White): Kidhu ne sir e month pa6i <This message was edited>
+28/02/2025, 3:23 pm - Nisarg (Red & White): Lakhvanu su boli gaya sir.?
+28/02/2025, 3:27 pm - Lav: NLP nu assignment lakhvanu che
+28/02/2025, 3:27 pm - Lav: Ha congratulations
+28/02/2025, 3:27 pm - Lav: 😂
+28/02/2025, 3:28 pm - Lav: https://docs.google.com/document/d/1CCD1hGlOZ2HpOceWoBc-GAEWgUIlqRUuJzqkXxPmxqA/edit?usp=drivesdk
+28/02/2025, 3:43 pm - Lav: <Media omitted>
+28/02/2025, 3:43 pm - Lav: <Media omitted>
+28/02/2025, 3:43 pm - Lav: <Media omitted>
+28/02/2025, 3:43 pm - Lav: <Media omitted>
+28/02/2025, 3:57 pm - Prisha: <Media omitted>
+28/02/2025, 4:03 pm - Nisarg (Red & White): Permission nahi hai na esliye open nai ho raha hoga
+28/02/2025, 4:03 pm - Prisha: 🥺🥺🥺
+01/03/2025, 11:41 am - Lav: 12:10
+01/03/2025, 11:41 am - Lav: 12 vage start thashe kadach last 12:10 hashe
+01/03/2025, 11:42 am - Nisarg (Red & White): Ok
+01/03/2025, 12:21 pm - Prisha: Mena ek do wrong kiya ab nhi toh usko pata chal jaiga chatgpt😂😂
+01/03/2025, 12:28 pm - Nisarg (Red & White): Same ...27/30
+03/03/2025, 1:49 pm - Nisarg (Red & White): https://drive.google.com/drive/folders/1ABFkOVBAg-hIrIdoKZ4wbqrSYOuRjJyP?usp=sharing
+03/03/2025, 2:15 pm - Prisha: 10 marks
+03/03/2025, 2:22 pm - Lav: https://chatgpt.com/share/67c56dad-2f9c-8000-802a-1d27232c5fcd
+03/03/2025, 2:38 pm - Prisha: @919925532093 kya kar raha hai tu
+03/03/2025, 2:38 pm - Prisha: Dost I miss u 🥺
+03/03/2025, 3:39 pm - Lav: SQL 1
+03/03/2025, 3:39 pm - Lav: Power bi 1
+03/03/2025, 3:40 pm - Lav: supervised - 2
+03/03/2025, 3:40 pm - Lav: Unsupervised 2
+03/03/2025, 3:40 pm - Lav: Deep Learning ann - 1 cnn -1 rnn - 1
+Use Transfer lerning if possible <This message was edited>
+03/03/2025, 3:40 pm - Lav: NLP 1
+03/03/2025, 3:41 pm - Lav: Data visualization - 1 (data analysis)
+03/03/2025, 3:46 pm - Prisha: https://www.instagram.com/priyal.py?igsh=MTlydDJicXpwbmdlcA==
+03/03/2025, 4:38 pm - Hitesh: College yrr 😅😂
+03/03/2025, 4:38 pm - Hitesh: Same yrr 😅
+28/03/2025, 11:43 am - Lav: Aje Time 02:00 PM
+28/03/2025, 11:43 am - Nisarg (Red & White): Me online aaunga
+28/03/2025, 11:43 am - Lav: Prisha
+28/03/2025, 11:43 am - Lav: ?
+28/03/2025, 12:57 pm - Lav: aj lecture nahi hai and Monday compulsory 2 hr. offlice avanu che sir aa kidhu
+28/03/2025, 12:58 pm - Lav: offline*
+28/03/2025, 12:58 pm - Nisarg (Red & White): Kya huaa achanak.!!
+28/03/2025, 1:00 pm - Lav: ky ny prisha be online avani hati to me kidhu hu be online avu chu sir t sir key online ma ny maja ave aj no lecture cancle kari Monday offline 2 hr. nu ky de badha ne
+28/03/2025, 1:01 pm - Nisarg (Red & White): <Media omitted>

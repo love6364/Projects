@@ -1,0 +1,6 @@
+wordcloud
+pandas
+matplotlib
+streamlit
+plotly
+emoji

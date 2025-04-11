@@ -1,0 +1,2 @@
+streamlit
+bart-large-cnn (Huggingface API)

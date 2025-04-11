@@ -1,0 +1,9 @@
+pandas
+numpy
+regex
+nltk
+matplotlib
+seaborn
+wrodcloud
+sklearn
+pickle
